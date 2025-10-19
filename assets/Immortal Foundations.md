@@ -133,17 +133,19 @@
 -   Grasp of Ninefold Heaven
 -   Position Arising from Entanglement
 -   Burning Annihilation
--   Concordant Conquest
+-   March of Peace
 
 ## Merging Fire - 合火 (hé huǒ)
 
 -   Life-Ending Expulsion
+-   Seize amidst Peril
 
 ## Molten Fire - 阳火 (yáng huǒ)
 
--   Concurrent-Risk Seizure
 -   Peace Through Concealment
 -   Sire of the High Mounds
+-   Receiving the Blazing Flute
+-   Molten Fiend Fire
 
 # Water Virtue
 

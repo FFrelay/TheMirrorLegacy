@@ -24728,7 +24728,7 @@
         "file": 1127
     },
     {
-        "en": "Concurrent-Risk Seizure",
+        "en": "Seize amidst Peril",
         "cn": "兼险夺",
         "pinyin": "Jiān Xiǎn Duó",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -25368,7 +25368,7 @@
         "file": 1140
     },
     {
-        "en": "Concordant Conquest",
+        "en": "March of Peace",
         "cn": "顺平征",
         "pinyin": "shùn píng zhēng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -29886,5 +29886,77 @@
         "type": "Place",
         "gender": null,
         "file": 1283
+    },
+    {
+        "en": "Guarded Glaze Molten Fire",
+        "cn": "守琉牡火",
+        "pinyin": "Shǒu Liú Mǔhuǒ",
+        "type": "Item",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "The vault locked by Harmonising holds no metal prize; since you are in the mortal world, why in seclusion lie",
+        "cn": "库须锁齐，宝藏非金，既在红尘，何必幽居",
+        "pinyin": "Kù xū suǒ qí, bǎozàng fēi jīn, jì zài hóngchén, hébì yōujū",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Profound Yang Administrative Sutra",
+        "cn": "玄阳离署经",
+        "pinyin": "Xuán Yáng Lí Shǔ Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Chariot of the Presiding Office",
+        "cn": "顾署舆",
+        "pinyin": "Gù Shǔ Yú",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Sutra of the Profound Sire and Heavenly Molten Fire",
+        "cn": "玄父天牡经",
+        "pinyin": "Xuán Fù Tiān Mǔ Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Receiving the Blazing Flute",
+        "cn": "受灴龠",
+        "pinyin": "Shòu Hōng Yuè",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Method of the Second Manifestation of Attaining Truth",
+        "cn": "次显应真法",
+        "pinyin": "Cì Xiǎn Yìng Zhēn Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Autumn Dew",
+        "cn": "秋时露",
+        "pinyin": "Qiū Shí Lù",
+        "type": "Item",
+        "gender": null,
+        "file": 1284
+    },
+    {
+        "en": "Nine Children Converging Feather",
+        "cn": "九子合羽",
+        "pinyin": "Jiǔ Zǐ Hé Yǔ",
+        "type": "Item",
+        "gender": null,
+        "file": 1284
     }
 ]
