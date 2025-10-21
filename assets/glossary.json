@@ -29958,5 +29958,29 @@
         "type": "Item",
         "gender": null,
         "file": 1284
+    },
+    {
+        "en": "Celestial Roaming Rampart Stone",
+        "cn": "天逍垣石",
+        "pinyin": "Tiān Xiāoyuán Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1285
+    },
+    {
+        "en": "Yin Shade",
+        "cn": "阴神",
+        "pinyin": "yīn shén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1285
+    },
+    {
+        "en": "Yang Fu",
+        "cn": "杨馥",
+        "pinyin": "Yáng Fù",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1286
     }
 ]
