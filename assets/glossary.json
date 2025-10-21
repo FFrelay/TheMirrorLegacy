@@ -1,21 +1,5 @@
 [
     {
-        "en": "Pure Land",
-        "cn": "帝剎",
-        "pinyin": "Dìchà",
-        "type": "Unknown",
-        "gender": null,
-        "file": 452
-    },
-    {
-        "en": "Scrutinizing Words",
-        "cn": "见查语",
-        "pinyin": "jiàn chá yǔ",
-        "type": "Unknown",
-        "gender": null,
-        "file": 835
-    },
-    {
         "en": "Way of Great Adoration",
         "cn": "慕法一道",
         "pinyin": "Mù Fǎ Yīdào",
@@ -157,7 +141,7 @@
         "pinyin": "lù shuǐ wǔ yuán fú yǔ xìng",
         "type": "Item",
         "gender": null,
-        "file": null
+        "file": 1133
     },
     {
         "en": "Mystic Realm of Manifesting Splendour",
@@ -192,14 +176,6 @@
         "file": null
     },
     {
-        "en": "Auxiliary Yang Marquis",
-        "cn": "辅阳",
-        "pinyin": "Fǔyáng",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": null
-    },
-    {
         "en": "Dongzhen Terrace",
         "cn": "洞真台",
         "pinyin": "Dòng Zhēn Tái",
@@ -222,14 +198,6 @@
         "type": "Concept/Term",
         "gender": null,
         "file": null
-    },
-    {
-        "en": "Yang Governance Ridge",
-        "cn": "阳司岭",
-        "pinyin": "yáng sī lǐng",
-        "type": "Place",
-        "gender": null,
-        "file": 1253
     },
     {
         "en": "Demon",
@@ -288,6 +256,14 @@
         "file": 1
     },
     {
+        "en": "Secret Annals of the Lunar Essence",
+        "cn": "月华纪要秘旨",
+        "pinyin": "Yuèhuá Jìyào Mìzhǐ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1
+    },
+    {
         "en": "Morning Mist",
         "cn": "晨蒙",
         "pinyin": "Chénméng",
@@ -299,7 +275,7 @@
         "en": "Mount Dali",
         "cn": "大黎山",
         "pinyin": "Dàlí Shān",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 2
     },
@@ -315,39 +291,167 @@
         "en": "Lijing",
         "cn": "黎泾",
         "pinyin": "Lí Jīng",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Meichi River",
+        "cn": "眉尺河",
+        "pinyin": "Méichǐ Hé",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Lijing Village",
+        "cn": "黎泾村",
+        "pinyin": "Líjīng Cūn",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Li Xiangping",
+        "cn": "李项平",
+        "pinyin": "Xiàng Píng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "Xiangping",
+        "cn": "项平",
+        "pinyin": "Xiàng Píng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "Li Yesheng",
+        "cn": "李叶生",
+        "pinyin": "Lǐ Yèshēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "Yesheng",
+        "cn": "叶生",
+        "pinyin": "Yèshēng",
+        "type": "Person",
+        "gender": "Male",
         "file": 2
     },
     {
         "en": "Li Chejing",
         "cn": "李尺泾",
         "pinyin": "Lǐ Chǐjīng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 3
     },
     {
         "en": "Li Tongya",
         "cn": "李通崖",
         "pinyin": "Lǐ Tōngyá",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 3
     },
     {
         "en": "Chejing",
         "cn": "尺泾",
         "pinyin": "Chǐ Jīng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 3
+    },
+    {
+        "en": "Tian Yun",
+        "cn": "田芸",
+        "pinyin": "Tián Yún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 3
+    },
+    {
+        "en": "Li Changhu",
+        "cn": "李长湖",
+        "pinyin": "Lǐ Chánghú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Changhu",
+        "cn": "长湖",
+        "pinyin": "Chánghú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Tongya",
+        "cn": "通崖",
+        "pinyin": "Tōngyá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Chejing",
+        "cn": "尺泾",
+        "pinyin": "Chǐjīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Mutian",
+        "cn": "木田",
+        "pinyin": "Mùtián",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Liu Linyun",
+        "cn": "柳林云",
+        "pinyin": "Liǔ Línyún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 3
+    },
+    {
+        "en": "Linyun",
+        "cn": "林云",
+        "pinyin": "Línyún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 3
+    },
+    {
+        "en": "Li Yecheng",
+        "cn": "李叶盛",
+        "pinyin": "Lǐ Yèshèng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 4
     },
     {
         "en": "Guli",
         "cn": "古黎",
         "pinyin": "Gǔlí",
-        "type": "Unknown",
+        "type": "Place",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "Guli Dao",
+        "cn": "古黎道",
+        "pinyin": "Gǔlí dào",
+        "type": "Place",
         "gender": null,
         "file": 4
     },
@@ -355,7 +459,7 @@
         "en": "Mount Yu",
         "cn": "余山",
         "pinyin": "Yú Shān",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 4
     },
@@ -373,6 +477,14 @@
         "pinyin": "Wèi",
         "type": "Unknown",
         "gender": null,
+        "file": 5
+    },
+    {
+        "en": "Han Wenxu",
+        "cn": "韩文许",
+        "pinyin": "Hán Wénxǔ",
+        "type": "Person",
+        "gender": "Male",
         "file": 5
     },
     {
@@ -412,6 +524,78 @@
         "cn": "位",
         "pinyin": "wèi",
         "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "Jade Stone",
+        "cn": "玉石",
+        "pinyin": "Yùshí",
+        "type": "Item",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "blue-grey mirror",
+        "cn": "青灰鉴子",
+        "pinyin": "qīng huī jiànzi",
+        "type": "Item",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "immortal destiny",
+        "cn": "仙缘",
+        "pinyin": "xiānyuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "reed marsh",
+        "cn": "芦苇荡",
+        "pinyin": "lúwěi dàng",
+        "type": "Place",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "lunar brilliance",
+        "cn": "月华",
+        "pinyin": "yuèhuá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "Supreme Moon Qi Nurturing Wheel",
+        "cn": "太月气养轮",
+        "pinyin": "Tài Yuè Qì Yǎng Lún",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "clan laws",
+        "cn": "宗族法度",
+        "pinyin": "zōngzú fǎdù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "ancestral hall",
+        "cn": "祠堂",
+        "pinyin": "cítáng",
+        "type": "Place",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "clan estate",
+        "cn": "族府",
+        "pinyin": "zúfǔ",
+        "type": "Place",
         "gender": null,
         "file": 6
     },
@@ -460,6 +644,286 @@
         "cn": "桓",
         "pinyin": "Huán",
         "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Chen Erniu",
+        "cn": "陈二牛",
+        "pinyin": "Chén Èrniú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Lichuankou",
+        "cn": "梨川口",
+        "pinyin": "Líchuān Kǒu",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Li Genshui",
+        "cn": "李根水",
+        "pinyin": "Lǐ Gēnshuǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Mr. Han",
+        "cn": "韩先生",
+        "pinyin": "Hán Xiānsheng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Li family",
+        "cn": "李家",
+        "pinyin": "Lǐ jiā",
+        "type": "Group",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Li Mutian",
+        "cn": "李木田",
+        "pinyin": "Lǐ Mùtián",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Xiao Ze",
+        "cn": "小泽",
+        "pinyin": "Xiǎo Zé",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "stone lock",
+        "cn": "石锁",
+        "pinyin": "shísuǒ",
+        "type": "Item",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "main courtyard",
+        "cn": "正院",
+        "pinyin": "zhèngyuàn",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "black carp",
+        "cn": "青鱼",
+        "pinyin": "qīngyú",
+        "type": "Creature",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "bluestone",
+        "cn": "青石",
+        "pinyin": "qīngshí",
+        "type": "Item",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Ren family",
+        "cn": "任家",
+        "pinyin": "Rèn jiā",
+        "type": "Group",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "medallion",
+        "cn": "鉴子",
+        "pinyin": "jiànzi",
+        "type": "Item",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "rear courtyard",
+        "cn": "后院",
+        "pinyin": "hòuyuàn",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "rear hall",
+        "cn": "后堂",
+        "pinyin": "hòutáng",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "spirit tablet",
+        "cn": "牌位",
+        "pinyin": "páiwèi",
+        "type": "Item",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "bluestone platform",
+        "cn": "青石台",
+        "pinyin": "qīngshí tái",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "blue-gray bronze mirror",
+        "cn": "青灰色铜镜",
+        "pinyin": "qīnghuīsè tóngjìng",
+        "type": "Artifact",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "aperture",
+        "cn": "窍",
+        "pinyin": "qiào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "spiritual qi of heaven and earth",
+        "cn": "天地灵气",
+        "pinyin": "tiāndì língqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "six wheels of Embyronic Breathing",
+        "cn": "胎息六轮",
+        "pinyin": "tāixī liù lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "six wheels",
+        "cn": "六轮",
+        "pinyin": "liù lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Qi Refining realm",
+        "cn": "练气期",
+        "pinyin": "liànqì qī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "minor spell art",
+        "cn": "小术",
+        "pinyin": "xiǎo shù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Golden Light Art",
+        "cn": "金光术",
+        "pinyin": "Jīnguāng Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Cleansing Art",
+        "cn": "净衣术",
+        "pinyin": "Jìngyī Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Water-Averting Technique",
+        "cn": "避水法",
+        "pinyin": "Bìshuǐ Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Evil-Dispelling Art",
+        "cn": "驱邪术",
+        "pinyin": "Qūxié Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Mind-Link Art",
+        "cn": "心络术",
+        "pinyin": "Xīnluò Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "six realms of cultivation",
+        "cn": "修仙六境",
+        "pinyin": "xiūxiān liù jìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Immortal Abode",
+        "cn": "仙府",
+        "pinyin": "xiānfǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Embyronic Breathing wheel-nourishing method",
+        "cn": "胎息养轮法",
+        "pinyin": "tāixī yǎnglún fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "spiritual sense",
+        "cn": "神识",
+        "pinyin": "shénshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "lunar brilliance power",
+        "cn": "月华之力",
+        "pinyin": "yuèhuá zhī lì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Profound Pearl Spirit-Ritual Art",
+        "cn": "玄珠祀灵术",
+        "pinyin": "Xuánzhū Sìlíng Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 7
     },
@@ -3926,6 +4390,14 @@
         "type": "Unknown",
         "gender": null,
         "file": 450
+    },
+    {
+        "en": "Pure Land",
+        "cn": "帝剎",
+        "pinyin": "Dìchà",
+        "type": "Unknown",
+        "gender": null,
+        "file": 452
     },
     {
         "en": "dharma realm",
@@ -11662,6 +12134,14 @@
         "type": "Person",
         "gender": "Male",
         "file": 834
+    },
+    {
+        "en": "Scrutinizing Words",
+        "cn": "见查语",
+        "pinyin": "jiàn chá yǔ",
+        "type": "Unknown",
+        "gender": null,
+        "file": 835
     },
     {
         "en": "Azure Profoundity",
@@ -26432,6 +26912,14 @@
         "file": 1176
     },
     {
+        "en": "Auxiliary Yang Marquis",
+        "cn": "辅阳",
+        "pinyin": "Fǔyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1177
+    },
+    {
         "en": "Moonlight Embracing Profundity Compendium",
         "cn": "月下揽玄秘藏",
         "pinyin": "Yuè xià Lǎn Xuán Mìzàng",
@@ -28614,6 +29102,14 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1252
+    },
+    {
+        "en": "Yang Governance Ridge",
+        "cn": "阳司岭",
+        "pinyin": "yáng sī lǐng",
+        "type": "Place",
+        "gender": null,
+        "file": 1253
     },
     {
         "en": "Hall of the High River",

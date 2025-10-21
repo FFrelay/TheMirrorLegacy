@@ -1,17 +1,37 @@
 [
-  {
-    "filestart": 658,
-    "fileend": 846,
-    "name": "volume5_658_846"
-  },
-  {
-    "filestart": 847,
-    "fileend": 1097,
-    "name": "volume6_847_1097"
-  },
-  {
-    "filestart": 1098,
-    "fileend": 1282,
-    "name": "volume7_1098_1282"
-  }
+    {
+        "filestart": 1,
+        "fileend": 88,
+        "name": "The Mirror Legacy (Vol. 1: The Mirror In The River)"
+    },
+    {
+        "filestart": 89,
+        "fileend": 321,
+        "name": "The Mirror Legacy (Vol. 2: Long Whale Under The Waning Moon)"
+    },
+    {
+        "filestart": 322,
+        "fileend": 473,
+        "name": "The Mirror Legacy (Vol. 3: Journey Of Serpent Dragon and Rainbow)"
+    },
+    {
+        "filestart": 474,
+        "fileend": 616,
+        "name": "The Mirror Legacy (Vol. 4: Where The Dissipating Gleam of Metal Meets a Floating White)"
+    },
+    {
+        "filestart": 617,
+        "fileend": 846,
+        "name": "The Mirror Legacy (Vol. 5: The Light Beyong the Dying Night)"
+    },
+    {
+        "filestart": 847,
+        "fileend": 1097,
+        "name": "The Mirror Legacy (Vol. 6)"
+    },
+    {
+        "filestart": 1098,
+        "fileend": 1286,
+        "name": "The Mirror Legacy (Vol. 7)"
+    }
 ]
