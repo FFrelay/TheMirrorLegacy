@@ -4018,7 +4018,7 @@
     {
         "en": "Merging Fire",
         "cn": "并火",
-        "pinyin": "Bìnghuǒ",
+        "pinyin": "bìng huǒ",
         "type": "Unknown",
         "gender": null,
         "file": 409
@@ -10672,7 +10672,7 @@
         "file": 799
     },
     {
-        "en": "Auxiliary Position",
+        "en": "Surplus Position",
         "cn": "余位",
         "pinyin": "yúwèi",
         "type": "Unknown",
@@ -15456,7 +15456,7 @@
         "file": 914
     },
     {
-        "en": "Great Karmic Affinity",
+        "en": "great karmic affinity",
         "cn": "大缘法",
         "pinyin": "Dà yuán fǎ",
         "type": "Unknown",
@@ -30478,5 +30478,197 @@
         "type": "Person",
         "gender": "Unknown",
         "file": 1286
+    },
+    {
+        "en": "Whole Pill Has Supplement",
+        "cn": "全丹有补",
+        "pinyin": "Quándān yǒu bǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1287
+    },
+    {
+        "en": "Celestial Yang Profound Fire Robe",
+        "cn": "天阳玄火衣",
+        "pinyin": "Tiānyáng Xuánhuǒ Yī",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1287
+    },
+    {
+        "en": "Governing Yang",
+        "cn": "主阳",
+        "pinyin": "Zhǔ Yáng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1287
+    },
+    {
+        "en": "Converging Fire",
+        "cn": "敛火",
+        "pinyin": "Liǎn Huǒ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1287
+    },
+    {
+        "en": "Imperial Radiance",
+        "cn": "敕辉",
+        "pinyin": "Chì Huī",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1287
+    },
+    {
+        "en": "Revolving Purple",
+        "cn": "斡动紫",
+        "pinyin": "wò dòng zǐ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Rhythm of Enacting Might",
+        "cn": "律演威",
+        "pinyin": "lǜ yǎn wēi",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Smiting the Sealed Altar",
+        "cn": "伐封坛",
+        "pinyin": "fá fēng tán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Spring of Still-Bursting Flame",
+        "cn": "渟迸焰泉",
+        "pinyin": "tíng bèng yàn quán",
+        "type": "Place",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Crooked Stone Peak",
+        "cn": "曲石峰",
+        "pinyin": "qū shí fēng",
+        "type": "Place",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Profound Creation Peak",
+        "cn": "玄成峰",
+        "pinyin": "xuán chéng fēng",
+        "type": "Place",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "lake province",
+        "cn": "湖州",
+        "pinyin": "Húzhōu",
+        "type": "Place",
+        "gender": null,
+        "file": 1288
+    },
+    {
+        "en": "Molten Fiend Fire",
+        "cn": "牡煞火",
+        "pinyin": "Mǔshàhuǒ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1289
+    },
+    {
+        "en": "Imperial Command Scripture for Mortals to Awaken Reverence",
+        "cn": "帝敕令凡人觉崇经",
+        "pinyin": "Dì Chìlìng Fánrén Jué Chóng Jīng",
+        "type": "Item",
+        "gender": null,
+        "file": 1289
+    },
+    {
+        "en": "Xiao Fengqi",
+        "cn": "萧逢骑",
+        "pinyin": "Xiāo Féngqí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1289
+    },
+    {
+        "en": "Double Radiance Fire Scripture",
+        "cn": "重光明火经",
+        "pinyin": "Chóngguāng Mínghuǒ Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1289
+    },
+    {
+        "en": "Abode of Resentment",
+        "cn": "怨居",
+        "pinyin": "Yuàn Jū",
+        "type": "Place",
+        "gender": null,
+        "file": 1290
+    },
+    {
+        "en": "Diagram of Orthodox Thunder Transformation",
+        "cn": "正雷堪变图",
+        "pinyin": "Zhèng Léi Kān Biàn Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1291
+    },
+    {
+        "en": "Starling Thunder Palace",
+        "cn": "鸲雷宫",
+        "pinyin": "Qúléi Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1291
+    },
+    {
+        "en": "thunder method",
+        "cn": "雷法",
+        "pinyin": "Léifǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1291
+    },
+    {
+        "en": "Punishment Thunder",
+        "cn": "罚雷",
+        "pinyin": "Fá Léi",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1291
+    },
+    {
+        "en": "Chen Taojing",
+        "cn": "陈涛惊",
+        "pinyin": "Chén Tāojīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1292
+    },
+    {
+        "en": "Serpent-Suppressing Temple",
+        "cn": "镇虺观",
+        "pinyin": "Zhènhuǐ Guàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Azure Peril Cape",
+        "cn": "青险蓑",
+        "pinyin": "Qīngxiǎn Suō",
+        "type": "Item",
+        "gender": null,
+        "file": 1292
     }
 ]

@@ -277,6 +277,15 @@
 
 # Three Lightnings
 
+## Celestial Thunder
+
+-   Revolving Purple - 斡动紫 (wò dòng zǐ)
+
+## Profound Thunder
+
+-   Rhythm of Enacting Might - 律演威 (lǜ yǎn wēi)
+-   Smiting the Sealed Altar - 伐封坛 (fá fēng tán)
+
 ## Primodial Magnestism
 
 -   Baleful Lord's Rite/Shedding the Malice Embryo
