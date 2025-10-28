@@ -1,6 +1,6 @@
 # The Mirror Legacy (玄鉴仙族 | Xuanjian Immortal Clan) - English Translation
 
-Welcome to the unofficial fan translation repository for **The Mirror Legacy**! This project is focused on providing high-quality English translations for the later volumes of the novel.
+Welcome to the unofficial fan translation repository for **The Mirror Legacy**! This project is focused on providing high-quality English translations of the novel.
 
 ## About the Novel
 
@@ -55,7 +55,7 @@ We welcome all contributions! This is a community project, and we value any help
 
 If you find a typo, grammatical error, broken link, or a mistranslation, please let us know! You can report issues in two main ways:
 
--   **Discord Server (Preferred):** You can join **[The Mirror Legacy Discord Server (Unofficial)]([YOUR_DISCORD_INVITE_LINK_HERE])** and report the issue in the appropriate channel.
+-   **Discord Server (Preferred):** You can join **[The Mirror Legacy Discord Server (Unofficial)](https://discord.gg/CbKjzaMh5r)** and report the issue in the appropriate channel.
 -   **GitHub Issues:** Another way for us to track bugs is by [**opening an Issue**](https://github.com/ThunderGod95/TheMirrorLegacy/issues) directly in this repository.
 
 When reporting an issue (on either platform), please try to:
@@ -67,12 +67,12 @@ When reporting an issue (on either platform), please try to:
 
 ### 2. Suggest Terminology
 
-We maintain a [**Glossary.md**](./assets/glossary.md) file to keep key terms (names, places, cultivation ranks, techniques) consistent.
+We maintain a [**Glossary**](./assets/glossary.json) file to keep key terms (names, places, cultivation ranks, techniques) consistent.
 If you have a suggestion for a term, you can:
 
 1.  [Open an Issue](https://github.com/ThunderGod95/TheMirrorLegacy/issues) to discuss the term.
-2.  Discuss it on the [Discord Server]([YOUR_DISCORD_INVITE_LINK_HERE]).
-3.  **(Advanced)** Submit a Pull Request to edit the `Glossary.md` file directly.
+2.  Discuss it on the [Discord Server](https://discord.gg/CbKjzaMh5r).
+3.  **(Advanced)** Submit a Pull Request to edit the `Glossary` file directly.
 
 ---
 
