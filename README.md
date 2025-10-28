@@ -1,23 +1,21 @@
 # The Mirror Legacy (玄鉴仙族 | Xuanjian Immortal Clan) - English Translation
 
-![[The Mirror Legacy Official Cover]]([image_url])
-
 Welcome to the unofficial fan translation repository for **The Mirror Legacy**! This project is focused on providing high-quality English translations for the later volumes of the novel.
 
 ## About the Novel
 
-* **Original Title:** 玄鉴仙族
-* **Author:** Ji Yueren (季越人)
-* **Genre:** Action, Drama, Martial Arts, Mystery, Seinen, Tragedy, Xianxia.
-* **Original Source:** [[Qidian]](https://www.qidian.com/book/1035420986/)
+-   **Original Title:** 玄鉴仙族
+-   **Author:** Ji Yueren (季越人)
+-   **Genre:** Action, Drama, Martial Arts, Mystery, Seinen, Tragedy, Xianxia.
+-   **Original Source:** [[Qidian]](https://www.qidian.com/book/1035420986/)
 
 ### Translation Scope & Status
 
 This repository **does not contain the full novel**. It is a fan translation focusing on the following volumes:
 
-* **Volume 5:** Complete
-* **Volume 6:** Complete
-* **Volume 7:** Ongoing
+-   **Volume 5:** Complete
+-   **Volume 6:** Complete
+-   **Volume 7:** Ongoing
 
 **Overall Status:** Ongoing
 
@@ -31,7 +29,7 @@ There are three ways to read this translation:
 
 You can read the individual chapters directly in this repository. All translated chapters (starting from Volume 5) are located in the `translations` folder.
 
-* [**Browse All Chapters**](./translations/)
+-   [**Browse All Chapters**](./translations/)
 
 ### 2. Download Ebooks (Official Releases)
 
@@ -45,7 +43,7 @@ This is the recommended way to download. We compile completed volumes (and major
 
 Alternatively, the latest compiled ebook files are also stored directly in the `dist` (distribution) folder of this repository.
 
-* [**Browse Ebook Files**](./dist/)
+-   [**Browse Ebook Files**](./dist/)
 
 ---
 
@@ -57,19 +55,21 @@ We welcome all contributions! This is a community project, and we value any help
 
 If you find a typo, grammatical error, broken link, or a mistranslation, please let us know! You can report issues in two main ways:
 
-* **Discord Server (Preferred):** You can join **[The Mirror Legacy Discord Server (Unofficial)]([YOUR_DISCORD_INVITE_LINK_HERE])** and report the issue in the appropriate channel.
-* **GitHub Issues:** Another way for us to track bugs is by [**opening an Issue**](https://github.com/ThunderGod95/TheMirrorLegacy/issues) directly in this repository.
+-   **Discord Server (Preferred):** You can join **[The Mirror Legacy Discord Server (Unofficial)]([YOUR_DISCORD_INVITE_LINK_HERE])** and report the issue in the appropriate channel.
+-   **GitHub Issues:** Another way for us to track bugs is by [**opening an Issue**](https://github.com/ThunderGod95/TheMirrorLegacy/issues) directly in this repository.
 
 When reporting an issue (on either platform), please try to:
-* Use a clear title or summary (e.g., "Typo in V5, Chapter 15").
-* Include the volume and chapter number.
-* Quote the incorrect sentence.
-* Provide the correction if you know it.
+
+-   Use a clear title or summary (e.g., "Typo in V5, Chapter 15").
+-   Include the volume and chapter number.
+-   Quote the incorrect sentence.
+-   Provide the correction if you know it.
 
 ### 2. Suggest Terminology
 
 We maintain a [**Glossary.md**](./assets/glossary.md) file to keep key terms (names, places, cultivation ranks, techniques) consistent.
 If you have a suggestion for a term, you can:
+
 1.  [Open an Issue](https://github.com/ThunderGod95/TheMirrorLegacy/issues) to discuss the term.
 2.  Discuss it on the [Discord Server]([YOUR_DISCORD_INVITE_LINK_HERE]).
 3.  **(Advanced)** Submit a Pull Request to edit the `Glossary.md` file directly.
@@ -78,7 +78,7 @@ If you have a suggestion for a term, you can:
 
 ## Disclaimer
 
-This is a **fan translation** project. All copyrights for *The Mirror Legacy* belong to the original author, **Ji Yueren (季越人)**. The translation is done by fans for fans and is not for any commercial purpose.
+This is a **fan translation** project. All copyrights for _The Mirror Legacy_ belong to the original author, **Ji Yueren (季越人)**. The translation is done by fans for fans and is not for any commercial purpose.
 
 If you enjoy the novel, please support the author by purchasing the original work or supporting them on their official platform if you are able.
 
