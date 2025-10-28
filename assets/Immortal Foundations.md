@@ -293,3 +293,7 @@
 # Unknown
 
 -   Eye of Galloping Heart
+
+# Way of Sword
+
+-   Nurturing the Azure Aether
