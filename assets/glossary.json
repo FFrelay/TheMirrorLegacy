@@ -219,8 +219,8 @@
         "en": "Li Qinghong",
         "cn": "李清虹",
         "pinyin": "Lǐ Qīnghóng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 655
     },
     {
@@ -259,7 +259,7 @@
         "en": "Lingu",
         "cn": "邻谷",
         "pinyin": "Lín Gǔ",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 655
     },
@@ -275,8 +275,8 @@
         "en": "Li Xizhi",
         "cn": "李曦治",
         "pinyin": "Lǐ Xīzhì",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 655
     },
     {
@@ -811,8 +811,8 @@
         "en": "Si Tongyi",
         "cn": "司通仪",
         "pinyin": "Sī Tōngyí",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 656
     },
     {
@@ -1507,16 +1507,16 @@
         "en": "Undefeated King of Brightness",
         "cn": "胜名尽明王",
         "pinyin": "Shèngmíngjìn Míng Wáng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 659
     },
     {
         "en": "Kan Xuyu",
         "cn": "阚絮雨",
         "pinyin": "Kàn Xùyǔ",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 659
     },
     {
@@ -3480,7 +3480,7 @@
         "file": 677
     },
     {
-        "en": "Great River and Grand Mound Scripture",
+        "en": "Great River and Grand Tomb Scripture",
         "cn": "江河大陵经",
         "pinyin": "Jiānghé Dàlíng Jīng",
         "type": "Unknown",
@@ -4523,7 +4523,7 @@
         "en": "Gao",
         "cn": "高家",
         "pinyin": "Gāo jiā",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 693
     },
@@ -4531,15 +4531,15 @@
         "en": "Dangjiang",
         "cn": "荡江",
         "pinyin": "Dàngjiāng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 693
     },
     {
         "en": "Bright Radiant Yang Imperial Union Essence",
         "cn": "明华煌阳御交性",
         "pinyin": "Mínghuá Huángyáng Yùjiāoxìng",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 693
     },
@@ -5721,17 +5721,9 @@
     },
     {
         "en": "Mushroom Forest Plains",
-        "cn": "蕈林原",
-        "pinyin": "Xùnlín Yuán",
-        "type": "Unknown",
-        "gender": null,
-        "file": 707
-    },
-    {
-        "en": "Mushroom Forest Plains",
         "cn": "蕈林",
         "pinyin": "Xùnlín",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 707
     },
@@ -5739,16 +5731,16 @@
         "en": "Fei Tongyu",
         "cn": "费桐玉",
         "pinyin": "Fèi Tóngyù",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 707
     },
     {
         "en": "Fei Qingyi",
         "cn": "费清伊",
         "pinyin": "Fèi Qīngyī",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 707
     },
     {
@@ -5756,11 +5748,11 @@
         "cn": "清乙",
         "pinyin": "Qīngyǐ",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Female",
         "file": 707
     },
     {
-        "en": "State of Xu",
+        "en": "Xu State",
         "cn": "徐国",
         "pinyin": "Xú Guó",
         "type": "Unknown",
@@ -6920,7 +6912,7 @@
         "file": 734
     },
     {
-        "en": "Lingyu Gate",
+        "en": "Tomb Ravine Gate",
         "cn": "陵峪门",
         "pinyin": "Líng Yù Mén",
         "type": "Unknown",
@@ -9475,7 +9467,7 @@
         "en": "Yuanxing Peak",
         "cn": "远刑峰",
         "pinyin": "Yuǎnxíng Fēng",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 812
     },
@@ -13224,10 +13216,10 @@
         "file": 880
     },
     {
-        "en": "Please Lord Take This Golden Talisman",
+        "en": "Monarch's Golden Might Talisman",
         "cn": "请君执金符",
         "pinyin": "Qǐng Jūn Zhí Jīn Fú",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 880
     },
@@ -23768,7 +23760,7 @@
         "file": 1096
     },
     {
-        "en": "Watersign Ridge",
+        "en": "Chengshui Tomb",
         "cn": "称水陵",
         "pinyin": "Chēngshuǐlíng",
         "type": "Place",
@@ -29440,7 +29432,7 @@
         "file": 1266
     },
     {
-        "en": "Linxiang Pavilion",
+        "en": "Overlook Township Pavilion",
         "cn": "临乡阁",
         "pinyin": "Línxiāng Gé",
         "type": "Place",
@@ -29475,7 +29467,7 @@
         "en": "Hall of Assisting Providence",
         "cn": "观襄堂",
         "pinyin": "Guānxiāng Táng",
-        "type": "Place",
+        "type": "Artifact",
         "gender": null,
         "file": 1267
     },
@@ -29491,7 +29483,7 @@
         "en": "Profound Hall of Bright Yang",
         "cn": "明阳玄殿",
         "pinyin": "Míngyáng Xuán Diàn",
-        "type": "Place",
+        "type": "Artifact",
         "gender": null,
         "file": 1268
     },
@@ -29552,7 +29544,7 @@
         "file": 1270
     },
     {
-        "en": "Chun City",
+        "en": "Pure City",
         "cn": "淳城",
         "pinyin": "Chún Chéng",
         "type": "Place",
@@ -29792,7 +29784,7 @@
         "file": 1274
     },
     {
-        "en": "Bright Swallow Palace",
+        "en": "Ming Yan Palace",
         "cn": "明燕宫",
         "pinyin": "Míng Yàn Gōng",
         "type": "Place",
@@ -29952,7 +29944,7 @@
         "file": 1280
     },
     {
-        "en": "Great Ling River",
+        "en": "Great Tomb River",
         "cn": "大陵川",
         "pinyin": "Dà Líng Chuān",
         "type": "Place",
@@ -29960,7 +29952,7 @@
         "file": 1280
     },
     {
-        "en": "Great Ling Kingdom",
+        "en": "Great Tomb Kingdom",
         "cn": "大陵国",
         "pinyin": "Dà Líng Guó",
         "type": "Place",
@@ -30035,12 +30027,12 @@
         "en": "Governing Yang Hall",
         "cn": "督阳殿",
         "pinyin": "dū yáng diàn",
-        "type": "Place",
+        "type": "Artifact",
         "gender": null,
         "file": 1281
     },
     {
-        "en": "lake province",
+        "en": "lake prefecture",
         "cn": "湖州",
         "pinyin": "Húzhōu",
         "type": "Place",
@@ -30208,7 +30200,7 @@
         "file": 1286
     },
     {
-        "en": "Profound Creation Peak",
+        "en": "Profound Accomplishment Peak",
         "cn": "玄成峰",
         "pinyin": "xuán chéng fēng",
         "type": "Place",
@@ -30251,7 +30243,7 @@
         "en": "Abode of Resentment",
         "cn": "怨居",
         "pinyin": "Yuàn Jū",
-        "type": "Place",
+        "type": "Artifact",
         "gender": null,
         "file": 1288
     },
@@ -30304,7 +30296,7 @@
         "file": 1290
     },
     {
-        "en": "Yinxiang",
+        "en": "Yin Alley",
         "cn": "殷巷",
         "pinyin": "Yīnxiàng",
         "type": "Place",
