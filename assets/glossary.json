@@ -18320,14 +18320,6 @@
         "file": 987
     },
     {
-        "en": "Qunyi Archipelago",
-        "cn": "群夷",
-        "pinyin": "Qúnyí",
-        "type": "Place",
-        "gender": null,
-        "file": 987
-    },
-    {
         "en": "Hollow-heart Profound Mulberry",
         "cn": "空心玄桑",
         "pinyin": "kōngxīn xuánsāng",
@@ -30350,5 +30342,141 @@
         "type": "Place",
         "gender": null,
         "file": 1291
+    },
+    {
+        "en": "Hengzhang",
+        "cn": "衡漳",
+        "pinyin": "Héngzhāng",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Spirit's Descent Pass",
+        "cn": "神俯",
+        "pinyin": "Shén Fǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Youyan",
+        "cn": "幽燕",
+        "pinyin": "Yōuyàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Central Monarch",
+        "cn": "中央之君",
+        "pinyin": "Zhōngyāng zhī Jūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Liao Pass",
+        "cn": "辽关",
+        "pinyin": "Liáo Guān",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Chongyang",
+        "cn": "崇阳",
+        "pinyin": "Chóngyáng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1292
+    },
+    {
+        "en": "Changming",
+        "cn": "长明",
+        "pinyin": "Chángmíng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1292
+    },
+    {
+        "en": "Gao Xun",
+        "cn": "高阍",
+        "pinyin": "Gāo Xūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1292
+    },
+    {
+        "en": "Yin Zheng",
+        "cn": "尹铮",
+        "pinyin": "Yǐn Zhēng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1292
+    },
+    {
+        "en": "Dao Ping",
+        "cn": "道枰",
+        "pinyin": "Dào Píng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1292
+    },
+    {
+        "en": "Yong-Long",
+        "cn": "雍陇",
+        "pinyin": "Yōng Lǒng",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Great Tomb Heaven",
+        "cn": "大陵天",
+        "pinyin": "Dàlíng Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Pre-Altar, Non-Liangli",
+        "cn": "拜坛未接量力",
+        "pinyin": "Bài Tán Wèi Jiē Liànglì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Broad-Aspect, Sandalwood-Clad Son",
+        "cn": "广相檀迦子",
+        "pinyin": "Guǎng Xiàng Tánjiā Zǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Realm Lord",
+        "cn": "界主",
+        "pinyin": "Jièzhǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1292
+    },
+    {
+        "en": "Murong Weidian",
+        "cn": "慕容尾殿",
+        "pinyin": "Mùróng Wěidiàn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1292
+    },
+    {
+        "en": "Guanqian Profound Dao",
+        "cn": "关前玄道",
+        "pinyin": "Guān Qián Xuán Dào",
+        "type": "Group",
+        "gender": null,
+        "file": 1292
     }
 ]
