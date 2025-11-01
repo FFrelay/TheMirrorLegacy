@@ -336,7 +336,7 @@
         "file": 655
     },
     {
-        "en": "Heavenly Glow",
+        "en": "Sky Glow",
         "cn": "霞光",
         "pinyin": "Xiáguāng",
         "type": "Concept/Term",
@@ -408,7 +408,7 @@
         "file": 655
     },
     {
-        "en": "Heavenly Glow Dawn Cloudliner",
+        "en": "Sky Glow Dawn Cloudliner",
         "cn": "霞光云船",
         "pinyin": "Xiáguāng Yúnchuán",
         "type": "Unknown",
@@ -443,7 +443,7 @@
         "en": "Pingya Island",
         "cn": "平崖洲",
         "pinyin": "Píngyá Zhōu",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 655
     },
@@ -451,7 +451,7 @@
         "en": "Pingya Island",
         "cn": "湖中洲",
         "pinyin": "Húzhōngzhōu",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 655
     },
@@ -459,7 +459,7 @@
         "en": "Flowing Sun Refraction",
         "cn": "流日折光",
         "pinyin": "Liúrì Zhéguāng",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 655
     },
@@ -483,7 +483,7 @@
         "en": "Bone Tree Yin Radiance Branch",
         "cn": "骨树阴华枝",
         "pinyin": "Gǔshù Yīnhuá Zhī",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 655
     },
@@ -507,7 +507,7 @@
         "en": "Juque Palace",
         "cn": "巨阙庭",
         "pinyin": "Jùquē Tíng",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 655
     },
@@ -515,7 +515,7 @@
         "en": "Nine-Stamen Spirit Lily",
         "cn": "九蕊灵萱",
         "pinyin": "Jiǔruǐ Língxuān",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 655
     },
@@ -723,7 +723,7 @@
         "en": "Merging Fire",
         "cn": "合火",
         "pinyin": "hé huǒ",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 656
     },
@@ -731,15 +731,15 @@
         "en": "Li Yuanqin",
         "cn": "李渊钦",
         "pinyin": "Lǐ Yuānqīn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 656
     },
     {
         "en": "Rainbow Pierce",
         "cn": "朝引虹",
         "pinyin": "Cháo Yǐn Hóng",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 656
     },
@@ -747,7 +747,7 @@
         "en": "Rainbow Pierce Skyway",
         "cn": "彩彻云衢",
         "pinyin": "Cǎichè Yúnqú",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 656
     },
@@ -755,8 +755,8 @@
         "en": "White Ape",
         "cn": "白猿",
         "pinyin": "Bái Yuán",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 656
     },
     {
@@ -803,7 +803,7 @@
         "en": "Dawn Rayfish",
         "cn": "霞鳐",
         "pinyin": "Xiáyáo",
-        "type": "Unknown",
+        "type": "Creature",
         "gender": null,
         "file": 656
     },
@@ -819,7 +819,7 @@
         "en": "Deep Sea Radiant Essence",
         "cn": "深海地晞",
         "pinyin": "Shēnhǎi Dìxī",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 656
     },
@@ -827,23 +827,23 @@
         "en": "Elder White Ape",
         "cn": "白猿前辈",
         "pinyin": "Báiyuán Qiánbèi",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 656
     },
     {
         "en": "Lu Ken",
         "cn": "路垦",
         "pinyin": "Lù Kěn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 656
     },
     {
         "en": "Shen Clan",
         "cn": "沈氏",
         "pinyin": "Shěn Shì",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 656
     },
@@ -851,7 +851,7 @@
         "en": "Immortal Dao",
         "cn": "仙道",
         "pinyin": "Xiāndào",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -859,7 +859,7 @@
         "en": "Wu State",
         "cn": "吴国",
         "pinyin": "Wú guó",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 657
     },
@@ -875,7 +875,7 @@
         "en": "Spiritual Artifact",
         "cn": "灵器",
         "pinyin": "Língqì",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -883,7 +883,7 @@
         "en": "Sword Intent",
         "cn": "剑意",
         "pinyin": "jiànyì",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -891,7 +891,7 @@
         "en": "Purple Smoke",
         "cn": "紫烟",
         "pinyin": "Zǐ Yān",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 657
     },
@@ -899,7 +899,7 @@
         "en": "Purple Smoke Gate",
         "cn": "紫烟门",
         "pinyin": "Zǐyān Mén",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 657
     },
@@ -907,15 +907,15 @@
         "en": "Shangyuan",
         "cn": "上元",
         "pinyin": "Shàngyuán",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 657
     },
     {
         "en": "Jiangnan",
         "cn": "江南",
         "pinyin": "Jiāngnán",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 657
     },
@@ -923,7 +923,7 @@
         "en": "Jiangbei",
         "cn": "江北",
         "pinyin": "Jiāngběi",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 657
     },
@@ -931,7 +931,7 @@
         "en": "Luoxia",
         "cn": "落霞",
         "pinyin": "luò xiá",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 657
     },
@@ -939,7 +939,7 @@
         "en": "Mount Luoxia",
         "cn": "落霞山",
         "pinyin": "Luòxiá Shān",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 657
     },
@@ -947,7 +947,7 @@
         "en": "Monarch",
         "cn": "君",
         "pinyin": "jūn",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -955,7 +955,7 @@
         "en": "True Monarch",
         "cn": "真君",
         "pinyin": "Zhēnjūn",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -963,7 +963,7 @@
         "en": "Sword Gate",
         "cn": "剑门",
         "pinyin": "Jiànmén",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 657
     },
@@ -971,7 +971,7 @@
         "en": "Dragon Monarch",
         "cn": "龙君",
         "pinyin": "Lóngjūn",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 657
     },
@@ -979,8 +979,8 @@
         "en": "Kuaili",
         "cn": "蒯离",
         "pinyin": "Kuǎilí",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Unknown",
         "file": 657
     },
     {
@@ -1051,7 +1051,7 @@
         "en": "Jade Sea's Feather Dissolution Ground",
         "cn": "翰海解羽地",
         "pinyin": "Hànhǎi Jiěyǔ Dì",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 657
     },
@@ -1523,8 +1523,8 @@
         "en": "Zimu",
         "cn": "紫霂",
         "pinyin": "Zǐ Mù",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 659
     },
     {
@@ -4120,7 +4120,7 @@
         "file": 686
     },
     {
-        "en": "Guanyun Peak",
+        "en": "Crowncloud Peak",
         "cn": "冠云峰",
         "pinyin": "Guànyún Fēng",
         "type": "Place",
@@ -5280,7 +5280,7 @@
         "file": 701
     },
     {
-        "en": "Baijiang Creek",
+        "en": "White River Creek",
         "cn": "白江溪",
         "pinyin": "Báijiāng Xī",
         "type": "Place",
@@ -5328,7 +5328,7 @@
         "file": 701
     },
     {
-        "en": "Baiji",
+        "en": "Baekje",
         "cn": "百济",
         "pinyin": "Bǎijì",
         "type": "Place",
@@ -5560,7 +5560,7 @@
         "file": 705
     },
     {
-        "en": "Lake Xian",
+        "en": "Salt Lake",
         "cn": "咸湖",
         "pinyin": "Xián Hú",
         "type": "Place",
@@ -5728,7 +5728,7 @@
         "file": 707
     },
     {
-        "en": "Baihai Creek",
+        "en": "White Sea Creek",
         "cn": "白海溪",
         "pinyin": "Báihǎi Xī",
         "type": "Place",
@@ -5736,7 +5736,7 @@
         "file": 707
     },
     {
-        "en": "Baiye Creek",
+        "en": "White Ye Creek",
         "cn": "白邺溪",
         "pinyin": "Báiyè Xī",
         "type": "Place",
@@ -5744,7 +5744,7 @@
         "file": 707
     },
     {
-        "en": "Hanyun Peak",
+        "en": "Cold Cloud Peak",
         "cn": "寒云峰",
         "pinyin": "Hányún Fēng",
         "type": "Unknown",
@@ -5899,7 +5899,7 @@
         "en": "rear courtyard",
         "cn": "后院",
         "pinyin": "hòuyuàn",
-        "type": "Place",
+        "type": "Concept/Term",
         "gender": null,
         "file": 711
     },
@@ -6080,7 +6080,7 @@
         "file": 712
     },
     {
-        "en": "Xu Water",
+        "en": "Thread River",
         "cn": "绪水",
         "pinyin": "Xùshuǐ",
         "type": "Place",
@@ -6096,10 +6096,10 @@
         "file": 713
     },
     {
-        "en": "Xuanqin Baoyou",
+        "en": "Profound Bright Treasured Protection",
         "cn": "玄矝宝宥",
         "pinyin": "Xuánqín Bǎoyòu",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 713
     },
@@ -6107,16 +6107,16 @@
         "en": "Gongsun Bofan",
         "cn": "公孙柏范",
         "pinyin": "Gōngsūn Bǎifàn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 714
     },
     {
         "en": "Song Yunbai",
         "cn": "宋云白",
         "pinyin": "Sòng Yúnbái",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 714
     },
     {
@@ -6139,7 +6139,7 @@
         "en": "Shanji Prefecture",
         "cn": "山稽郡",
         "pinyin": "Shānjī Jùn",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 715
     },
@@ -6152,10 +6152,10 @@
         "file": 715
     },
     {
-        "en": "Wuzhu Gate",
+        "en": "Earth Bamboo Gate",
         "cn": "戊竹门",
         "pinyin": "Wùzhú Mén",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 715
     },
@@ -6163,7 +6163,7 @@
         "en": "Auspicious Qi",
         "cn": "瑞炁",
         "pinyin": "ruì qì",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 715
     },
@@ -6824,7 +6824,7 @@
         "file": 734
     },
     {
-        "en": "Gehu Peak",
+        "en": "Lakeview Peak",
         "cn": "隔湖峰",
         "pinyin": "Géhú Fēng",
         "type": "Place",
@@ -7171,7 +7171,7 @@
         "en": "Green Pine Supreme Yang",
         "cn": "青松太阳",
         "pinyin": "Qīngsōng Tàiyáng",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 742
     },
@@ -7179,7 +7179,7 @@
         "en": "Heavenly Oneness Essence Extraction Pill",
         "cn": "天一吐萃丹",
         "pinyin": "Tiānyī Tǔcuì Dān",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 742
     },
@@ -14784,18 +14784,18 @@
         "file": 918
     },
     {
-        "en": "Xipo Kingdom",
+        "en": "Pyu Kingdom",
         "cn": "西婆国",
         "pinyin": "Xīpó Guó",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 918
     },
     {
-        "en": "Great Suopo King",
+        "en": "Great Saha King",
         "cn": "大娑婆王",
         "pinyin": "Dà Suōpó Wáng",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 918
     },
@@ -15395,7 +15395,7 @@
         "en": "Poluoduo",
         "cn": "婆罗埵",
         "pinyin": "Póluódà",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 926
     },
@@ -15403,7 +15403,7 @@
         "en": "Formations Masters",
         "cn": "阵法仙师",
         "pinyin": "zhènfǎ xiān shī",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 926
     },
@@ -15411,7 +15411,7 @@
         "en": "Heavenly Pheasant Mystic-Attachment Array",
         "cn": "天雉玄附阵",
         "pinyin": "Tiān Zhì Xuán Fù Zhèn",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 926
     },
@@ -15419,7 +15419,7 @@
         "en": "Good Merit Register",
         "cn": "好功箓",
         "pinyin": "Hǎo Gōng Lù",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 926
     },
@@ -15427,7 +15427,7 @@
         "en": "Palace of Slumbering Li",
         "cn": "离眠殿",
         "pinyin": "Lí Mián Diàn",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 926
     },
@@ -15435,7 +15435,7 @@
         "en": "True Fire vein",
         "cn": "真火火脉",
         "pinyin": "Zhēnhuǒ huǒmài",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 926
     },
@@ -15443,7 +15443,7 @@
         "en": "True Fire snaps the pillar, yet bids Li to act. Four methods query nature, why speak of perfection!",
         "cn": "真火折柱，却请离行，四法问性，何谈臻极！",
         "pinyin": "Zhēnhuǒ zhé zhù, què qǐng lí xíng, sì fǎ wèn xìng, hé tán zhēn jí!",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 926
     },
@@ -15451,7 +15451,7 @@
         "en": "Embracing-Feather Uniting-Heart Pill",
         "cn": "抱羽合心丹",
         "pinyin": "Bào Yǔ Hé Xīn Dān",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 926
     },
@@ -15459,7 +15459,7 @@
         "en": "Red Pheasant Surging Li Flame",
         "cn": "红雉冲离焰",
         "pinyin": "Hóng Zhì Chōng Lí Yàn",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 926
     },
@@ -15467,7 +15467,7 @@
         "en": "Incinerating Radiant Fire of the Fold",
         "cn": "折焚离火",
         "pinyin": "Zhé Fén Lí Huǒ",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 927
     },
@@ -15475,7 +15475,7 @@
         "en": "Incinerating Radiant Fire",
         "cn": "焚离火",
         "pinyin": "Fén Lí Huǒ",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 927
     },
@@ -23664,7 +23664,7 @@
         "file": 1093
     },
     {
-        "en": "Baixiang Valley",
+        "en": "White Township Valley",
         "cn": "白乡谷",
         "pinyin": "Báixiāng Gǔ",
         "type": "Place",
@@ -28832,7 +28832,7 @@
         "file": 1253
     },
     {
-        "en": "Zanmen",
+        "en": "Zanmen Gate",
         "cn": "酂门",
         "pinyin": "Zānmén",
         "type": "Place",
@@ -30446,5 +30446,13 @@
         "type": "Group",
         "gender": null,
         "file": 1292
+    },
+    {
+        "en": "Chasm Cataclysm",
+        "cn": "鴻溝之變",
+        "pinyin": "Hónggōu zhī Biàn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1295
     }
 ]

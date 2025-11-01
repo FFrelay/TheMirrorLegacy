@@ -22,12 +22,22 @@ The following glossary terms have been updated for accuracy and consistency:
 | Dawn Qi (晞炁)                                     | Dry Qi                               |
 | Radiant Qi (华炁)                                  | Brilliant Qi                         |
 | Chunyi Dao (纯一道)                                | Pure One Dao                         |
-| Overlook Peak (过岭峰)                             | Guoling Peak                         |
-| Cold Cloud Peak (纯一道)                           | Hanyun Peak                          |
-| Crowncloud Peak (冠云峰)                           | Guanyun Peak                         |
+| Overlook Peak (过岭峰)                             | Ridge-Crossing Peak                  |
 | Still Earth (艮土)                                 | Bound Earth                          |
 | Upper Shaman (上巫)                                | High Shaman                          |
 | Heavenly Glow (霞光)                               | Sky Glow                             |
+| Baijiang (白江)                                    | White River                          |
+| Baihai (白海)                                      | White Sea                            |
+| Baiye (白邺)                                       | White Ye                             |
+| Baixiang (白乡)                                    | White Township                       |
+| Baiji (百济)                                       | Baekje                               |
+| Lake Xian (咸湖)                                   | Salt Lake                            |
+| Xu Water (绪水)                                    | Thread River                         |
+| Wuzhu Gate (戊竹门)                                | Earth Bamboo Gate                    |
+| Gehu Peak (隔湖峰)                                 | Lakeview Peak                        |
+| Xuanqin Baoyou (玄矝宝宥)                          | Profound Bright Treasured Protection |
+| Xipo Kingdom (西婆国)                              | Pyu Kingdom                          |
+| Great Suopo King (大娑婆王)                        | Great Saha King                      |
 
 ## In-Chapter Textual Changes
 
