@@ -106,7 +106,7 @@
 
 -   Stone-Embracing Slumber
 
-## Dawn Qi
+## Dry Qi
 
 -   Unending Dawnfire/Blazing Return
 -   Plea to Supplant the Night
@@ -166,6 +166,7 @@
 -   Darkening Clouds
 -   Holding the Ridge - 据岭中 (Jù Lǐng Zhōng)
 -   Grieving River Departure - 恨江去 (Hèn Jiāng Qù)
+-   Position Follows Peril/Entering the Pit's Abyss
 
 ## Valley Water - 牝水 (Pìnshuǐ)
 
@@ -182,7 +183,7 @@
 
 # Metal Vitue
 
-## Dui Metal - 兑金 (Duìjīn)
+## Reflecting Metal - 兑金 (Duìjīn)
 
 -   Position Follows Trust/Mutual Oblivion
 -   Palace of Retracted Killing
@@ -236,7 +237,7 @@
 
 # Earth Virtue - 土德 (Tǔdé)
 
-## Manifestations Earth
+## Proclaimation Earth
 
 -   Rite of the Sovereign Earth/World's Heart
 -   Luminous Dredging

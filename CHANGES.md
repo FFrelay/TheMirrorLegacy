@@ -19,6 +19,15 @@ The following glossary terms have been updated for accuracy and consistency:
 | Profound Creation Peak (玄成峰)                    | Profound Accomplishment Peak         |
 | Yinxiang (殷巷)                                    | Yin Alley                            |
 | Lingyu Gate (陵峪门)                               | Tomb Ravine Gate                     |
+| Dawn Qi (晞炁)                                     | Dry Qi                               |
+| Radiant Qi (华炁)                                  | Brilliant Qi                         |
+| Chunyi Dao (纯一道)                                | Pure One Dao                         |
+| Overlook Peak (过岭峰)                             | Guoling Peak                         |
+| Cold Cloud Peak (纯一道)                           | Hanyun Peak                          |
+| Crowncloud Peak (冠云峰)                           | Guanyun Peak                         |
+| Still Earth (艮土)                                 | Bound Earth                          |
+| Upper Shaman (上巫)                                | High Shaman                          |
+| Heavenly Glow (霞光)                               | Sky Glow                             |
 
 ## In-Chapter Textual Changes
 

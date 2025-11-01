@@ -1,11 +1,11 @@
 [
     {
-        "filestart": 658,
+        "filestart": 655,
         "fileend": 846,
-        "name": "The Mirror Legacy (Vol. 5: The Light Beyond the Dying Night)",
+        "title": "The Mirror Legacy (Vol. 5: The Light Beyond the Dying Night)",
         "position": 5,
-        "title": "The Mirror Legacy",
-        "author": "Ji Yueren (季越人)",
+        "series": "The Mirror Legacy",
+        "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
         "image": "./The Mirror Legacy (Cover).jpg"
@@ -13,21 +13,21 @@
     {
         "filestart": 847,
         "fileend": 1097,
-        "name": "The Mirror Legacy (Vol. 6: Where The True is Sought, The Immortal is Made)",
+        "title": "The Mirror Legacy (Vol. 6: Where The True is Sought, The Immortal is Made)",
         "position": 6,
-        "title": "The Mirror Legacy",
-        "author": "Ji Yueren (季越人)",
+        "series": "The Mirror Legacy",
+        "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
         "image": "./The Mirror Legacy (Cover).jpg"
     },
     {
         "filestart": 1098,
-        "fileend": 1292,
-        "name": "The Mirror Legacy (Vol. 7: The March Upon the Huai, The Crossing of the Ji)",
+        "fileend": 1294,
+        "title": "The Mirror Legacy (Vol. 7: The March Upon the Huai, The Crossing of the Ji)",
         "position": 7,
-        "title": "The Mirror Legacy",
-        "author": "Ji Yueren (季越人)",
+        "series": "The Mirror Legacy",
+        "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
         "image": "./The Mirror Legacy (Cover).jpg"

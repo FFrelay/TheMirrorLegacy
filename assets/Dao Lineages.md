@@ -16,14 +16,14 @@
 
 -   True Qi - 真炁 (zhēnqì)
 -   Pure Qi - 清炁 (qīngqì)
--   Radiant Qi - 华炁 (huáqì)
+-   Brilliant Qi - 华炁 (huáqì)
 -   Purple Qi - 紫炁 (zǐqì)
 -   Auspicious Qi - 瑞炁 (ruìqì)
 -   Cold Qi - 寒炁 (hán qì)
 -   Baleful Qi - 煞炁 / 邪炁 (shā qì / xié qì)
 -   Profound Qi - 邃炁 (suì qì)
 -   Exiled Qi - 谪炁 (zhé qì)
--   Dawn Qi - 晞炁 (xī qì)
+-   Dry Qi - 晞炁 (xī qì)
 -   Upper Rite - 上仪 (shàng yí)
 -   Lower Rite - 下仪 (xià yí)
 
@@ -39,7 +39,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 
 ## Shamanic Talisman/Three Shamans
 
--   Upper Shaman - 上巫 (shàng wū)
+-   High Shaman - 上巫 (shàng wū)
 -   Merging Owl - 并鸺 (bìng xiū)
 -   Jade True - 玉真 (yù zhēn)
 
@@ -87,7 +87,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 -   Proclaimation Earth - 宣土 (Xuān Tǔ)
 -   Returning Earth - 归土 (Guī Tǔ)
 -   Treasured Earth - 宝土 (Bǎo Tǔ)
--   Still Earth - 艮土 (Gèn Tǔ)
+-   Bound Earth - 艮土 (Gèn Tǔ)
 -   Wu Earth - 戊土 (Wù Tǔ)
 
 # Thunders/Surging Thunder
@@ -107,9 +107,9 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 -   Treasure Light - 宝光 (bǎo guāng)
 -   Wu Light - 戊光 (wù guāng)
 
-# Wu Light/Heavenly Glow System
+# Wu Light/Sky Glow System
 
--   Heavenly Glow - 霞光 (xiá guāng)
+-   Sky Glow - 霞光 (xiá guāng)
 -   Rainbow Glow - 虹霞 (hóngxiá)
 -   Morning Glow - 朝霞 (zhāo xiá)
 
