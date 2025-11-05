@@ -88,6 +88,10 @@
 
 # Twelve Qi
 
+## Pure Qi
+
+-   Floating Cloud Body - 浮云身
+
 ## Auspicious Qi - 瑞炁 (ruì qì)
 
 -   Good Merit Register/Scroll of Fortunate Attainments - 好功箓 (Hǎo Gōng Lù)

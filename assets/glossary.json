@@ -30534,5 +30534,77 @@
         "type": "Place",
         "gender": null,
         "file": 1296
+    },
+    {
+        "en": "Jade Azure Bracelet",
+        "cn": "玉青琢",
+        "pinyin": "Yù Qīng Zhuó",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1297
+    },
+    {
+        "en": "Jian Yan",
+        "cn": "蹇兖",
+        "pinyin": "Jiǎn Yǎn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1297
+    },
+    {
+        "en": "Cavern Reality Platform",
+        "cn": "洞真台",
+        "pinyin": "Dòng Zhēn Tái",
+        "type": "Place",
+        "gender": null,
+        "file": 1297
+    },
+    {
+        "en": "Great Radiance Golden Splendor",
+        "cn": "大离金熙光",
+        "pinyin": "Dà Lí Jīn Xī Guāng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1297
+    },
+    {
+        "en": "Heart-Resonance Precious Pearl",
+        "cn": "心韵宝珠",
+        "pinyin": "Xīn Yùn Bǎozhū",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1297
+    },
+    {
+        "en": "purple jade patterns",
+        "cn": "紫玉纹路",
+        "pinyin": "Zǐyù wénlù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1298
+    },
+    {
+        "en": "Technique of the Spirit-Town Stele",
+        "cn": "灵乡奉碑法",
+        "pinyin": "Língxiāng Fèngbēi Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1298
+    },
+    {
+        "en": "Spirit-Town Stele",
+        "cn": "灵乡奉碑",
+        "pinyin": "Língxiāng Fèngbēi",
+        "type": "Item",
+        "gender": null,
+        "file": 1298
+    },
+    {
+        "en": "Qi's Advent",
+        "cn": "炁临宇",
+        "pinyin": "Qì Lín Yǔ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1298
     }
 ]
