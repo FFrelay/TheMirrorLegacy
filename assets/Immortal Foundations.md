@@ -144,7 +144,7 @@
 -   Life-Ending Expulsion
 -   Seize amidst Peril
 
-## Molten Fire - 阳火 (yáng huǒ)
+## Virile Fire - 阳火 (yáng huǒ)
 
 -   Peace Through Concealment
 -   Sire of the High Mounds

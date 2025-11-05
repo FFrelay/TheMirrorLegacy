@@ -54,7 +54,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 
 -   Blazing Fire - 灴火 (hōng huǒ)
 -   Radiant Fire - 离火 (lí huǒ)
--   Molten Fire - 阳火 (yáng huǒ)
+-   Virile Fire - 阳火 (yáng huǒ)
 -   Merging Fire - 并火 / 合火 (bìng huǒ / hé huǒ)
 -   True Fire - 真火 (zhēn huǒ)
 

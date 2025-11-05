@@ -38,6 +38,9 @@ The following glossary terms have been updated for accuracy and consistency:
 | Xuanqin Baoyou (玄矝宝宥)                          | Profound Bright Treasured Protection |
 | Xipo Kingdom (西婆国)                              | Pyu Kingdom                          |
 | Great Suopo King (大娑婆王)                        | Great Saha King                      |
+| Mystic Realm (秘境)                                | Secret Realm                         |
+| Fei Qing'yi (费清翊)                               | Fei Chingyi                          |
+| Molten Fire (阳火)                                 | Virile Fire                          |
 
 ## In-Chapter Textual Changes
 
