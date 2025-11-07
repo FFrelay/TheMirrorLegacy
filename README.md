@@ -1,6 +1,6 @@
 # The Mirror Legacy (玄鉴仙族 | Xuanjian Immortal Clan) - English Translation
 
-![The Mirror Legacy (Cover)](<./assets/The%20Mirror%20Legacy%20(Cover).jpg>)
+![The Mirror Legacy (Cover)](<./assets/dist/The%20Mirror%20Legacy%20(Cover).jpg>)
 
 Welcome to the unofficial fan translation repository for **The Mirror Legacy**! This project is focused on providing high-quality English translations of the novel.
 
