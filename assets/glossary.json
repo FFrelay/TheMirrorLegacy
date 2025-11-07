@@ -3808,7 +3808,7 @@
         "file": 682
     },
     {
-        "en": "Heavenly Pavilion Heavenly Glow",
+        "en": "Heavenly Pavilion Sky Glow",
         "cn": "天阁霞",
         "pinyin": "Tiāngé Xiá",
         "type": "Person",
@@ -28888,7 +28888,7 @@
         "file": 1253
     },
     {
-        "en": "Xiangxiang",
+        "en": "Xiang Township",
         "cn": "襄乡",
         "pinyin": "Xiāngxiāng",
         "type": "Place",
@@ -31046,5 +31046,13 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1308
+    },
+    {
+        "en": "Xiao Chuchou",
+        "cn": "萧初筹",
+        "pinyin": "Xiāo Chūchóu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1309
     }
 ]

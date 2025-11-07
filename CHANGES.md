@@ -46,6 +46,7 @@ The following glossary terms have been updated for accuracy and consistency:
 | Falcon's Roost (隼就栖)                            | Falcon Seeks Perch                   |
 | Vast Ocean (浩瀚海)                                | Boundless Ocean                      |
 | Spring Echo (洞泉声)                               | Cave Spring's Echo                   |
+| Xiangxiang (襄乡)                                  | Xiang Township                       |
 
 ## In-Chapter Textual Changes
 

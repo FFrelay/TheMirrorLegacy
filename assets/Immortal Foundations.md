@@ -157,7 +157,7 @@
 
 -   Burning the Old Chamber/Burning of All Under Heaven
 
-### Li Fire
+### Radiant Fire
 
 -   Great Scripture of Radiance
 -   Grasp of Ninefold Heaven
