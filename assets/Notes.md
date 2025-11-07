@@ -1,28 +1,6 @@
-Please see Ch. 1089 and 1090, 1093
+Please see Ch. 1086 and 1087, 1090
 
 The three most common arts were creation, traversing, and isolation. The Great Void isolation art, the foundation of many Purple Mansion Realm grand arrays, was not difficult to find.
-
-# Golden Oneness of Highest Azure Daoist tradition - 金一上青道统 (Jīn Yī Shàng Qīng Dàotǒng)
-
-The name "金一上青" (Jīn Yī Shàng Qīng) should be read as two distinct parts that form one concept: the Path (Jīn Yī) and the Goal (Shàng Qīng).
-
-1. The Goal: 上青 (Shàng Qīng) — "Supreme Clarity"
-
-This is the most important component. "Shàng Qīng" is not just "highest azure"; it is a foundational term in Daoist cosmology, meaning "Supreme Clarity" or "Highest Purity."
-
-In the Daoist celestial hierarchy, the absolute highest reality is the realm of the "Three Pure Ones" (Sanqing). The Shangqing Heaven (Supreme Clarity Heaven) is one of these three highest possible planes of existence. It is the domain of the Celestial Worthy of Numinous Treasure and the origin point for a major, real-world school of Daoism (the Shangqing School).
-
-For a sect to have "Shangqing" in its lineage name is a profound declaration: their ultimate spiritual goal is to ascend to this highest heaven, achieve this state of supreme purity, and master the celestial scriptures that originate from that realm.
-
-2. The Path: 金一 (Jīn Yī) — "Golden Unity" or "Primal Metal"
-
-This part describes the specific method the sect (Golden Feather Sect) uses to achieve the goal of "Supreme Clarity."
-
--   金 (Jīn): Means "Gold" or "Metal." In the context of the novel (where this lineage is linked to the Golden Feather Sect), this almost certainly signifies their elemental affinity. Their cultivation path is rooted in the qualities of Metal/Gold: purity, refinement, sharpness (cutting through illusion), and indestructibility (like the "Golden Core" or Jindan).
-
--   一 (Yī): Means "One," "First," or "Primal." In Daoist philosophy, "The One" is the Dao itself—the primal, singular origin of all creation (before it split into Yin and Yang). "Returning to the One" is the core aim of cultivation.
-
-When combined, "Jīn Yī" (Golden Unity) signifies that their specific path to the Dao is "The Way of Golden Unity" or "The Path of the Primal Metal." They use Gold-element cultivation techniques to refine their spirit and body back to that original, indestructible, singular state (The One).
 
 # Shen-You Metal - 申酉 (Shēn Yǒu)
 

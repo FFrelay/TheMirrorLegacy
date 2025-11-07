@@ -1,88 +1,103 @@
-# Three Shamas - 三巫 (sān wū)
+# Ancient Merging
 
-## Upper Shaman - 上巫 (Shàng Wū)
+## Cultivation Transcendence
 
--   Locust Shade Ghost - 槐荫鬼 (Huáiyīn Guǐ)
--   Untraceable Presence - 勿查我 (Wù Chá Wǒ)
--   Earth Shaman's Blessing
--   Emperor's Mandate
--   Blood Drinker
-
-## Jade True - 玉真 (yù zhēn)
-
--   Jadeborn one/Jade court general - 玉庭将 (Yùtíngjiāng)
--   Pattern Brocade
--   Azure Jade Cliff
--   True Dao Unification - 道合真 (Dào Hé Zhēn)
--   White Jade Disk
-
-## Merging owl - 并鸺 (bìng xiū)/xiukiu
-
--   Hurricane Ghost Yin - 飓鬼阴 (Jùguǐ Yīn)
-
-# Ancient Merging - 并古 (Bìng gǔ)
-
-## Cultivation Transcendence - 修越 (Xiu Yue)
-
--   Form in Transition - 形渡阡 (Xíng Dù Qiān)
+-   Form in Transition
 -   Assistance in Usurpation
 
-## Capital Guard - 都卫 (Dūwèi)
+## Capital Guard
 
--   Eastern Feather Mountain - 东羽山 (Dōngyǔ Shān)
+-   Eastern Feather Mountain
 -   Soul-Summoning Lore
--   Sorrowful Southern Water - 南惆水 (Nán Chóu Shuǐ)
--   Western Heaven Plateau - 西天塬 (Xītiān Yuán)
--   Northern Desert Court - 北漠庭 (Běimò Tíng)
+-   Sorrowful Southern Water
+-   Western Heaven Plateau
+-   Northern Desert Court
 
-## Whole Pill - 全丹 (Quándān)
+## Whole Pill
 
 -   Nurturing of Perfect Harmony/Secret White Mercury (Alternative)
 -   Moistening Radiant Lead
--   Awaiting the Supreme Divine - 候神殊 (Hòu Shén Shū)
+-   Awaiting the Supreme Divine
 -   Golden Book Sequence
 
 ## Heaven-Governing
 
--   Dwelling in the Southern Balance/Profound Dipper's Balance
+-   Dwelling in the Southern Balance/Profound Dipper's Balance (New Name)
 -   Celestial-Awakening Ear
 -   Divine Sequence
 
+## Three Shamans
+
+### Upper Shaman
+
+-   Locust Shade Ghost
+-   Untraceable Presence
+-   Earth Shaman's Blessing
+-   Emperor's Mandate
+-   Blood Drinker
+
+### Jade True - 玉真 (yù zhēn)
+
+-   Jadeborn one/Jade court general
+-   Pattern Brocade
+-   Azure Jade Cliff
+-   True Dao Unification
+-   White Jade Disk
+
+### Merging Owl
+
+-   Hurricane Ghost Yin
+
+## Two Rites
+
+### Hengzhu/Balanced Ritual
+
+-   Palace-Yang Tiger
+
+### Azure Manifestation
+
+-   Profound Goat
+-   Azure Crest Manifestation
+-   Sprawling Azure Mountain
+-   Almighty Crag
+-   Abyss Observer
+-   Lower Yang Essence
+
 # Yang
 
-## Supreme Yang - 太阳 (Tàiyáng)
+## Supreme Yang
 
 -   Gazing Heaven Governance
 -   Sun-Splitting Hairpin
 
-## Bright Yang - 明阳 (Míngyáng)
+## Bright Yang
 
--   Audience with the Celestial Gate - 谒天门 (Yè Tiānmén)
--   Crimson Severing Arrowhead - 赤断镞 (Chìduànzú)
--   Imperial Observation of the Origin/Eternal Brightness Steps (Alternative) - 帝观元 (Dìguānyuán)
--   Sovereign's Perilous Tread - 君蹈危 (Jūndǎowēi)
--   Luminous Heart - 昭澈心 (Zhāochèxīn)/World's Radiance - 天下明 (Tiānxià Míng)
+-   Audience with the Celestial Gate
+-   Crimson Severing Arrowhead
+-   Imperial Observation of the Origin/Eternal Brightness Steps (Alternative)
+-   Sovereign's Perilous Tread
+-   Luminous Heart/Illumination of All Under Heaven
 
-## Lesser Yang - 少阳 (Shàoyáng)
+## Lesser Yang
 
 -   Heretical Seeking
 -   Revering the Eastern Lord
 
-# Yin - 阴 (yīn)
+# Yin
 
-## Supreme Yin - 太阴 (Tàiyīn)
+## Supreme Yin
 
--   Divided Aspect - 仪对影 (Yí Duì Yǐng)
+-   Divided Aspect
 -   Woven Jade Radiance Chapter
 -   Lake Moon Autumn
 -   Bestowal of the Profound Pearl
 
-## Veiled Yin - 厥阴 (Juéyīn)
+## Veiled Yin
 
 -   Chamber of Doubt
 -   Unblemished Robe/Robe of Concealed Flaws
 
-## Lesser Yin - 少阴 (Shàoyīn)
+## Lesser Yin
 
 -   All-Fragrance Sinks
 
@@ -90,11 +105,15 @@
 
 ## Pure Qi
 
--   Floating Cloud Body - 浮云身
+-   Floating Cloud Body
 
-## Auspicious Qi - 瑞炁 (ruì qì)
+## Auspicious Qi
 
--   Good Merit Register/Scroll of Fortunate Attainments - 好功箓 (Hǎo Gōng Lù)
+-   Good Merit Register/Scroll of Fortunate Attainments
+
+## Cold Qi
+
+-   Immersing in Pure Listening
 
 ## Baleful Qi
 
@@ -120,74 +139,82 @@
 
 ## Upper Rite
 
--   Bright Heart Feast/Gathering of Illuminated Hearts
--   Attaining Brightness/Uniting the Flourishing Light
+-   Gathering of Illuminated Hearts
+-   Uniting the Flourishing Light
+-   King's Hunt
 
-# Fire Virtue
+# Five Virtues
 
-## True Fire - 真火 (Zhēnhuǒ)
+## Fire Virtue
 
-## Blazing Fire - 灴火 (Hōnghuǒ)
+### True Fire
 
--   Burning the Old Chamber/World's Scorch
+-   Pheasant Li March
+-   Heaven-Encompassing Fire
+-   Governing Life Spirit
 
-## Li Fire - 离火 (Líhuǒ)
+### Blazing Fire
 
--   Great Parting Scripture - 大离书 (Dàlí Shū)
+-   Burning the Old Chamber/Burning of All Under Heaven
+
+### Li Fire
+
+-   Great Scripture of Radiance
 -   Grasp of Ninefold Heaven
 -   Position Arising from Entanglement
 -   Burning Annihilation
 -   March of Peace
 
-## Merging Fire - 合火 (hé huǒ)
+### Merging Fire
 
 -   Life-Ending Expulsion
 -   Seize amidst Peril
 
-## Virile Fire - 阳火 (yáng huǒ)
+### Virile Fire
 
 -   Peace Through Concealment
 -   Sire of the High Mounds
 -   Receiving the Blazing Flute
 -   Molten Fiend Fire
 
-# Water Virtue
+## Water Virtue
 
-## Pristine Water - 渌水 (Lùshuǐ)
+### Pristine Water
 
--   Spring Echo
--   Heavy Murk/World's Overturning - 如重浊 (Rú Zhòngzhuó)
--   Clear Dusk Rain - 清夕雨 (Qīng Xī Yǔ)
--   Chou-Gui Hidden Form - 丑癸藏 (Chǒu Guǐ Cáng)
--   Purging Dew - 洗劫露 (Xǐjié Lù)
+-   Cave Spring's Echo
+-   Heavy Murk/Overturning of All Under Heaven
+-   Clear Dusk Rain
+-   Chou-Gui Hidden Form
+-   Purging Dew
 
-## Converging Water - 合水 (Héshuǐ)
+### Converging Water
 
-## Pit Water - 坎水 (Kǎn Shuǐ)
+### Pit Water
 
--   Boundless ocean/Jing Dragon King - 泾龙王 (Jīng Lóngwáng)
--   Man on Creek - 溪上翁 (Xīshàng Wēng)
+-   Boundless ocean/Jing Dragon King
+-   Man on Creek
 -   Darkening Clouds
--   Holding the Ridge - 据岭中 (Jù Lǐng Zhōng)
--   Grieving River Departure - 恨江去 (Hèn Jiāng Qù)
--   Position Follows Peril/Entering the Pit's Abyss
+-   Holding the Ridge/Entering the Pit's Abyss
+-   Grieving River Departure
+-   Position Follows Peril
 
-## Valley Water - 牝水 (Pìnshuǐ)
+### Valley Water
 
--   Sunless Deceit - 佞无晨 (Nìng Wú Chén)
--   Spring of Rebirth/Undying Spring - 往生泉 (Wǎngshēng Quán)
+-   Sunless Deceit
+-   Spring of Rebirth/Undying Spring
 -   Convergence of Valleys
+-   Probing the Profound Recess
 
-## Mansion Water - 府水 (fǔ shuǐ)
+### Mansion Water
 
--   Morning Cold Rain - 朝寒雨 (Zhāo Hán Yǔ)
+-   Morning Cold Rain
 -   Merging Dawn Abyss
 -   Dwelling in Winter's Depth
 -   Life-Nourishing Flood Dragon/Vast Dredged Lake
 
-# Metal Vitue
+## Metal Vitue
 
-## Reflecting Metal - 兑金 (Duìjīn)
+### Reflecting Metal
 
 -   Position Follows Trust/Mutual Oblivion
 -   Palace of Retracted Killing
@@ -195,101 +222,90 @@
 -   Sovereign of Dui Edge
 -   Golden Aperture Heart
 
-## Geng Metal - 庚金 (gēng jīn)
+### Geng Metal
 
--   Engraved Stone/Golden Beast Plume - 镂金石/金兽羽 (lòu jīn shí/Jīn Shòu Yǔ)
--   Heavenly Gilded Helm - 天金冑 (Tiānjīn Zhòu)
--   Present Departs Old/World's Revolution
+-   Engraved Stone/Golden Beast Plume
+-   Heavenly Gilded Helm
+-   Present Departs Old/Revolution of All Under Heaven
 -   Breaking the Broken
 
-## Wandering Metal - 逍金 (xiāo jīn)
+### Wandering Metal
 
 -   Gazing the Metal Apex
 -   Wandering at Ease
 
-## Harmonising Metal - 齐金 (Qí Jīn)
+### Harmonising Metal
 
 -   Heavenly Harmonising Fullness
 
-## Vault Metal - 库金 (Kù Jīn)
+### Vault Metal
 
--   Vault-Silver Beam - 帑梁银 (Tǎng Liáng Yín)
+-   Vault-Silver Beam
 
-# Wood Virtue
+## Wood Virtue
 
-## Horn Wood - 角木 (Jiǎomù)
+### Horn Wood
 
 -   Ushering Spring’s Dawn
 -   Verdant Grove
 
-## Upright Wood - 正木 (Zhèngmù)
+### Upright Wood
 
 -   Journeying North
 -   The Path Dedicated
 -   Scrutinizing Words
 -   Carpenter's Measure
 
-## Gathering Wood
+### Gathering Wood
 
 -   Calamity-Spreading Life
--   Falcon's Roost
+-   Falcon Seeks Perch
 -   Gathering of Bitter Herbs
 
-## Renewing Wood
+### Renewing Wood
 
--   Spring Before Sickness/World's Change
+-   Spring Before Sickness/Change of All Under Heaven
 
-# Earth Virtue - 土德 (Tǔdé)
+## Earth Virtue
 
-## Proclaimation Earth
+### Proclaimation Earth
 
--   Rite of the Sovereign Earth/World's Heart
+-   Rite of the Sovereign Earth/Heart of All Under Heaven
 -   Luminous Dredging
 
-## Bound Earth
+### Bound Earth
 
 -   Fool's Mountain Chase
 -   Valley of True Origin
 
-## Treasured Earth - 宝土 (Bǎo Tǔ)
+### Treasured Earth
 
--   Palace of Concealed Storage - 藏纳宫 (Cángnà Gōng)
+-   Palace of Concealed Storage
 -   High-Rampart Swallow
 
-## Wu Earth
+### Wu Earth
 
 -   Immortal without Flaw
 -   Subjugating Crest
 
-## Returning Earth
+### Returning Earth
 
 -   Guileful Desolate Plain
-
-# Two Rites
-
-## Hengzhu/Balanced Ritual - 衡祝 (Héng Zhù)
-
--   Palace-Yang Tiger - 殿阳虎 (Diànyáng Hǔ)
-
-## Azure Manifestation - 青宣 (qīng xuān)
-
--   Profound Goat
--   Azure Crest Manifestation
--   Sprawling Azure Mountain
--   Almighty Crag - 上岩神 (Shàng Yán Shén)
--   Abyss Observer
--   Lower Yang Essence
 
 # Three Lightnings
 
 ## Celestial Thunder
 
--   Revolving Purple - 斡动紫 (wò dòng zǐ)
+-   Winter Thunderclap
+-   Spring Awakening
+-   Lightfall Thunder
+-   Revolving Purple
 
 ## Profound Thunder
 
--   Rhythm of Enacting Might - 律演威 (lǜ yǎn wēi)
--   Smiting the Sealed Altar - 伐封坛 (fá fēng tán)
+-   Rhythm of Enacting Might
+-   Smiting the Sealed Altar
+-   Heaven's Crying Spur
 
 ## Primodial Magnestism
 
@@ -299,6 +315,12 @@
 
 -   Eye of Galloping Heart
 
-# Way of Sword
+# Empty Attestation
+
+## Sky Glow
+
+-   Universal Dawn Mist
+
+## Way of Sword
 
 -   Nurturing the Azure Aether

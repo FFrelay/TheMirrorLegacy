@@ -1,21 +1,5 @@
 [
     {
-        "en": "Way of Great Adoration",
-        "cn": "慕法一道",
-        "pinyin": "Mù Fǎ Yīdào",
-        "type": "Unknown",
-        "gender": null,
-        "file": null
-    },
-    {
-        "en": "Way of Precepts and Austerity",
-        "cn": "戒律苦修",
-        "pinyin": "Jièlǜ Kǔxiū",
-        "type": "Unknown",
-        "gender": null,
-        "file": null
-    },
-    {
         "en": "Long",
         "cn": "陇",
         "pinyin": "Lǒng",
@@ -3696,7 +3680,7 @@
         "file": 680
     },
     {
-        "en": "Xiukui",
+        "en": "Merging Owl",
         "cn": "鸺葵",
         "pinyin": "Xiūkuí",
         "type": "Unknown",
@@ -6760,7 +6744,7 @@
         "file": 729
     },
     {
-        "en": "Spring's Echo",
+        "en": "Cave Spring's Echo",
         "cn": "洞泉声",
         "pinyin": "Dòngquánshēng",
         "type": "Unknown",
@@ -10520,10 +10504,10 @@
         "file": 831
     },
     {
-        "en": "Serene Listen",
+        "en": "Immersing in Pure Listening",
         "cn": "入清听",
         "pinyin": "Ru Qing Ting",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 831
     },
@@ -10576,7 +10560,7 @@
         "file": 832
     },
     {
-        "en": "Falcon's Roost",
+        "en": "Falcon Seeks Perch",
         "cn": "隼就栖",
         "pinyin": "sǔn jiù qī",
         "type": "Unknown",
@@ -11344,7 +11328,7 @@
         "file": 846
     },
     {
-        "en": "Vast Ocean",
+        "en": "Boundless Ocean",
         "cn": "浩瀚海",
         "pinyin": "Hàohàn Hǎi",
         "type": "Unknown",
@@ -14139,8 +14123,8 @@
         "en": "Beigu",
         "cn": "悲顾",
         "pinyin": "Bēigù",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 901
     },
     {
@@ -14331,7 +14315,7 @@
         "en": "Morning Mist Bell",
         "cn": "晨蒙钟",
         "pinyin": "Chénméng Zhōng",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 909
     },
@@ -17528,7 +17512,7 @@
         "file": 974
     },
     {
-        "en": "Bright Heart Feast",
+        "en": "Gathering of Illuminated Hearts",
         "cn": "明心筵",
         "pinyin": "Míngxīn Yán",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -19048,7 +19032,7 @@
         "file": 999
     },
     {
-        "en": "Attaining Brightness",
+        "en": "Uniting the Flourishing Light",
         "cn": "致缉熙",
         "pinyin": "Zhì Jī Xī",
         "type": "Concept/Term",
@@ -21912,7 +21896,7 @@
         "file": 1061
     },
     {
-        "en": "Profound Maiden",
+        "en": "Xuan'nu",
         "cn": "玄女",
         "pinyin": "Xuánnǚ",
         "type": "Person",
@@ -21920,7 +21904,7 @@
         "file": 1061
     },
     {
-        "en": "Maiden of the Profound Valley",
+        "en": "Matriarch of the Profound Valley",
         "cn": "玄牝之女",
         "pinyin": "Xuánpìn zhī Nǚ",
         "type": "Person",
@@ -23272,7 +23256,7 @@
         "file": 1085
     },
     {
-        "en": "Woven Jade Immortal",
+        "en": "Woven Jade",
         "cn": "结璘",
         "pinyin": "jié lín",
         "type": "Place",
@@ -26939,7 +26923,7 @@
         "en": "Yuyi Immortals",
         "cn": "郁仪仙",
         "pinyin": "Yùyí Xiān",
-        "type": "Group",
+        "type": "Concept/Term",
         "gender": null,
         "file": 1182
     },
@@ -30606,5 +30590,461 @@
         "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 1298
+    },
+    {
+        "en": "Merging Owl Dao",
+        "cn": "鸺葵一道",
+        "pinyin": "Xiūkuí Yīdào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1299
+    },
+    {
+        "en": "Three Uprights Spring Chariot",
+        "cn": "三正春舆",
+        "pinyin": "Sān Zhèng Chūn Yú",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1300
+    },
+    {
+        "en": "Profound Water Stone of the Far Ridges",
+        "cn": "岭穷玄水石",
+        "pinyin": "Lǐngqióng Xuánshuǐ Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1300
+    },
+    {
+        "en": "King Yong",
+        "cn": "庸王",
+        "pinyin": "Yōng Wáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1300
+    },
+    {
+        "en": "Guo Wusi",
+        "cn": "郭武伺",
+        "pinyin": "Guō Wǔsì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1300
+    },
+    {
+        "en": "I beseech the Yellow Dao, escape through the Profound Gate!",
+        "cn": "有求黄道，在牝走脱！",
+        "pinyin": "Yǒu qiú huángdào, zài pìn zǒutuō!",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1300
+    },
+    {
+        "en": "Dao-comprehension",
+        "cn": "道慧",
+        "pinyin": "Dàohuì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1301
+    },
+    {
+        "en": "Officer Yang",
+        "cn": "杨功曹",
+        "pinyin": "Yáng Gōngcáo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1301
+    },
+    {
+        "en": "River-Watcher",
+        "cn": "观河",
+        "pinyin": "Guānhé",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1301
+    },
+    {
+        "en": "Dharma Pool Treasured Land",
+        "cn": "法池宝地",
+        "pinyin": "Fǎchí Bǎodì",
+        "type": "Place",
+        "gender": null,
+        "file": 1301
+    },
+    {
+        "en": "Governing Life Spirit",
+        "cn": "治命神",
+        "pinyin": "Zhì Mìng Shén",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Heaven-Encompassing Fire",
+        "cn": "天兜火",
+        "pinyin": "Tiān Dōu Huǒ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Fairy Han Ling",
+        "cn": "韩绫仙子",
+        "pinyin": "Hán Líng Xiānzǐ",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1302
+    },
+    {
+        "en": "Han Ling",
+        "cn": "韩绫",
+        "pinyin": "Hán Líng",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1302
+    },
+    {
+        "en": "Thirteen Immortals of Woven Jade",
+        "cn": "结璘十三仙",
+        "pinyin": "Jié Lín Shí Sān Xiān",
+        "type": "Group",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Blazing Fire Golden Pivot",
+        "cn": "炽火金枢",
+        "pinyin": "Chì Huǒ Jīn Shū",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Wu Gao",
+        "cn": "武槦",
+        "pinyin": "Wǔ Gāo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1302
+    },
+    {
+        "en": "Dao-accomplishment",
+        "cn": "成道",
+        "pinyin": "chéng dào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "conceptual-aspect",
+        "cn": "意象",
+        "pinyin": "yìxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "yin water",
+        "cn": "阴水",
+        "pinyin": "yīn shuǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Entering the pit, coming and going, beset by perils. If the yin water does not overflow, why must there be hardship?",
+        "cn": "入于坎窞, 来去有坎, 阴水不盈, 何必有难",
+        "pinyin": "Rù yú kǎn dàn, lái qù yǒu kǎn, yīn shuǐ bù yíng, hébì yǒu nán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1302
+    },
+    {
+        "en": "Protector Daoist Master",
+        "cn": "护国真人",
+        "pinyin": "Hùguó Zhēnrén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "immortal virtue",
+        "cn": "仙德",
+        "pinyin": "xiāndé",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Probing the Profound Recess",
+        "cn": "参玄臟",
+        "pinyin": "Cān Xuán Zàng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Ink Pond",
+        "cn": "墨塘",
+        "pinyin": "Mò Táng",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Great Virtue Sarira",
+        "cn": "大德舍利",
+        "pinyin": "Dà Dé Shèlì",
+        "type": "Item",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Yuanxia Immortal Clan",
+        "cn": "垣下仙族",
+        "pinyin": "Yuánxià Xiān Zú",
+        "type": "Group",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Purple Terrace Zhiyang Daoist Tradition",
+        "cn": "紫台徵阳道统",
+        "pinyin": "Zǐ Tái Zhǐyáng Dàotǒng",
+        "type": "Group",
+        "gender": null,
+        "file": 1303
+    },
+    {
+        "en": "Qu Wo",
+        "cn": "屈斡",
+        "pinyin": "Qū Wò",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1303
+    },
+    {
+        "en": "Dwelling in the Pit-Stream",
+        "cn": "在窞溪",
+        "pinyin": "Zài Dàn Xī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Five Virtues Orthodox Nature",
+        "cn": "五德正性",
+        "pinyin": "Wǔ Dé Zhèngxìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Daoist priest",
+        "cn": "黄冠",
+        "pinyin": "Huángguān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Profound Dark",
+        "cn": "邃闇",
+        "pinyin": "Suì Àn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Emperor Wu of Liang",
+        "cn": "梁武",
+        "pinyin": "Liáng Wǔ",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Heavenly Jade Water Vase",
+        "cn": "矜天璧水壶",
+        "pinyin": "Jīn Tiān Bì Shuǐ Hú",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "White Curtain Old Dream Tower",
+        "cn": "白帘旧梦楼",
+        "pinyin": "Báilián Jiùmèng Lóu",
+        "type": "Item",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "Long Shrine Profound-Mystery Diagram",
+        "cn": "长祠玄机图",
+        "pinyin": "Cháng Cí Xuánjī Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "He Who Embodies the Perilous Pit Water",
+        "cn": "习险坎水行窞性",
+        "pinyin": "Xí Xiǎn Kǎn Shuǐ Xíng Dàn Xìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1304
+    },
+    {
+        "en": "True Monarch Golden Oneness Taiyuan of Highest Azure",
+        "cn": "金一太元上青真君",
+        "pinyin": "Jīn Yī Tài Yuán Shàng Qīng Zhēnjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1305
+    },
+    {
+        "en": "Celestial Wall Moon Radiance Profound Body",
+        "cn": "天垣月璘玄体",
+        "pinyin": "Tiān Yuán Yuè Lín Xuán Tǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "Dao-contention",
+        "cn": "道争",
+        "pinyin": "Dào zhēng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "Spiritual Radiance Light of Supreme Yin!",
+        "cn": "太阴灵璘之光",
+        "pinyin": "Tài yīn líng lín zhī guāng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "The Han Clan's 【Profound Bestowal Glazed Talisman】!",
+        "cn": "韩氏的【玄授琉璃符】",
+        "pinyin": "Hán shì de【Xuánshòu Liúlí Fú】",
+        "type": "Item",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "King's Hunt",
+        "cn": "射狩王",
+        "pinyin": "Shè Shòu Wáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "The Monarch opens the net on three sides, inviting the King to hunt the Profound Palace",
+        "cn": "君开三面网, 请王狩玄宫",
+        "pinyin": "Jūn kāi sān miàn wǎng, qǐng wáng shòu xuán gōng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "The Palace is empty, fortunately the Monarch only waits.",
+        "cn": "宫中虚无人, 幸君唯唯候",
+        "pinyin": "Gōng zhōng xū wú rén, xìng jūn wéi wéi hòu",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "Motang beads",
+        "cn": "墨珠",
+        "pinyin": "Mò zhū",
+        "type": "Item",
+        "gender": null,
+        "file": 1305
+    },
+    {
+        "en": "Noble Dao",
+        "cn": "贵道",
+        "pinyin": "guì dào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1307
+    },
+    {
+        "en": "Arbiter of Fate, the Wu Earth",
+        "cn": "司命戊土",
+        "pinyin": "Sīmìng Wù Tǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1307
+    },
+    {
+        "en": "Divine Thunder Profound-Sound Drum",
+        "cn": "神雷玄音鼓",
+        "pinyin": "Shénléi Xuányīn Gǔ",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1307
+    },
+    {
+        "en": "My vision is sharp and clear, I oversee it as one wipes a divine shrine clean. My design is full and complete, I paint it without entrusting it to a mayfly's life.",
+        "cn": "我视察察, 监之如拭神龛净, 我图豚豚, 画之不寄蜉蝣身.",
+        "pinyin": "Wǒ shì cháchá, jiān zhī rú shì shénkān jìng, wǒ tú túntún, huà zhī bù jì fúyóu shēn.",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1307
+    },
+    {
+        "en": "Great Repository of Primordial Breath",
+        "cn": "胎息玄牝",
+        "pinyin": "Tāixī Xuánpìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1308
+    },
+    {
+        "en": "Great Repository of Primordial Breath, the Profound Matriarch",
+        "cn": "胎息大臟玄牝",
+        "pinyin": "Tāixī Dàzàng Xuánpìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1308
+    },
+    {
+        "en": "Profound Matriarch",
+        "cn": "玄牝",
+        "pinyin": "Xuánpìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1308
+    },
+    {
+        "en": "Profound Matriarch of the Nine Heavens",
+        "cn": "九天玄女",
+        "pinyin": "Jiǔtiān Xuánnǚ",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1308
+    },
+    {
+        "en": "Lady Valley Water",
+        "cn": "牝水娘娘",
+        "pinyin": "Pìnshuǐ Niángniang",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1308
+    },
+    {
+        "en": "hoarding of water",
+        "cn": "水之藏",
+        "pinyin": "shuǐ zhī cáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1308
     }
 ]

@@ -41,6 +41,11 @@ The following glossary terms have been updated for accuracy and consistency:
 | Mystic Realm (秘境)                                | Secret Realm                         |
 | Fei Qing'yi (费清翊)                               | Fei Chingyi                          |
 | Molten Fire (阳火)                                 | Virile Fire                          |
+| Profound Maiden (玄女)                             | Xuan'nu                              |
+| Serene Listen (入清听)                             | Immersing in Pure Listening          |
+| Falcon's Roost (隼就栖)                            | Falcon Seeks Perch                   |
+| Vast Ocean (浩瀚海)                                | Boundless Ocean                      |
+| Spring Echo (洞泉声)                               | Cave Spring's Echo                   |
 
 ## In-Chapter Textual Changes
 
