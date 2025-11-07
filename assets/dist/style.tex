@@ -1,0 +1,28 @@
+% --- GEOMETRY & LINE SPACING ---
+\usepackage[margin=1.2in]{geometry}
+\usepackage{setspace}
+\setstretch{1.25}
+
+% Load xcolor package with the HTML color model
+\usepackage[HTML]{xcolor}
+
+% --- LOAD FONTSPEC AND SET FONT ---
+\usepackage{fontspec}
+
+% Set the main font AND all its variants using the full path
+\setmainfont{Bookerly.ttf}[
+  Path = {C:/Users/tarun/AppData/Local/Microsoft/Windows/Fonts/},
+  % Standard variants for Markdown (Bold, Italic)
+  BoldFont       = {Bookerly Bold.ttf},
+  ItalicFont     = {Bookerly LCD Italic.ttf},
+  BoldItalicFont = {Bookerly Bold Italic.ttf},
+  % Lighter weight variants
+  FontFace       = {l}{n}{Font = {Bookerly Light.ttf}},
+  FontFace       = {l}{it}{Font = {Bookerly Light Italic.ttf}}
+]
+
+% Set the page background color to sepia (e.g., FBF0D9)
+\pagecolor[HTML]{FBF0D9}
+
+% Set the default text color to a dark sepia/brown (e.g., 453823)
+\color[HTML]{453823}

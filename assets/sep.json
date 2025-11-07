@@ -8,7 +8,7 @@
         "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
-        "image": "./The Mirror Legacy (Cover).jpg"
+        "image": "./dist/The Mirror Legacy (Cover).jpg"
     },
     {
         "filestart": 847,
@@ -19,17 +19,17 @@
         "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
-        "image": "./The Mirror Legacy (Cover).jpg"
+        "image": "./dist/The Mirror Legacy (Cover).jpg"
     },
     {
         "filestart": 1097,
-        "fileend": 1300,
+        "fileend": 1309,
         "title": "The Mirror Legacy (Vol. 7: The March Upon the Huai, The Crossing of the Ji)",
         "position": 7,
         "series": "The Mirror Legacy",
         "author": "Ji Yueren",
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
-        "image": "./The Mirror Legacy (Cover).jpg"
+        "image": "./dist/The Mirror Legacy (Cover).jpg"
     }
 ]
