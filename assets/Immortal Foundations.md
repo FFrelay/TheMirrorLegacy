@@ -252,8 +252,8 @@
 ### Upright Wood
 
 -   Journeying North
--   The Path Dedicated
--   Scrutinizing Words
+-   Position follows Exclusivity
+-   Perceive Word Scrutiny
 -   Carpenter's Measure
 
 ### Gathering Wood

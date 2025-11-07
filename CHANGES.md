@@ -47,6 +47,9 @@ The following glossary terms have been updated for accuracy and consistency:
 | Vast Ocean (浩瀚海)                                | Boundless Ocean                      |
 | Spring Echo (洞泉声)                               | Cave Spring's Echo                   |
 | Xiangxiang (襄乡)                                  | Xiang Township                       |
+| A Path Dedicated (位从专)                          | Position follows Exclusivity         |
+| Scrutinizing Words (见查语)                        | Perceive Word Scrutiny               |
+| Carpenter's Measure (木成方)                       | Wood Becoming Principle              |
 
 ## In-Chapter Textual Changes
 
