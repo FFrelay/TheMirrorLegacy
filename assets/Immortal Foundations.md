@@ -169,6 +169,7 @@
 
 -   Life-Ending Expulsion
 -   Seize amidst Peril
+-   Heart-Flame Aspiration
 
 ### Virile Fire
 
