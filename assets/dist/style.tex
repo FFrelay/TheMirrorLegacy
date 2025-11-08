@@ -1,27 +1,56 @@
-% --- GEOMETRY & LINE SPACING ---
-\usepackage[margin=1.2in]{geometry}
-\usepackage{setspace}
-\setstretch{1.25}
+\usepackage{polyglossia}
 
-% Load xcolor package with the HTML color model
+% --- COLOR THEME ---
 \usepackage[HTML]{xcolor}
+
+% --- GEOMETRY & PAGE LAYOUT (A4 E-VIEWING) ---
+\usepackage[
+  a4paper,
+  margin=1in
+]{geometry}
+\usepackage{fancyhdr} % For custom headers and footers
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\fancyhead[C]{\itshape \nouppercase{\leftmark}} % Section title in center header
+\fancyfoot[C]{\thepage} % Page number in center footer
+\renewcommand{\headrulewidth}{0pt} % No line under header
+\renewcommand{\footrulewidth}{0pt} % No line over footer
+
+% --- LINE SPACING ---
+\usepackage{setspace}
+\setstretch{1.25} % Good for readability
+
+% Set the page background color to sepia
+\pagecolor[HTML]{FBF0D9}
+
+% Set the default text color to a dark sepia/brown
+\color[HTML]{453823}
 
 % --- LOAD FONTSPEC AND SET FONT ---
 \usepackage{fontspec}
 
-% Set the main font AND all its variants using the full path
+% --- FONTS ---
+\usepackage{fontspec}
 \setmainfont{Bookerly.ttf}[
-  % Standard variants for Markdown (Bold, Italic)
-  BoldFont       = {Bookerly Bold.ttf},
-  ItalicFont     = {Bookerly LCD Italic.ttf},
-  BoldItalicFont = {Bookerly Bold Italic.ttf},
-  % Lighter weight variants
-  FontFace       = {l}{n}{Font = {Bookerly Light.ttf}},
-  FontFace       = {l}{it}{Font = {Bookerly Light Italic.ttf}}
+  Extension      = .ttf,
+  UprightFont    = *,
+  BoldFont       = Bookerly Bold,
+  ItalicFont     = Bookerly LCD Italic,
+  BoldItalicFont = Bookerly Bold Italic,
+  % --- Enable OpenType features ---
+  Ligatures      = {Common, TeX},
+  Numbers        = {OldStyle},
+  Kerning        = On,
+  % --- Lighter weights ---
+  FontFace       = {l}{n}{Font = {Bookerly Light}},
+  FontFace       = {l}{it}{Font = {Bookerly Light Italic}}
 ]
 
-% Set the page background color to sepia (e.g., FBF0D9)
-\pagecolor[HTML]{FBF0D9}
+% --- TYPOGRAPHIC REFINEMENTS ---
+\usepackage{microtype} % Improves justification and text "color"
+\usepackage[all]{foreign} % Better handling of foreign words
 
-% Set the default text color to a dark sepia/brown (e.g., 453823)
-\color[HTML]{453823}
+% Prevent lonely lines at the top/bottom of a page
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000 % For lines before equations
