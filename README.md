@@ -15,9 +15,10 @@ Welcome to the unofficial fan translation repository for **The Mirror Legacy**! 
 
 This repository **does not contain the full novel**. It is a fan translation focusing on the following volumes:
 
--   **Volume 5:** Complete
+-   **Volume 5:** Complete (Ch. 616-654 not provided. Check YanewTL.)
 -   **Volume 6:** Complete
--   **Volume 7:** Ongoing
+-   **Volume 7:** Complete
+-   **Volume 8:** Ongoing
 
 **Overall Status:** Ongoing
 
