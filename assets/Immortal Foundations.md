@@ -318,7 +318,7 @@
 
 # Empty Attestation
 
-## Sky Glow
+## Heavenly Glow
 
 -   Universal Dawn Mist
 

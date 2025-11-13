@@ -1,5 +1,13 @@
 This document lists all changes made in each version for reference.
 
+# v1.3
+
+## Glossary Term Updates
+
+| Old Term        | New Term      |
+| :-------------- | :------------ |
+| Sky Glow (霞光) | Heavenly Glow |
+
 # V1.2
 
 ## Glossary Term Updates

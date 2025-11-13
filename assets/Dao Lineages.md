@@ -107,9 +107,9 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 -   Treasure Light - 宝光 (bǎo guāng)
 -   Wu Light - 戊光 (wù guāng)
 
-# Wu Light/Sky Glow System
+# Wu Light/Heavenly Glow System
 
--   Sky Glow - 霞光 (xiá guāng)
+-   Heavenly Glow - 霞光 (xiá guāng)
 -   Rainbow Glow - 虹霞 (hóngxiá)
 -   Morning Glow - 朝霞 (zhāo xiá)
 

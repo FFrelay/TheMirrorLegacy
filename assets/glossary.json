@@ -320,7 +320,7 @@
         "file": 655
     },
     {
-        "en": "Sky Glow",
+        "en": "Heavenly Glow",
         "cn": "霞光",
         "pinyin": "Xiáguāng",
         "type": "Concept/Term",
@@ -392,7 +392,7 @@
         "file": 655
     },
     {
-        "en": "Sky Glow Dawn Cloudliner",
+        "en": "Heavenly Glow Dawn Cloudliner",
         "cn": "霞光云船",
         "pinyin": "Xiáguāng Yúnchuán",
         "type": "Unknown",
@@ -13800,7 +13800,7 @@
         "file": 894
     },
     {
-        "en": "Elucidation of Chongyuan's Supplemental Law",
+        "en": "Elucidating Transformation of Chongyuan's Intercalary Art",
         "cn": "阐化冲元闰法",
         "pinyin": "Chǎnhuà Chōng Yuán Rùn Fǎ",
         "type": "Unknown",
@@ -21776,7 +21776,7 @@
         "file": 1057
     },
     {
-        "en": "Yin-Yang Primacy Doctrine",
+        "en": "Yin-Yang Primary Position Theory",
         "cn": "阴阳主位论",
         "pinyin": "Yīnyáng Zhǔwèi Lùn",
         "type": "Concept/Term",
@@ -27040,7 +27040,7 @@
         "file": 1183
     },
     {
-        "en": "Elucidating Removal of Virile Fire Abode Art",
+        "en": "Elucidating Removal of Yang Fire's Dwelling Art",
         "cn": "阐除阳火居法",
         "pinyin": "Chǎnchú Yánghuǒ Jū Fǎ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -30744,7 +30744,7 @@
         "file": 1302
     },
     {
-        "en": "yin water",
+        "en": "Yin water",
         "cn": "阴水",
         "pinyin": "yīn shuǐ",
         "type": "Concept/Term",
@@ -31054,5 +31054,109 @@
         "type": "Person",
         "gender": "Male",
         "file": 1309
+    },
+    {
+        "en": "profound world",
+        "cn": "玄界",
+        "pinyin": "xuán jiè",
+        "type": "Place",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Heavenly Glow Dao Embryo",
+        "cn": "天霞道胎",
+        "pinyin": "Tiānxiá Dàotāi",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1310
+    },
+    {
+        "en": "Can Yan",
+        "cn": "参堰",
+        "pinyin": "Cān Yàn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1310
+    },
+    {
+        "en": "Mount Luoxia",
+        "cn": "落霞山",
+        "pinyin": "Luòxiá Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Heavenly Glow",
+        "cn": "天下",
+        "pinyin": "Tiānxià",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1310
+    },
+    {
+        "en": "Golden Attainment",
+        "cn": "金位",
+        "pinyin": "jīn wèi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "I honor the Dao of Sun and Moon, and tread the intercalary paths of the Five Virtues Heaven.",
+        "cn": "我尊日月道, 闰践五德天。",
+        "pinyin": "Wǒ zūn rì yuè dào, rùn jiàn wǔ dé tiān。",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "I do not need to view the Five Virtues through their five manifestations.",
+        "cn": "我不必用五现观五德。",
+        "pinyin": "Wǒ bìbùyòng wǔ xiàn guān wǔ dé。",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Overflowing Pit",
+        "cn": "坎泆",
+        "pinyin": "Kǎn Yì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Yang Water",
+        "cn": "阳水",
+        "pinyin": "yáng shuǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Elucidating Removal of Yin Water's Dwelling Art",
+        "cn": "阐除阴水居法",
+        "pinyin": "Chǎn Chú Yīn Shuǐ Jū Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "primary position",
+        "cn": "主位",
+        "pinyin": "zhǔ wèi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
+    },
+    {
+        "en": "Yin Fire",
+        "cn": "阴火",
+        "pinyin": "yīn huǒ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1310
     }
 ]
