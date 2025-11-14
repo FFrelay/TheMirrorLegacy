@@ -31,5 +31,16 @@
         "translator": "ThunderGod95",
         "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
         "image": "./dist/The Mirror Legacy (Cover).jpg"
+    },
+    {
+        "filestart": 1310,
+        "fileend": 1311,
+        "title": "The Mirror Legacy (Vol. 8: Illumination upon Thy Land)",
+        "position": 8,
+        "series": "The Mirror Legacy",
+        "author": "Ji Yueren",
+        "translator": "ThunderGod95",
+        "rights": "Fan translation by ThunderGod95. All rights reserved to the original author.",
+        "image": "./dist/The Mirror Legacy (Cover).jpg"
     }
 ]
