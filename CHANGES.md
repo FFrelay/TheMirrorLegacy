@@ -4,9 +4,10 @@ This document lists all changes made in each version for reference.
 
 ## Glossary Term Updates
 
-| Old Term        | New Term      |
-| :-------------- | :------------ |
-| Sky Glow (霞光) | Heavenly Glow |
+| Old Term                | New Term       |
+| :---------------------- | :------------- |
+| Sky Glow (霞光)         | Heavenly Glow  |
+| Immortal Mansion (元府) | Origin Mansion |
 
 # V1.2
 
