@@ -4944,7 +4944,7 @@
         "file": 696
     },
     {
-        "en": "Xuanmiao Temple",
+        "en": "Profound Wonder Temple",
         "cn": "玄妙观",
         "pinyin": "Xuánmiào Guàn",
         "type": "Unknown",
@@ -6360,7 +6360,7 @@
         "file": 718
     },
     {
-        "en": "Sovereign's Perilous Tread",
+        "en": "Sovereign Treading Peril",
         "cn": "君蹈危",
         "pinyin": "Jūndǎowēi",
         "type": "Unknown",
@@ -7176,7 +7176,7 @@
         "file": 742
     },
     {
-        "en": "Primal Essence of Heavenly Oneness",
+        "en": "Heavenly One Pure Origin",
         "cn": "天一淳元",
         "pinyin": "Tiānyī Chúnyuán",
         "type": "Unknown",
@@ -8128,7 +8128,7 @@
         "file": 788
     },
     {
-        "en": "Xuanmu Divine Writ Dao",
+        "en": "Profound Immersion Divine Writ Dao",
         "cn": "玄沐神券女青道",
         "pinyin": "Xuánmù Shénquàn Nǚqīng Dào",
         "type": "Unknown",
@@ -12811,8 +12811,8 @@
         "en": "Tian Sanglin",
         "cn": "天桑林",
         "pinyin": "Tiān Sānglín",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 874
     },
     {
@@ -12824,10 +12824,10 @@
         "file": 874
     },
     {
-        "en": "Radiant Sun King's Halberd",
+        "en": "Illustrious-Yang King's Battle Axe",
         "cn": "华阳王钺",
         "pinyin": "Huá Yáng Wáng Yuè",
-        "type": "Unknown",
+        "type": "Artifact",
         "gender": null,
         "file": 874
     },
@@ -12835,7 +12835,7 @@
         "en": "Crimson Rupture Cluster",
         "cn": "赤断簇",
         "pinyin": "Chì duàn cù",
-        "type": "Unknown",
+        "type": "Item",
         "gender": null,
         "file": 874
     },
@@ -14459,7 +14459,15 @@
         "en": "Immortal Yingze",
         "cn": "盈昃仙人",
         "pinyin": "Yíngzè Xiānrén",
-        "type": "Unknown",
+        "type": "Person",
+        "gender": "Male",
+        "file": 913
+    },
+    {
+        "en": "Immortal",
+        "cn": "仙人",
+        "pinyin": "Xiānrén",
+        "type": "Concept/Term",
         "gender": null,
         "file": 913
     },
@@ -25472,7 +25480,7 @@
         "file": 1137
     },
     {
-        "en": "Xuanmiao Great Treasury",
+        "en": "Profound Wonder Great Treasury",
         "cn": "玄妙大藏",
         "pinyin": "xuán miào dà zàng",
         "type": "Concept/Term",
@@ -26624,7 +26632,7 @@
         "file": 1174
     },
     {
-        "en": "Mystic Tablet Edict Pill",
+        "en": "Profound Heng Edict Pill",
         "cn": "玄珩敕丹",
         "pinyin": "Xuán Héng Chì Dān",
         "type": "Unknown",
@@ -31144,19 +31152,403 @@
         "file": 1310
     },
     {
-        "en": "primary position",
-        "cn": "主位",
-        "pinyin": "zhǔ wèi",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 1310
-    },
-    {
         "en": "Yin Fire",
         "cn": "阴火",
         "pinyin": "yīn huǒ",
         "type": "Concept/Term",
         "gender": null,
         "file": 1310
+    },
+    {
+        "en": "Juancheng",
+        "cn": "鄄城",
+        "pinyin": "Juànchéng",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Dongping Great Desert",
+        "cn": "东平大漠",
+        "pinyin": "Dōngpíng Dàmò",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "East Yan Dao",
+        "cn": "东兖道",
+        "pinyin": "Dōngyǎn Dào",
+        "type": "Group",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Bazhou",
+        "cn": "霸州",
+        "pinyin": "Bàzhōu",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Liaocheng",
+        "cn": "聊城",
+        "pinyin": "Liáochéng",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Today, We Drive the Twin Profundities Dao",
+        "cn": "今驭二玄道",
+        "pinyin": "Jīn Yù Èr Xuán Dào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Once More, We Shall Remake the Azure-Golden Heaven",
+        "cn": "再革青金天",
+        "pinyin": "Zài Gé Qīngjīn Tiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Azure-Golden Heaven",
+        "cn": "青金天",
+        "pinyin": "Qīngjīn Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "The Profound Origin Abides in Change",
+        "cn": "玄元有易",
+        "pinyin": "Xuányuán Yǒu Yì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Zhang Jiaoyi",
+        "cn": "张骄益",
+        "pinyin": "Zhāng Jiāoyì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1312
+    },
+    {
+        "en": "Profound Platform",
+        "cn": "玄台",
+        "pinyin": "Xuántái",
+        "type": "Place",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Dao Son",
+        "cn": "道子",
+        "pinyin": "Dàozǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Bright Yang Sovereign",
+        "cn": "明阳上位",
+        "pinyin": "Míngyáng Shàngwèi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Golden Immortal",
+        "cn": "金仙",
+        "pinyin": "Jīnxiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Golden Immortal realm",
+        "cn": "金仙",
+        "pinyin": "Jīnxiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Heavenly Dao",
+        "cn": "天道",
+        "pinyin": "Tiāndào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Profound Master",
+        "cn": "玄主",
+        "pinyin": "Xuánzhǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Grand Culmination",
+        "cn": "大罗",
+        "pinyin": "Dàluó",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Liangzhi",
+        "cn": "梁治",
+        "pinyin": "Liángzhì",
+        "type": "Group",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Taihua",
+        "cn": "太华",
+        "pinyin": "Tàihuá",
+        "type": "Group",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Scourge the Mainland and Conquer the Cosmos",
+        "cn": "挞海内而征宙宇",
+        "pinyin": "Tà Hǎinèi Ér Zhēng Zhòuyǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Immortal Emperor",
+        "cn": "仙帝",
+        "pinyin": "Xiāndì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1312
+    },
+    {
+        "en": "Ancestral Master",
+        "cn": "祖师",
+        "pinyin": "Zǔshī",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1312
+    },
+    {
+        "en": "Profound Zhu Edict Pill",
+        "cn": "玄洙敕丹",
+        "pinyin": "Xuán Zhū Chì Dān",
+        "type": "Item",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Edict Spirit",
+        "cn": "敕神",
+        "pinyin": "Chì Shén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "River Qu",
+        "cn": "河鸲",
+        "pinyin": "Hé Qú",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Profound Heng",
+        "cn": "衡玄",
+        "pinyin": "Héng Xuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Converging Water Heavenly Sea White Sand",
+        "cn": "合水天海白沙",
+        "pinyin": "Hé Shuǐ Tiān Hǎi Bái Shā",
+        "type": "Item",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Mansion Water Hundred Lake Stone",
+        "cn": "府水百湖石",
+        "pinyin": "Fǔ Shuǐ Bǎi Hú Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Confused Renewing Form Replacement",
+        "cn": "纷更形代",
+        "pinyin": "Fēn Gēng Xíng Dài",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Daoist Bai",
+        "cn": "白道友",
+        "pinyin": "Bái Dàoyǒu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1313
+    },
+    {
+        "en": "Spring Carriage",
+        "cn": "春舆",
+        "pinyin": "Chūn Yú",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1313
+    },
+    {
+        "en": "Yu River",
+        "cn": "禹河",
+        "pinyin": "Yǔ Hé",
+        "type": "Place",
+        "gender": null,
+        "file": 1314
+    },
+    {
+        "en": "Tang Jiyu",
+        "cn": "汤缉余",
+        "pinyin": "Tāng Jīyú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1314
+    },
+    {
+        "en": "Zhou Feng",
+        "cn": "周奉",
+        "pinyin": "Zhōu Fèng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1314
+    },
+    {
+        "en": "Wenshui Danye Stone",
+        "cn": "汶水窞邺石",
+        "pinyin": "Wènshuǐ Dàn Yè Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1314
+    },
+    {
+        "en": "Daoist Master Three Doubts",
+        "cn": "三疑真人",
+        "pinyin": "Sānyí Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1315
+    },
+    {
+        "en": "Qiao Wenliu",
+        "cn": "乔文鎏",
+        "pinyin": "Qiáo Wénliú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1315
+    },
+    {
+        "en": "Qiao family",
+        "cn": "乔氏",
+        "pinyin": "Qiáo Shì",
+        "type": "Group",
+        "gender": null,
+        "file": 1315
+    },
+    {
+        "en": "Heavenly Wood Supporting Fire Spirit Array",
+        "cn": "天木资火灵阵",
+        "pinyin": "Tiānmù Zīhuǒ Língzhèn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1315
+    },
+    {
+        "en": "Xuandie Flower",
+        "cn": "玄迭花",
+        "pinyin": "Xuándié Huā",
+        "type": "Item",
+        "gender": null,
+        "file": 1315
+    },
+    {
+        "en": "Jiang Dai",
+        "cn": "姜代",
+        "pinyin": "Jiāng Dài",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1315
+    },
+    {
+        "en": "Western Long",
+        "cn": "陇西",
+        "pinyin": "Lǒngxī",
+        "type": "Place",
+        "gender": null,
+        "file": 1315
+    },
+    {
+        "en": "Taichong Observation",
+        "cn": "太冲观",
+        "pinyin": "Tàichōng Guān",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1316
+    },
+    {
+        "en": "Valley light",
+        "cn": "牝光",
+        "pinyin": "Pìn Guāng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1316
+    },
+    {
+        "en": "Qiao Sanyi",
+        "cn": "乔三疑",
+        "pinyin": "Qiáo Sānyí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1316
+    },
+    {
+        "en": "Five Palaces and Six Universes",
+        "cn": "五宫六宇",
+        "pinyin": "Wǔ Gōng Liù Yǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1316
+    },
+    {
+        "en": "Tuning the Loom",
+        "cn": "调杼柚",
+        "pinyin": "Tiáo Zhùyòu",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1316
+    },
+    {
+        "en": "Rising Yang Palace",
+        "cn": "起阳宫",
+        "pinyin": "Qǐyáng Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1316
     }
 ]

@@ -27,7 +27,7 @@ Before producing the final output, you must internally follow a strict process:
 
 -   Personal Names: Remain in Pinyin without tonal marks (e.g., Li Xiaoyao, Chen Feng).
 -   Place Names & Generic Titles: Translate descriptive names into English (e.g., 青云宗 → Azure Cloud Sect), unless overridden by glossary.
--   Dao Distinctions: Use _"[Name] Dao"_ for specific paths; _Dao Lineage_ for inherited branches; _Daoist Tradition/Orthodoxy_ for major systems.
+-   Dao Distinctions: Use _"[Name] Dao"_ for specific paths; _Dao Lineage_ for inherited branches; _Daoist Tradition_ for major systems.
 
 # Output & Formatting Rules
 
