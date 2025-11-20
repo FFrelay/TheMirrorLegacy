@@ -1,6 +1,6 @@
 This document lists all changes made in each version for reference.
 
-# v1.3
+# v2.0
 
 ## Glossary Term Updates
 
