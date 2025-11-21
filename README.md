@@ -28,19 +28,19 @@ This repository **does not contain the full novel**. It is a fan translation foc
 
 There are three ways to read this translation:
 
-### 1. Read Online
-
-You can read the individual chapters directly in this repository. All translated chapters (starting from Volume 5) are located in the `translations` folder.
-
--   [**Browse All Chapters**](./translations/)
-
-### 2. Download Ebooks (Official Releases)
+### 1. Download Ebooks (Official Releases)
 
 This is the recommended way to download. We compile completed volumes (and major updates) into EPUB and PDF formats.
 
 1.  Navigate to the [**Releases Page**](https://github.com/ThunderGod95/TheMirrorLegacy/releases).
 2.  Find the release you want to download (e.g., `Volume 6`).
 3.  Under the **"Assets"** dropdown for that release, click on the `.epub` or `.pdf` file to download it.
+
+### 2. Read Online
+
+You can read the individual chapters directly in this repository. All translated chapters (starting from Volume 5) are located in the `translations` folder.
+
+-   [**Browse All Chapters**](./translations/)
 
 ### 3. Download Ebooks (From `dist` Folder)
 

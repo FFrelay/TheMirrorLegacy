@@ -4,14 +4,18 @@ This document lists all changes made in each version for reference.
 
 ## Glossary Term Updates
 
-| Old Term                                | New Term                           |
-| :-------------------------------------- | :--------------------------------- |
-| Sky Glow (霞光)                         | Heavenly Glow                      |
-| Immortal Mansion (元府)                 | Origin Mansion                     |
-| Sovereign's Perilous Tread (君蹈危)     | Sovereign Treading Peril           |
-| Xuanmiao Temple (玄妙观)                | Profound Wonder Temple             |
-| Xuanmu Divine Writ Dao (玄沐神券女青道) | Profound Immersion Sacred Writ Dao |
-| Radiant Sun King's Halberd (华阳王钺) | Illustrious-Yang King's Battle Axe | 
+| Old Term                                  | New Term                           |
+| :---------------------------------------- | :--------------------------------- |
+| Sky Glow (霞光)                           | Heavenly Glow                      |
+| Immortal Mansion (元府)                   | Origin Mansion                     |
+| Sovereign's Perilous Tread (君蹈危)       | Sovereign Treading Peril           |
+| Xuanmiao Temple (玄妙观)                  | Profound Wonder Temple             |
+| Xuanmu Divine Writ Dao (玄沐神券女青道)   | Profound Immersion Sacred Writ Dao |
+| Radiant Sun King's Halberd (华阳王钺)     | Illustrious-Yang King's Battle Axe |
+| Pure City (淳城)                          | Chun City                          |
+| Hetian Sea (合天海)                       | Converging Heaven Sea              |
+| Audience with the Celestial Gate (谒天门) | Heavenly Audience Gate             |
+| Baleful Qi (煞炁)                         | Malevolent Qi                      |
 
 # V1.2
 
@@ -66,10 +70,10 @@ The following glossary terms have been updated for accuracy and consistency:
 
 ## In-Chapter Textual Changes
 
-- Standardized all remaining instances of 'Tingzhou' to 'Ting Province' for consistency.
-- Standardized all remaining instances of 'Xiyang Temple' to 'Xiyang Abbey' for consistency.
+-   Standardized all remaining instances of 'Tingzhou' to 'Ting Province' for consistency.
+-   Standardized all remaining instances of 'Xiyang Temple' to 'Xiyang Abbey' for consistency.
 
 ## Chapter Numbering Changes
 
-- Corrected a significant numbering error where chapters were incorrectly offset by +3. All chapters have been re-indexed 3 numbers lower (e.g., the chapter previously numbered as 1204 is now correctly Ch. 1201).
-- Added the previously missing chapter (now correctly numbered as Ch. 1201).
+-   Corrected a significant numbering error where chapters were incorrectly offset by +3. All chapters have been re-indexed 3 numbers lower (e.g., the chapter previously numbered as 1204 is now correctly Ch. 1201).
+-   Added the previously missing chapter (now correctly numbered as Ch. 1201).
