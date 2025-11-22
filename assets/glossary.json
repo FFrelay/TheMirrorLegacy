@@ -280,7 +280,7 @@
         "file": 655
     },
     {
-        "en": "Pure One Dao",
+        "en": "Pure Unity Dao",
         "cn": "纯一道",
         "pinyin": "Chúnyī Dào",
         "type": "Group",
@@ -2424,7 +2424,7 @@
         "file": 667
     },
     {
-        "en": "Chengyun",
+        "en": "Revering Radiance",
         "cn": "称昀",
         "pinyin": "Chēng Yún",
         "type": "Unknown",
@@ -2672,7 +2672,7 @@
         "file": 670
     },
     {
-        "en": "Li Que'wan",
+        "en": "Li Quewan",
         "cn": "李阙宛",
         "pinyin": "Lǐ Quèwǎn",
         "type": "Person",
@@ -2696,7 +2696,7 @@
         "file": 670
     },
     {
-        "en": "Que'Wan",
+        "en": "Quewan",
         "cn": "阙宛",
         "pinyin": "Què Wǎn",
         "type": "Person",
@@ -2800,7 +2800,7 @@
         "file": 671
     },
     {
-        "en": "Embyronic Breathing",
+        "en": "Embryonic Breathing",
         "cn": "胎息",
         "pinyin": "Tāixī",
         "type": "Unknown",
@@ -3952,7 +3952,7 @@
         "file": 685
     },
     {
-        "en": "Dantai Jin",
+        "en": "Tantai Jin",
         "cn": "澹台近",
         "pinyin": "Dàntái Jìn",
         "type": "Unknown",
@@ -4032,7 +4032,7 @@
         "file": 685
     },
     {
-        "en": "Dantai",
+        "en": "Tantai",
         "cn": "澹台",
         "pinyin": "Tántái",
         "type": "Group",
@@ -4272,7 +4272,7 @@
         "file": 689
     },
     {
-        "en": "Chengyun Gate",
+        "en": "Revering Radiance Gate",
         "cn": "称昀门",
         "pinyin": "Chēngyún Mén",
         "type": "Unknown",
@@ -6536,7 +6536,7 @@
         "file": 722
     },
     {
-        "en": "Geng Tiger Dao",
+        "en": "Bound Tiger Dao",
         "cn": "艮虎道",
         "pinyin": "Gènhǔ Dào",
         "type": "Group",
@@ -8248,7 +8248,7 @@
         "file": 790
     },
     {
-        "en": "Encompassing Profoundity",
+        "en": "Encompassing Profundity",
         "cn": "兜玄",
         "pinyin": "Dōu Xuán",
         "type": "Unknown",
@@ -9000,7 +9000,7 @@
         "file": 805
     },
     {
-        "en": "Dantai Lingtong",
+        "en": "Tantai Lingtong",
         "cn": "澹台灵统",
         "pinyin": "Dàntái Língtǒng",
         "type": "Unknown",
@@ -9168,7 +9168,7 @@
         "file": 807
     },
     {
-        "en": "Vija",
+        "en": "Pijia",
         "cn": "毗加",
         "pinyin": "Píjiā",
         "type": "Unknown",
@@ -9411,7 +9411,7 @@
         "en": "Zhuang Pingye",
         "cn": "庄平野",
         "pinyin": "Zhuāng Píngyě",
-        "type": "Unknown",
+        "type": "Person",
         "gender": null,
         "file": 811
     },
@@ -9648,7 +9648,7 @@
         "file": 816
     },
     {
-        "en": "Li-Wei",
+        "en": "Wei-Li",
         "cn": "李魏",
         "pinyin": "Lǐ Wèi",
         "type": "Unknown",
@@ -9664,7 +9664,7 @@
         "file": 816
     },
     {
-        "en": "Liu-Chu",
+        "en": "Chu-Liu",
         "cn": "刘楚",
         "pinyin": "Liú Chǔ",
         "type": "Unknown",
@@ -9883,14 +9883,6 @@
         "en": "Tianwu",
         "cn": "天武",
         "pinyin": "Tiānwǔ",
-        "type": "Unknown",
-        "gender": null,
-        "file": 819
-    },
-    {
-        "en": "Lustrous-Head",
-        "cn": "【滢首】",
-        "pinyin": "Yíng shǒu",
         "type": "Unknown",
         "gender": null,
         "file": 819
@@ -10208,7 +10200,7 @@
         "file": 823
     },
     {
-        "en": "Comprehending Profoundity",
+        "en": "Comprehending Profundity",
         "cn": "通玄",
         "pinyin": "Tōng Xuán",
         "type": "Unknown",
@@ -10552,7 +10544,7 @@
         "file": 832
     },
     {
-        "en": "Azure Profoundity",
+        "en": "Azure Profundity",
         "cn": "青玄",
         "pinyin": "Qīng Xuán",
         "type": "Concept/Term",
@@ -11072,7 +11064,7 @@
         "file": 839
     },
     {
-        "en": "Art of Rebirth",
+        "en": "Path-Extending Wondrous Art",
         "cn": "续途妙法",
         "pinyin": "Xùtú Miàofǎ",
         "type": "Unknown",
@@ -11128,7 +11120,7 @@
         "file": 840
     },
     {
-        "en": "True Monarch Duijin",
+        "en": "True Monarch of Reflecting Metal",
         "cn": "兑金真君",
         "pinyin": "Duìjīn Zhēnjūn",
         "type": "Unknown",
@@ -12488,10 +12480,10 @@
         "file": 871
     },
     {
-        "en": "Falling Cassia",
+        "en": "Falling Osmanthus",
         "cn": "落桂",
         "pinyin": "Luòguì",
-        "type": "Unknown",
+        "type": "Artifact",
         "gender": null,
         "file": 871
     },
@@ -13752,7 +13744,7 @@
         "file": 894
     },
     {
-        "en": "Seventy-Two Grotto-Profoundity Scrolls",
+        "en": "Seventy-Two Grotto-Profundity Scrolls",
         "cn": "七十二洞玄书",
         "pinyin": "Qīshí'èr Dòng Xuán Shū",
         "type": "Unknown",
@@ -18272,7 +18264,7 @@
         "file": 987
     },
     {
-        "en": "Supreme Yang Azure Profoundity",
+        "en": "Supreme Yang Azure Profundity",
         "cn": "太阳青玄",
         "pinyin": "Tàiyáng Qīngxuán",
         "type": "Concept/Term",
@@ -18904,7 +18896,7 @@
         "file": 994
     },
     {
-        "en": "Chengyun Immortal Sect",
+        "en": "Revering Radiance Immortal Sect",
         "cn": "称昀仙门",
         "pinyin": "Chēngyún Xiānmén",
         "type": "Group",
@@ -27848,7 +27840,7 @@
         "file": 1207
     },
     {
-        "en": "The path of Comprehending Profoundity is supreme self-veneration; the gods of Encompassing Profoundity bow to imperial decree. They hide within the rising sun to plot the one true path, while the unified Primordial Dao refines Azure Profoundity.",
+        "en": "The path of Comprehending Profundity is supreme self-veneration; the gods of Encompassing Profundity bow to imperial decree. They hide within the rising sun to plot the one true path, while the unified Primordial Dao refines Azure Profundity.",
         "cn": "自尊极贵为通径，兜率仙神叩谕权，藏隐阳暾图正路，浑元齐道炼青玄。",
         "pinyin": "Zìzūn jí guì wèi tōngjìng, dōulǜ xiānshén kòu yùquán, cángyǐn yángtūn tú zhènglù, húnyuán qídào liàn qīngxuán.",
         "type": "Concept/Term",
@@ -29280,7 +29272,7 @@
         "file": 1264
     },
     {
-        "en": "Immortal Profoundity",
+        "en": "Immortal Profundity",
         "cn": "仙玄",
         "pinyin": "Xiān Xuán",
         "type": "Concept/Term",

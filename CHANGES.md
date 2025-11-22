@@ -16,6 +16,17 @@ This document lists all changes made in each version for reference.
 | Hetian Sea (合天海)                       | Converging Heaven Sea              |
 | Audience with the Celestial Gate (谒天门) | Heavenly Audience Gate             |
 | Baleful Qi (煞炁)                         | Malevolent Qi                      |
+| Baleful Earth (地煞)                      | Malevolent Earth                   |
+| Chengyun Gate (称昀门)                    | Revering Radiance Gate             |
+| Que'wan (阙宛)                            | Quewan                             |
+| Jade True Six-Nine Void (玉真六九合虚)    | Jade True Six-Nine Unified Void    |
+| Dharma Master (法相)                      | Dharma Aspect                      |
+| Vija (毗加)                               | Pijia                              |
+| Dantai (澹台)                             | Tantai                             |
+| Art of Rebirth (续途妙法)                 | Path-Extending Wondrous Art        |
+| Falling Cassia (落桂)                     | Falling Osmanthus                  |
+| Geng Tiger Dao (艮虎道)                   | Bound Tiger Dao                    |
+| Pure One Dao (纯一道)                     | Pure Unity Dao                     |
 
 # V1.2
 
@@ -70,10 +81,10 @@ The following glossary terms have been updated for accuracy and consistency:
 
 ## In-Chapter Textual Changes
 
--   Standardized all remaining instances of 'Tingzhou' to 'Ting Province' for consistency.
--   Standardized all remaining instances of 'Xiyang Temple' to 'Xiyang Abbey' for consistency.
+- Standardized all remaining instances of 'Tingzhou' to 'Ting Province' for consistency.
+- Standardized all remaining instances of 'Xiyang Temple' to 'Xiyang Abbey' for consistency.
 
 ## Chapter Numbering Changes
 
--   Corrected a significant numbering error where chapters were incorrectly offset by +3. All chapters have been re-indexed 3 numbers lower (e.g., the chapter previously numbered as 1204 is now correctly Ch. 1201).
--   Added the previously missing chapter (now correctly numbered as Ch. 1201).
+- Corrected a significant numbering error where chapters were incorrectly offset by +3. All chapters have been re-indexed 3 numbers lower (e.g., the chapter previously numbered as 1204 is now correctly Ch. 1201).
+- Added the previously missing chapter (now correctly numbered as Ch. 1201).

@@ -249,8 +249,8 @@
 
 ### Horn Wood
 
-- Ushering Spring’s Dawn
-- Verdant Grove
+- Ushering Spring’s Dawn (黎运春)
+- Verdant Grove (潇重林)
 
 ### Upright Wood
 
