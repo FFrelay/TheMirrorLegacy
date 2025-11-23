@@ -27,6 +27,8 @@ This document lists all changes made in each version for reference.
 | Falling Cassia (落桂)                     | Falling Osmanthus                  |
 | Geng Tiger Dao (艮虎道)                   | Bound Tiger Dao                    |
 | Pure One Dao (纯一道)                     | Pure Unity Dao                     |
+| True Monarch Lushui (渌水真君)            | Pristine Water True Monarch        |
+| Small Guang Kong Mountain (小广空山)      | Small Broad-Void Mountain          |
 
 # V1.2
 
