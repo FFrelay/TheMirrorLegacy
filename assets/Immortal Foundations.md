@@ -326,4 +326,4 @@
 
 ## Way of Sword
 
-- Nurturing the Azure Aether
+- Nurturing the Azure Heaven

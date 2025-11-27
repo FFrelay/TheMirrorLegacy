@@ -4,31 +4,32 @@ This document lists all changes made in each version for reference.
 
 ## Glossary Term Updates
 
-| Old Term                                  | New Term                           |
-| :---------------------------------------- | :--------------------------------- |
-| Sky Glow (霞光)                           | Heavenly Glow                      |
-| Immortal Mansion (元府)                   | Origin Mansion                     |
-| Sovereign's Perilous Tread (君蹈危)       | Sovereign Treading Peril           |
-| Xuanmiao Temple (玄妙观)                  | Profound Wonder Temple             |
-| Xuanmu Divine Writ Dao (玄沐神券女青道)   | Profound Immersion Sacred Writ Dao |
-| Radiant Sun King's Halberd (华阳王钺)     | Illustrious-Yang King's Battle Axe |
-| Pure City (淳城)                          | Chun City                          |
-| Hetian Sea (合天海)                       | Converging Heaven Sea              |
-| Audience with the Celestial Gate (谒天门) | Heavenly Audience Gate             |
-| Baleful Qi (煞炁)                         | Malevolent Qi                      |
-| Baleful Earth (地煞)                      | Malevolent Earth                   |
-| Chengyun Gate (称昀门)                    | Revering Radiance Gate             |
-| Que'wan (阙宛)                            | Quewan                             |
-| Jade True Six-Nine Void (玉真六九合虚)    | Jade True Six-Nine Unified Void    |
-| Dharma Master (法相)                      | Dharma Aspect                      |
-| Vija (毗加)                               | Pijia                              |
-| Dantai (澹台)                             | Tantai                             |
-| Art of Rebirth (续途妙法)                 | Path-Extending Wondrous Art        |
-| Falling Cassia (落桂)                     | Falling Osmanthus                  |
-| Geng Tiger Dao (艮虎道)                   | Bound Tiger Dao                    |
-| Pure One Dao (纯一道)                     | Pure Unity Dao                     |
-| True Monarch Lushui (渌水真君)            | Pristine Water True Monarch        |
-| Small Guang Kong Mountain (小广空山)      | Small Broad-Void Mountain          |
+| Old Term                                   | New Term                                      |
+| :----------------------------------------- | :-------------------------------------------- |
+| Sky Glow (霞光)                            | Heavenly Glow                                 |
+| Immortal Mansion (元府)                    | Origin Mansion                                |
+| Sovereign's Perilous Tread (君蹈危)        | Sovereign Treading Peril                      |
+| Xuanmiao Temple (玄妙观)                   | Profound Wonder Temple                        |
+| Xuanmu Divine Writ Dao (玄沐神券女青道)    | Profound Immersion Sacred Writ Dao            |
+| Radiant Sun King's Halberd (华阳王钺)      | Illustrious-Yang King's Battle Axe            |
+| Pure City (淳城)                           | Chun City                                     |
+| Hetian Sea (合天海)                        | Converging Heaven Sea                         |
+| Audience with the Celestial Gate (谒天门)  | Heavenly Audience Gate                        |
+| Baleful Qi (煞炁)                          | Malevolent Qi                                 |
+| Baleful Earth (地煞)                       | Malevolent Earth                              |
+| Chengyun Gate (称昀门)                     | Revering Radiance Gate                        |
+| Que'wan (阙宛)                             | Quewan                                        |
+| Jade True Six-Nine Void (玉真六九合虚)     | Jade True Six-Nine Unified Void               |
+| Dharma Master (法相)                       | Dharma Aspect                                 |
+| Vija (毗加)                                | Pijia                                         |
+| Dantai (澹台)                              | Tantai                                        |
+| Art of Rebirth (续途妙法)                  | Path-Extending Wondrous Art                   |
+| Falling Cassia (落桂)                      | Falling Osmanthus                             |
+| Geng Tiger Dao (艮虎道)                    | Bound Tiger Dao                               |
+| Pure One Dao (纯一道)                      | Pure Unity Dao                                |
+| True Monarch Lushui (渌水真君)             | Pristine Water True Monarch                   |
+| Small Guang Kong Mountain (小广空山)       | Small Broad-Void Mountain                     |
+| Lord of Obscurity and Gloom (杳暝暗沉之主) | Lord of the Distant Gloom and Sunken Darkness |
 
 # V1.2
 
