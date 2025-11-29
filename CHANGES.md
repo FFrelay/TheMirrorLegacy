@@ -30,6 +30,12 @@ This document lists all changes made in each version for reference.
 | True Monarch Lushui (渌水真君)             | Pristine Water True Monarch                   |
 | Small Guang Kong Mountain (小广空山)       | Small Broad-Void Mountain                     |
 | Lord of Obscurity and Gloom (杳暝暗沉之主) | Lord of the Distant Gloom and Sunken Darkness |
+| Origin-Infant                              | Nascent Soul                                  |
+| Celestial Gate                             | Heavenly Gate                                 |
+| Li flame                                   | Radiant flame                                 |
+| Li light                                   | Radiant light                                 |
+| Li mist                                    | Radiant mist                                  |
+| Xiyang Abbey                               | Dry Yang Abbey                                |
 
 # V1.2
 

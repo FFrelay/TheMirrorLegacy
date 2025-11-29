@@ -26848,7 +26848,7 @@
         "file": 1181
     },
     {
-        "en": "Origin-Infant",
+        "en": "Nascent Soul",
         "cn": "元婴",
         "pinyin": "Yuányīng",
         "type": "Concept/Term",
@@ -31758,68 +31758,69 @@
         "type": "Person",
         "gender": "Male",
         "file": 1322
-    },{
-            "en": "Mount Rao",
-            "cn": "饶山",
-            "pinyin": "Ráo Shān",
-            "type": "Place",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Zhao Dezhi",
-            "cn": "赵德之",
-            "pinyin": "Zhào Dézhī",
-            "type": "Person",
-            "gender": "Male",
-            "file": 1323
-        },
-        {
-            "en": "Abundant Stability Gate",
-            "cn": "余定门",
-            "pinyin": "Yú Dìng Mén",
-            "type": "Group",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Mount Jiao",
-            "cn": "角山",
-            "pinyin": "Jiǎo Shān",
-            "type": "Place",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Imperial Pivot Observation of Dharma Realm",
-            "cn": "帝枢观法界术",
-            "pinyin": "Dì Shū Guān Fǎjiè Shù",
-            "type": "Technique/Art/Method/Incantation/Spell",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Bright Emperor's Observation of the Origin",
-            "cn": "明帝观元",
-            "pinyin": "Míng Dì Guān Yuán",
-            "type": "Technique/Art/Method/Incantation/Spell",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Observation of the Three Yangs",
-            "cn": "三阳有观",
-            "pinyin": "Sān Yáng Yǒu Guān",
-            "type": "Technique/Art/Method/Incantation/Spell",
-            "gender": null,
-            "file": 1323
-        },
-        {
-            "en": "Profound Vault",
-            "cn": "玄库",
-            "pinyin": "Xuán Kù",
-            "type": "Concept/Term",
-            "gender": null,
-            "file": 1323
-        }
+    },
+    {
+        "en": "Mount Rao",
+        "cn": "饶山",
+        "pinyin": "Ráo Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Zhao Dezhi",
+        "cn": "赵德之",
+        "pinyin": "Zhào Dézhī",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1323
+    },
+    {
+        "en": "Abundant Stability Gate",
+        "cn": "余定门",
+        "pinyin": "Yú Dìng Mén",
+        "type": "Group",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Mount Jiao",
+        "cn": "角山",
+        "pinyin": "Jiǎo Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Imperial Pivot Observation of Dharma Realm",
+        "cn": "帝枢观法界术",
+        "pinyin": "Dì Shū Guān Fǎjiè Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Bright Emperor's Observation of the Origin",
+        "cn": "明帝观元",
+        "pinyin": "Míng Dì Guān Yuán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Observation of the Three Yangs",
+        "cn": "三阳有观",
+        "pinyin": "Sān Yáng Yǒu Guān",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1323
+    },
+    {
+        "en": "Profound Vault",
+        "cn": "玄库",
+        "pinyin": "Xuán Kù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1323
+    }
 ]
