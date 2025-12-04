@@ -1,5 +1,14 @@
 This document lists all changes made in each version for reference.
 
+# v2.1
+
+| Old Term                                         | New Term                       |
+| :----------------------------------------------- | :----------------------------- |
+| Biting Qingyuan Profound Cauldron (裨庭青芫玄鼎) | Azure Daphne Profound Cauldron |
+| Li Chenghao                                      | Li Chengxi                     |
+| Li Xie                                           | Li Xi'uh                       |
+| Li Xi'e                                          | Li Xi'uh                       |
+
 # v2.0
 
 ## Glossary Term Updates
@@ -36,6 +45,9 @@ This document lists all changes made in each version for reference.
 | Li light                                   | Radiant light                                 |
 | Li mist                                    | Radiant mist                                  |
 | Xiyang Abbey                               | Dry Yang Abbey                                |
+| Heavenly Radiance, Hidden Light (上曜伏光) | High Radiance Concealing Light                |
+| Emperor Qi's Light (帝岐光)                | Emperor's Diverging Radiance                  |
+| Qi's Light (岐光)                          | Diverging Radiance                            |
 
 # V1.2
 

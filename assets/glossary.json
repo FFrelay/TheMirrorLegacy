@@ -2155,7 +2155,7 @@
         "en": "Immortal Lord",
         "cn": "府君",
         "pinyin": "fǔ jūn",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 665
     },
@@ -8251,7 +8251,7 @@
         "en": "Encompassing Profundity",
         "cn": "兜玄",
         "pinyin": "Dōu Xuán",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 790
     },
@@ -10547,7 +10547,7 @@
         "en": "Azure Profundity",
         "cn": "青玄",
         "pinyin": "Qīng Xuán",
-        "type": "Concept/Term",
+        "type": "Group",
         "gender": null,
         "file": 832
     },
@@ -11166,6 +11166,14 @@
         "type": "Unknown",
         "gender": null,
         "file": 842
+    },
+    {
+        "en": "Li Xi'uh",
+        "cn": "李曦遏",
+        "pinyin": "Lǐ xī è",
+        "type": "Person",
+        "gender": "Male",
+        "file": 843
     },
     {
         "en": "Lin Feng",
@@ -16680,7 +16688,7 @@
         "file": 956
     },
     {
-        "en": "Emperor Qi's Light",
+        "en": "Emperor's Diverging Radiance",
         "cn": "帝岐光",
         "pinyin": "Dì Qí Guāng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -16693,22 +16701,6 @@
         "pinyin": "Qìng Dà Zhēnrén",
         "type": "Person",
         "gender": "Male",
-        "file": 957
-    },
-    {
-        "en": "Observing the Primal Honored Seat, one becomes Emperor. His light spreads to the corners of the sea, and all look upon his majesty. Yet, like the sun moving through the world, he resides in the second-most-prominent position, which thus forms the foundation of this art... The Emperor said: When the Honored One enters the hall as the host, divine radiance fills the chamber; this is High Radiance. When the guest enters the hall, 'Qi's Light' scatters; this is the Yang Cusp. Thus, Emperor Qi's Light was formed! Its Dao is immense...",
-        "cn": "“观元尊位而成帝，光遍海隅，皆瞻其威，却如世间行日，次居第二显，遂成此术根脚…帝曰:尊者主位入殿，则神曜满室，是为上曜，客位入堂，则岐光流离，是为阳极，故成【帝岐光】！其道莫大焉…”",
-        "pinyin": "“Guān yuán zūnwèi ér chéng dì, guāng biàn hǎiyú, jiē zhān qí wēi, què rú shìjiān xíng rì, cì jū dì èr xiǎn, suì chéng cǐ shù gēnjiǎo…Dì yuē: Zūnzhě zhǔwèi rù diàn, zé shényào mǎn shì, shì wèi shàng yào, kè wèi rù táng, zé qí guāng liúlí, shì wèi yáng jí, gù chéng【Dì Qí Guāng】! Qí dào mò dàyān…”",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 957
-    },
-    {
-        "en": "Within the Juque Palace, conceal Baleful Fire Qi. Condense light and electricity, transforming them into a chamber. Enter as the 'guest' with various divine abilities to create the omen of 'Qi's Light.' It is best to use a Bright Yang spiritual item to assist the 'guest's' cultivation.",
-        "cn": "“巨阙庭中蕴藏煞火，光电凝聚，化为一室，以种种神通客位而入，作岐光之兆，以明阳灵物辅助客位修行为佳。”",
-        "pinyin": "“Jùquē Tíng zhōng yùncáng shà huǒ, guāngdiàn níngjù, huà wéi yī shì, yǐ zhǒngzhǒng shéntōng kè wèi ér rù, zuò qí guāng zhī zhào, yǐ míngyáng língwù fǔzhù kè wèi xiūxíng wéi jiā.”",
-        "type": "Technique/Art/Method/Incantation/Spell",
-        "gender": null,
         "file": 957
     },
     {
@@ -17448,7 +17440,7 @@
         "file": 974
     },
     {
-        "en": "Biting Qingyuan Profound Cauldron",
+        "en": "Azure Daphne Profound Cauldron",
         "cn": "裨庭青芫玄鼎",
         "pinyin": "Bìtíng Qīngyuán Xuándǐng",
         "type": "Artifact",
@@ -31064,14 +31056,6 @@
         "file": 1310
     },
     {
-        "en": "Heavenly Glow Dao Embryo",
-        "cn": "天霞道胎",
-        "pinyin": "Tiānxiá Dàotāi",
-        "type": "Person",
-        "gender": "Unknown",
-        "file": 1310
-    },
-    {
         "en": "Can Yan",
         "cn": "参堰",
         "pinyin": "Cān Yàn",
@@ -31085,14 +31069,6 @@
         "pinyin": "Luòxiá Shān",
         "type": "Place",
         "gender": null,
-        "file": 1310
-    },
-    {
-        "en": "Heavenly Glow",
-        "cn": "天下",
-        "pinyin": "Tiānxià",
-        "type": "Person",
-        "gender": "Unknown",
         "file": 1310
     },
     {
@@ -31822,5 +31798,101 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1323
+    },
+    {
+        "en": "Wen Daoping",
+        "cn": "文道凭",
+        "pinyin": "Wén Dàopíng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1324
+    },
+    {
+        "en": "Invoke the Treasury within the Profound, expend the stored wealth.!",
+        "cn": "玄内请藏，有费储帑",
+        "pinyin": "Xuán nèi qǐng cáng, yǒu fèi chǔ tǎng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1324
+    },
+    {
+        "en": "Thunder Emissary",
+        "cn": "雷使",
+        "pinyin": "Léi shǐ",
+        "type": "Group",
+        "gender": null,
+        "file": 1325
+    },
+    {
+        "en": "True Monarch Chixiung",
+        "cn": "持敻真君",
+        "pinyin": "Chí Xiòng Zhēnjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1325
+    },
+    {
+        "en": "Paradise of Great Desire",
+        "cn": "大欲乐土",
+        "pinyin": "Dà Yù Lètǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1325
+    },
+    {
+        "en": "Eastern Paradise",
+        "cn": "东乐土",
+        "pinyin": "Dōng Lètǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1325
+    },
+    {
+        "en": "Regulating Coldness and Maintaining Dryness Scripture",
+        "cn": "调寒持燥经",
+        "pinyin": "Diào Hán Chí Zào Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1326
+    },
+    {
+        "en": "Luo Zangmulu",
+        "cn": "罗臧木闾",
+        "pinyin": "Luó Zāngmùlǘ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1326
+    },
+    {
+        "en": "Wei Dangshan",
+        "cn": "魏砀山",
+        "pinyin": "Wèi Dàngshān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1326
+    },
+    {
+        "en": "Clan Maiden Island",
+        "cn": "氏女岛",
+        "pinyin": "Shì Nǚ Dǎo",
+        "type": "Place",
+        "gender": null,
+        "file": 1326
+    },
+    {
+        "en": "Dao Repository of the Uncarved Vessel",
+        "cn": "悬藏不器道库",
+        "pinyin": "Xuáncáng Bùqì Dàokù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1327
+    },
+    {
+        "en": "Harmonious Accord of the Autumnal Coffer",
+        "cn": "望秋容齐从匮",
+        "pinyin": "Wàngqiūróng Qí Cóngkuì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1327
     }
 ]
