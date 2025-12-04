@@ -1136,7 +1136,7 @@
         "file": 658
     },
     {
-        "en": "Dharma Master",
+        "en": "Dharma Aspect",
         "cn": "法相",
         "pinyin": "Fǎxiàng",
         "type": "Unknown",
@@ -14808,18 +14808,18 @@
         "file": 919
     },
     {
-        "en": "Yincheng Prefecture",
+        "en": "High-Peak City District",
         "cn": "崟城郡",
         "pinyin": "Yínchéng Jùn",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 919
     },
     {
-        "en": "Yincheng",
+        "en": "High-Peak City",
         "cn": "崟城",
         "pinyin": "Yínchéng",
-        "type": "Unknown",
+        "type": "Place",
         "gender": null,
         "file": 919
     },
@@ -28752,7 +28752,7 @@
         "file": 1250
     },
     {
-        "en": "Hub City",
+        "en": "Gu City",
         "cn": "毂城",
         "pinyin": "Gǔ Chéng",
         "type": "Place",
@@ -31128,7 +31128,7 @@
         "file": 1310
     },
     {
-        "en": "Juancheng",
+        "en": "Juan City",
         "cn": "鄄城",
         "pinyin": "Juànchéng",
         "type": "Place",
@@ -31160,7 +31160,7 @@
         "file": 1312
     },
     {
-        "en": "Liaocheng",
+        "en": "Liao City",
         "cn": "聊城",
         "pinyin": "Liáochéng",
         "type": "Place",
@@ -31894,5 +31894,197 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1327
+    },
+    {
+        "en": "Xuan Chao City",
+        "cn": "玄巢城",
+        "pinyin": "Xuán Cháo Chéng",
+        "type": "Place",
+        "gender": null,
+        "file": 1328
+    },
+    {
+        "en": "Wu Miao",
+        "cn": "吴庙",
+        "pinyin": "Wú Miào",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1328
+    },
+    {
+        "en": "Xuan Chao",
+        "cn": "玄巢",
+        "pinyin": "Xuán Cháo",
+        "type": "Place",
+        "gender": null,
+        "file": 1328
+    },
+    {
+        "en": "Joyful Bliss Dao",
+        "cn": "善乐道",
+        "pinyin": "Shàn Lè Dào",
+        "type": "Group",
+        "gender": null,
+        "file": 1328
+    },
+    {
+        "en": "Emptiness Dao",
+        "cn": "空无道",
+        "pinyin": "Kōng Wú Dào",
+        "type": "Group",
+        "gender": null,
+        "file": 1328
+    },
+    {
+        "en": "Wen Xuanzhao",
+        "cn": "文玄昭",
+        "pinyin": "Wén Xuánzhāo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1328
+    },
+    {
+        "en": "Longkang",
+        "cn": "龙亢",
+        "pinyin": "Lóng Kàng",
+        "type": "Group",
+        "gender": null,
+        "file": 1328
+    },
+    {
+        "en": "Longkang Yao",
+        "cn": "龙亢肴",
+        "pinyin": "Lóng Kàng Yáo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1328
+    },
+    {
+        "en": "Youfang",
+        "cn": "有防",
+        "pinyin": "Yǒufáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Longkang Youfang",
+        "cn": "龙亢有防",
+        "pinyin": "Lóngkàng Yǒufáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Pang Zhan",
+        "cn": "庞沾",
+        "pinyin": "Páng Zhān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Boundless Water and Fire",
+        "cn": "无垠水火",
+        "pinyin": "Wúyín Shuǐhuǒ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1329
+    },
+    {
+        "en": "Bian Fan",
+        "cn": "边犯",
+        "pinyin": "Biān Fàn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Lu An",
+        "cn": "吕安",
+        "pinyin": "Lǚ Ān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Aiding City",
+        "cn": "襄城",
+        "pinyin": "Xiāngchéng",
+        "type": "Place",
+        "gender": null,
+        "file": 1329
+    },
+    {
+        "en": "Bian Han",
+        "cn": "边函",
+        "pinyin": "Biān Hán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1329
+    },
+    {
+        "en": "Horizon-Filling Brilliance",
+        "cn": "满垠煌",
+        "pinyin": "Mǎn Yín Huáng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1329
+    },
+    {
+        "en": "Compassion Temple",
+        "cn": "悲庙",
+        "pinyin": "Bēi Miào",
+        "type": "Group",
+        "gender": null,
+        "file": 1330
+    },
+    {
+        "en": "Jinshan",
+        "cn": "堇山",
+        "pinyin": "Jǐnshān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1330
+    },
+    {
+        "en": "Way of Absolute Bliss Samadhi",
+        "cn": "绝乐三昧道",
+        "pinyin": "Juélè Sānmèi Dào",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1330
+    },
+    {
+        "en": "Samadhi of Emptiness",
+        "cn": "空三昧",
+        "pinyin": "Kōng Sānmèi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1330
+    },
+    {
+        "en": "Terror Dispelling",
+        "cn": "释怖",
+        "pinyin": "Shì Bù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1330
+    },
+    {
+        "en": "Great Emptiness Dao-Seeking Plate",
+        "cn": "大空求道盘",
+        "pinyin": "Dàkōng Qiúdào Pán",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1330
+    },
+    {
+        "en": "Maodigu",
+        "cn": "冒谛骨",
+        "pinyin": "Mào Dì Gǔ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1330
     }
 ]

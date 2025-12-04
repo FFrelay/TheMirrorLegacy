@@ -53,6 +53,7 @@
 ### Hengzhu/Balanced Ritual
 
 - Palace-Yang Tiger
+- Horizon-Filling Brilliance
 
 ### Azure Manifestation
 
