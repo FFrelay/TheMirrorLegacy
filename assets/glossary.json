@@ -3344,7 +3344,7 @@
         "file": 677
     },
     {
-        "en": "Hengzhu",
+        "en": "Balanced Ritual",
         "cn": "衡祝",
         "pinyin": "Héng Zhù",
         "type": "Unknown",
@@ -4184,7 +4184,7 @@
         "file": 688
     },
     {
-        "en": "Hengzhu Immortal Dao",
+        "en": "Balanced Ritual Immortal Dao",
         "cn": "衡祝仙道",
         "pinyin": "Héngzhù Xiāndào",
         "type": "Unknown",
@@ -12872,7 +12872,7 @@
         "file": 875
     },
     {
-        "en": "Li-Light Origin Essence",
+        "en": "Searing Light Origin Essence",
         "cn": "离光元萃",
         "pinyin": "Líguāng Yuáncuì",
         "type": "Unknown",
@@ -12904,7 +12904,7 @@
         "file": 875
     },
     {
-        "en": "Li-Light",
+        "en": "Searing Light",
         "cn": "离光",
         "pinyin": "Líguāng",
         "type": "Concept/Term",
@@ -18592,7 +18592,7 @@
         "file": 991
     },
     {
-        "en": "Splendor of Li-Light",
+        "en": "Splendor of Searing Light",
         "cn": "离光华熙",
         "pinyin": "Líguāng Huáxī",
         "type": "Artifact",
@@ -27016,7 +27016,7 @@
         "file": 1183
     },
     {
-        "en": "Radiant Light Seeking Blaze Scripture",
+        "en": "Searing Light Seeking Blaze Scripture",
         "cn": "曜光求炽经",
         "pinyin": "Yàoguāng Qiúchì Jīng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -28552,7 +28552,7 @@
         "file": 1239
     },
     {
-        "en": "Pale Li-Light Obscurity Leaf",
+        "en": "Pale Searing Light Obscurity Leaf",
         "cn": "离白无闻叶",
         "pinyin": "Lí Bái Wú Wén Yè",
         "type": "Item",
@@ -28576,7 +28576,7 @@
         "file": 1239
     },
     {
-        "en": "White Li-Light Heart-Vow Fruit",
+        "en": "White Searing Light Heart-Vow Fruit",
         "cn": "白离心誓果",
         "pinyin": "Bái Lí Xīn Shì Guǒ",
         "type": "Item",
@@ -32086,5 +32086,181 @@
         "type": "Person",
         "gender": "Male",
         "file": 1330
+    },
+    {
+        "en": "Emissary of Aridity",
+        "cn": "布燥使",
+        "pinyin": "Bù zào shǐ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1331
+    },
+    {
+        "en": "Grasping the Blazing Summer",
+        "cn": "秉灴夏",
+        "pinyin": "Bǐng hōng xià",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1331
+    },
+    {
+        "en": "Profound Method of Accommodating Water and Fire",
+        "cn": "容却水火玄法",
+        "pinyin": "Róng què shuǐ huǒ xuán fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1331
+    },
+    {
+        "en": "Beneath the Master of Yin and Yang, between the realms of Water and Fire, there is nothing it cannot accommodate",
+        "cn": "阴阳主之下, 水火籍之间, 无所不容",
+        "pinyin": "Yīnyáng zhǔ zhī xià, shuǐhuǒ jí zhī jiān, wú suǒ bù róng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1331
+    },
+    {
+        "en": "Twenty-Four Profound Rhombuses of Blazing Transformation",
+        "cn": "二十四灴变迁化玄菱",
+        "pinyin": "Èrshísì Hōng Biànqiān Huà Xuán Líng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Fuqi Zi Zhu",
+        "cn": "父戚子朱",
+        "pinyin": "Fù Qī zǐ Zhū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1332
+    },
+    {
+        "en": "Body, be without form. Essence, be without root. By blazing flame and candlelight, let this moment become a calamity!",
+        "cn": "变无定体, 着无根处, 火火烛烛, 今势为灾!",
+        "pinyin": "Biàn wú dìng tǐ, zhuó wú gēn chù, huǒ huǒ zhú zhú, jīn shì wéi zāi!",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Sinking Azure Niche",
+        "cn": "具沉避青龛",
+        "pinyin": "Jù Chén Bì Qīng Kān",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Azure Niche",
+        "cn": "青龛",
+        "pinyin": "Qīng Kān",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Chefu grand array",
+        "cn": "车幅大阵",
+        "pinyin": "Chē Fú Dà Zhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Qi clan",
+        "cn": "戚家",
+        "pinyin": "Qī jiā",
+        "type": "Group",
+        "gender": null,
+        "file": 1332
+    },
+    {
+        "en": "Divine Slaying True Monarch",
+        "cn": "神戕真君",
+        "pinyin": "Shén Qiāng Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Dragon-Slaying Blazing Transformation Dharma Body",
+        "cn": "龙戕灴变之身",
+        "pinyin": "Lóng Qiāng Hōng Biàn zhī Shēn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Dragon-Slaying Blazing Transformation",
+        "cn": "龙戕灴变",
+        "pinyin": "Lóng Qiāng Hōng Biàn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "True Monarch of Divine Blazing Aridity",
+        "cn": "神灴布燥真君",
+        "pinyin": "Shén Hōng Bù Zào Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Encompassing Profundity Heavenly Derivation",
+        "cn": "兜玄天衍",
+        "pinyin": "Dōu Xuán Tiān Yǎn",
+        "type": "Group",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Heavenly Derivation",
+        "cn": "天衍",
+        "pinyin": "Tiān Yǎn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Yu Xixin",
+        "cn": "虞息心",
+        "pinyin": "Yú Xīxīn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1333
+    },
+    {
+        "en": "Heavenly Derivation Dao-path",
+        "cn": "天衍道轨",
+        "pinyin": "Tiān Yǎn Dàoguǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "White Ritual Daoist tradition",
+        "cn": "素祀道统",
+        "pinyin": "Sù Sì Dàotǒng",
+        "type": "Group",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "White Ritual",
+        "cn": "素祀",
+        "pinyin": "Sù Sì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1333
+    },
+    {
+        "en": "Chunyu clan",
+        "cn": "淳于氏",
+        "pinyin": "Chúnyú Shì",
+        "type": "Group",
+        "gender": null,
+        "file": 1333
     }
 ]

@@ -50,7 +50,7 @@
 
 ## Two Rites
 
-### Hengzhu/Balanced Ritual
+### Balanced Ritual
 
 - Palace-Yang Tiger
 - Horizon-Filling Brilliance
@@ -159,6 +159,8 @@
 ### Blazing Fire
 
 - Burning the Old Chamber/Burning of All Under Heaven
+- Emissary of Aridity
+- Grasping the Blazing Summer
 
 ### Radiant Fire
 

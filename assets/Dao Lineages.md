@@ -45,7 +45,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 
 ## Two Rituals
 
--   Balanced Ritual/Hengzhu - 衡祝 (héng zhù)
+-   Balanced Ritual - 衡祝 (héng zhù)
 -   Azure Proclaimation - 青宣 (Qīng Xuān)
 
 # Five Virtues

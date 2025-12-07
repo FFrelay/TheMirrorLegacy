@@ -8,11 +8,12 @@ This document lists all changes made in each version for reference.
 | Li Chenghao                                      | Li Chengxi                     |
 | Li Xie                                           | Li Xi'uh                       |
 | Li Xi'e                                          | Li Xi'uh                       |
-| Xiang Township (襄乡\|襄城) | Aiding City |
-| Juancheng (鄄城) | Juan City |
-| Liaocheng (聊城) | Liao City |
-| Yincheng (崟城) | High-Peak City |
-| Hub City (毂城) | Gu City |
+| Xiang Township (襄乡\|襄城)                      | Aiding City                    |
+| Juancheng (鄄城)                                 | Juan City                      |
+| Liaocheng (聊城)                                 | Liao City                      |
+| Yincheng (崟城)                                  | High-Peak City                 |
+| Hub City (毂城)                                  | Gu City                        |
+| Hengzhu (衡祝)                                   | Balanced Ritual                |
 
 # v2.0
 
