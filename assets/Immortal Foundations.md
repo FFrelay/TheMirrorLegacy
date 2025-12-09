@@ -73,8 +73,8 @@
 
 ## Bright Yang
 
-- Audience with the Celestial Gate
-- Crimson Severing Arrowhead
+- Celestial Audience Gate/Radiant Origin Pass (Alternative)
+- Crimson Severing Arrowhead/Chariot of the Presiding Office (Alternative)
 - Imperial Observation of the Origin/Eternal Brightness Steps (Alternative)
 - Sovereign Treading Peril
 - Luminous Heart/Illumination of All Under Heaven
@@ -144,7 +144,7 @@
 
 - Gathering of Illuminated Hearts
 - Uniting the Flourishing Light
-- King's Hunt
+- Sacred Hunt King
 
 # Five Virtues
 
@@ -311,7 +311,6 @@
 
 - Rhythm of Enacting Might
 - Smiting the Sealed Altar
-- Heaven's Crying Spur
 
 ## Primodial Magnestism
 

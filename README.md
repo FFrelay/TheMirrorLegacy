@@ -44,11 +44,11 @@ You can read the individual chapters directly in this repository. All translated
 
 -   [**Browse All Chapters**](./translations/)
 
-### 3. Download Ebooks (From `dist` Folder)
+### 3. Download Ebooks (From `bundled` Folder)
 
-Alternatively, the latest compiled ebook files are also stored directly in the `dist` (distribution) folder of this repository.
+Alternatively, the latest compiled ebook files are also stored directly in the `bundled` folder of this repository.
 
--   [**Browse Ebook Files**](./dist/)
+-   [**Browse Ebook Files**](./bundled/)
 
 ---
 
