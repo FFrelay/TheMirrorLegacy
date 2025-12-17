@@ -1,8 +1,16 @@
-In chaotic times, millions were slain, Of the whole family, I alone remain. A fate so cruel, Heaven's judgment is due~ A fate so cruel, may Heaven run me through.
+In chaotic times, millions were slain,
+Of the whole family, I alone remain.
+A fate so cruel, Heaven's judgment is due~
+A fate so cruel, may Heaven run me through.
 
-In years past, a single clan ruled the prefecture... how many storms have now passed? North and south clash, heads rolling fast... the common folk suffer, to misery cast~ an injustice that will forever last!
+In years past, a single clan ruled the prefecture...
+How many storms have now passed? North and south clash, heads rolling fast...
+The common folk suffer, to misery cast~
+An injustice that will forever last!
 
-In years past, this forest became a domain of ghosts... where even great demons hid their boasts... a ghostly wind sweeping men from their posts...
+In years past, this forest became a domain of ghosts...
+Where even great demons hid their boasts...
+A ghostly wind sweeping men from their posts...
 
 Tossed about, with no path to take, how can a ghost compare to an immortal's make? But He became an immortal! The world revolves, the land brightens~ all at his command, Ghost envoys of five directions call wind and thunder~ subject to his demand.
 
