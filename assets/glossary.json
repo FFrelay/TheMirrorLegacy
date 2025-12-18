@@ -32504,11 +32504,27 @@
         "file": 1336
     },
     {
-        "en": "immortal images",
+        "en": "immortal image",
         "cn": "仙像",
         "pinyin": "xiānxiàng",
         "type": "Concept/Term",
         "gender": null,
         "file": 1336
+    },
+    {
+        "en": "Qi Lanjin",
+        "cn": "戚览荆",
+        "pinyin": "Qī Lǎnjīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1337
+    },
+    {
+        "en": "Yu Heng",
+        "cn": "虞衡",
+        "pinyin": "Yú Héng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1337
     }
 ]
