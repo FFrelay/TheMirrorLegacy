@@ -3121,14 +3121,6 @@
     },
     {
         "en": "Way of Great Desire",
-        "cn": "大欲一道",
-        "pinyin": "Dà Yù Yīdào",
-        "type": "Unknown",
-        "gender": null,
-        "file": 674
-    },
-    {
-        "en": "Way of Great Desire",
         "cn": "大欲道",
         "pinyin": "Dà Yù Dào",
         "type": "Group",
@@ -21168,7 +21160,7 @@
         "file": 1041
     },
     {
-        "en": "Jiang Toushou",
+        "en": "River Chief",
         "cn": "江头首",
         "pinyin": "Jiāngtóushǒu",
         "type": "Person",
@@ -25680,7 +25672,7 @@
         "file": 1142
     },
     {
-        "en": "The Violet Arrangement",
+        "en": "Violet Arrangement",
         "cn": "列紫篇",
         "pinyin": "liè zǐ piān",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -30400,7 +30392,7 @@
         "file": 1292
     },
     {
-        "en": "World Master",
+        "en": "Realm Lord",
         "cn": "界主",
         "pinyin": "Jièzhǔ",
         "type": "Concept/Term",
@@ -32304,14 +32296,6 @@
         "file": 1334
     },
     {
-        "en": "Immortal Land Grotto-Heavens",
-        "cn": "仙土洞天",
-        "pinyin": "Xiāntǔ Dòngtiān",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 1334
-    },
-    {
         "en": "Sandalwood Forest",
         "cn": "旃檀林",
         "pinyin": "Zhāntánlín",
@@ -32326,5 +32310,205 @@
         "type": "Creature",
         "gender": null,
         "file": 1334
+    },
+    {
+        "en": "Aspect Lord",
+        "cn": "相主",
+        "pinyin": "Xiàngzhǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Six Incinerations Cinnabar Corpse Flawless Dharma Aspect",
+        "cn": "六焚丹尸无漏法相",
+        "pinyin": "Liù Fén Dān Shī Wúlòu Fǎxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Expounder of the Profound",
+        "cn": "玄说",
+        "pinyin": "Xuánshuō",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Six Incinerations Aspect",
+        "cn": "六焚相",
+        "pinyin": "Liù Fén Xiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Thunder Sound Aspect",
+        "cn": "雷音相",
+        "pinyin": "Léiyīn Xiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Chief",
+        "cn": "头首",
+        "pinyin": "Tóushǒu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Lamp Chief",
+        "cn": "灯头首",
+        "pinyin": "Dēng Tóushǒu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1335
+    },
+    {
+        "en": "Thunder Chief",
+        "cn": "雷头首",
+        "pinyin": "Léi Tóushǒu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1335
+    },
+    {
+        "en": "Daolü",
+        "cn": "道律",
+        "pinyin": "Dàolǜ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1335
+    },
+    {
+        "en": "Fuyan",
+        "cn": "伏言",
+        "pinyin": "Fúyán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1335
+    },
+    {
+        "en": "Holy Land",
+        "cn": "圣土",
+        "pinyin": "Shèngtǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "Madly Barking Vicious Dog Great Being",
+        "cn": "狂吠恶犬大士",
+        "pinyin": "Kuángfèi Èquǎn Dàshì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1335
+    },
+    {
+        "en": "First Omen of the Dao",
+        "cn": "道始兆",
+        "pinyin": "Dào Shǐ Zhào",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Omen of the Dao",
+        "cn": "道兆",
+        "pinyin": "Dào Zhào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Chancellor Liang's Terrace",
+        "cn": "梁相台",
+        "pinyin": "Liáng Xiàng Tái",
+        "type": "Group",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "True Scripture",
+        "cn": "真经",
+        "pinyin": "zhēnjīng",
+        "type": "Item",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Qi Spirit",
+        "cn": "炁神",
+        "pinyin": "qìshén",
+        "type": "Creature",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "spiritual vitality",
+        "cn": "灵机",
+        "pinyin": "língjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Scripture of Four Qi Facing Purple",
+        "cn": "四炁朝紫经",
+        "pinyin": "Sì Qì Cháo Zǐ Jīng",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Kun Chen Xiu",
+        "cn": "坤辰修",
+        "pinyin": "Kūn Chén Xiū",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "Yang Sheng Zhu",
+        "cn": "养生主",
+        "pinyin": "Yǎng Shēng Zhǔ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "profound unity purple",
+        "cn": "混一紫色",
+        "pinyin": "hùnyī zǐsè",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "purple intent",
+        "cn": "紫意",
+        "pinyin": "zǐyì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "From the One Qi, the division begins; manifesting in likeness and form. I align with Heaven and Earth, merging with their spontaneous division!",
+        "cn": "一炁始剖，既类成像，我同天地，合其自分！",
+        "pinyin": "Yī qì shǐ pōu, jì lèi chéng xiàng, wǒ tóng tiāndì, hé qí zì fēn!",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1336
+    },
+    {
+        "en": "immortal images",
+        "cn": "仙像",
+        "pinyin": "xiānxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1336
     }
 ]

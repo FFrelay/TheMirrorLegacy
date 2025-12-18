@@ -132,6 +132,14 @@
 
 - Stone-Embracing Slumber
 
+## Purple Qi
+
+- Chapter on Arranging Purple
+- Principal of Nurturing Life
+- Cultivation of the Earth and the Stars
+- First Omen of the Dao
+- Circling the East Mountain (绕东山)
+
 ## Dry Qi
 
 - Unending Dawnfire/Blazing Return

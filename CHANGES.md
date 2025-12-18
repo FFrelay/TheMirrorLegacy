@@ -2,9 +2,10 @@ This document lists all changes made in each version for reference.
 
 # v2.3
 
-| Old Term          | New Term     |
-| :---------------- | :----------- |
-| Realm Lord (界主) | World Master |
+| Old Term                    | New Term                    |
+| :-------------------------- | :-------------------------- |
+| Jiang Toushou (江头首)      | River Chief                 |
+| Violet Arrangement (列紫篇) | Chapter on Arranging Purple |
 
 # v2.2
 
