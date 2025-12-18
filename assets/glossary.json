@@ -30400,7 +30400,7 @@
         "file": 1292
     },
     {
-        "en": "Realm Lord",
+        "en": "World Master",
         "cn": "界主",
         "pinyin": "Jièzhǔ",
         "type": "Concept/Term",
@@ -32262,5 +32262,69 @@
         "type": "Group",
         "gender": null,
         "file": 1333
+    },
+    {
+        "en": "Pang Queyan",
+        "cn": "庞阕云",
+        "pinyin": "Páng Quèyún",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1334
+    },
+    {
+        "en": "Qu Caotan",
+        "cn": "瞿嘈滩",
+        "pinyin": "Qú Cáotān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1334
+    },
+    {
+        "en": "Golden Land of Guanhe",
+        "cn": "观河金地",
+        "pinyin": "Guānhé Jīndì",
+        "type": "Place",
+        "gender": null,
+        "file": 1334
+    },
+    {
+        "en": "Konglu",
+        "cn": "空律",
+        "pinyin": "Kōnglǜ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1334
+    },
+    {
+        "en": "Kongyan",
+        "cn": "空言",
+        "pinyin": "Kōngyán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1334
+    },
+    {
+        "en": "Immortal Land Grotto-Heavens",
+        "cn": "仙土洞天",
+        "pinyin": "Xiāntǔ Dòngtiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1334
+    },
+    {
+        "en": "Sandalwood Forest",
+        "cn": "旃檀林",
+        "pinyin": "Zhāntánlín",
+        "type": "Place",
+        "gender": null,
+        "file": 1334
+    },
+    {
+        "en": "Heavenly Demons",
+        "cn": "天魔",
+        "pinyin": "Tiānmó",
+        "type": "Creature",
+        "gender": null,
+        "file": 1334
     }
 ]

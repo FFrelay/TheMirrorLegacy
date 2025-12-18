@@ -1,6 +1,12 @@
 This document lists all changes made in each version for reference.
 
-# v2.1
+# v2.3
+
+| Old Term          | New Term     |
+| :---------------- | :----------- |
+| Realm Lord (界主) | World Master |
+
+# v2.2
 
 | Old Term                                         | New Term                       |
 | :----------------------------------------------- | :----------------------------- |
