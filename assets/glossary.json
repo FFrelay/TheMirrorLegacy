@@ -1995,8 +1995,8 @@
         "en": "White Qilin",
         "cn": "白麟",
         "pinyin": "Bái lín",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 663
     },
     {
@@ -2072,7 +2072,7 @@
         "file": 664
     },
     {
-        "en": "True Dragons",
+        "en": "True Dragon",
         "cn": "真龙",
         "pinyin": "Zhēnlóng",
         "type": "Unknown",
@@ -12080,7 +12080,7 @@
         "file": 863
     },
     {
-        "en": "Sword Origin",
+        "en": "Sword Essence",
         "cn": "剑元",
         "pinyin": "jiàn yuán",
         "type": "Unknown",
@@ -13019,8 +13019,16 @@
         "en": "Daoist Master Yuanshang",
         "cn": "元商真人",
         "pinyin": "Yuánshāng Zhēnrén",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
+        "file": 877
+    },
+    {
+        "en": "Yuanshang",
+        "cn": "元商",
+        "pinyin": "Yuánshāng",
+        "type": "Person",
+        "gender": "Male",
         "file": 877
     },
     {
@@ -25216,7 +25224,7 @@
         "file": 1132
     },
     {
-        "en": "Crescent Moon Sword Origin",
+        "en": "Crescent Moon Sword Essence",
         "cn": "弦月剑元",
         "pinyin": "Xiányuè Jiàn Yuán",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -32400,7 +32408,7 @@
         "file": 1335
     },
     {
-        "en": "Madly Barking Vicious Dog Great Being",
+        "en": "Venerable Rabid Cur",
         "cn": "狂吠恶犬大士",
         "pinyin": "Kuángfèi Èquǎn Dàshì",
         "type": "Concept/Term",
@@ -32526,5 +32534,205 @@
         "type": "Person",
         "gender": "Male",
         "file": 1337
+    },
+    {
+        "en": "Xun Xuanzai",
+        "cn": "荀玄宰",
+        "pinyin": "Xún Xuánzǎi",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1339
+    },
+    {
+        "en": "Paradise",
+        "cn": "乐土",
+        "pinyin": "Lètǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Donghua",
+        "cn": "洞华",
+        "pinyin": "Dònghuá",
+        "type": "Group",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Gu You",
+        "cn": "顾攸",
+        "pinyin": "Gù Yōu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1339
+    },
+    {
+        "en": "Jinchuan",
+        "cn": "晋川",
+        "pinyin": "Jìnchuān",
+        "type": "Place",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Where Currents Return",
+        "cn": "归流处",
+        "pinyin": "Guīliúchù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "King Dai",
+        "cn": "代王",
+        "pinyin": "Dài Wáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1339
+    },
+    {
+        "en": "Preemptive Execution",
+        "cn": "先诛",
+        "pinyin": "Xiānzhū",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Prophecy at Hand",
+        "cn": "谶在兹",
+        "pinyin": "Chènzàizī",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "All Convergences Return",
+        "cn": "诸合还",
+        "pinyin": "Zhūhéhuán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Converging Heaven Resonance Profound Art",
+        "cn": "合天听还玄术",
+        "pinyin": "Hétiān Tīnghuán Xuánshù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "All-Leveling Sage",
+        "cn": "广准圣",
+        "pinyin": "Guǎng Zhǔnshèng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Blazing Fire Divine Ability Immortal Blood",
+        "cn": "灴火神通仙血",
+        "pinyin": "Hōnghuǒ Shéntōng Xiānxuè",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Supreme Feathered Robe",
+        "cn": "无上羽衣",
+        "pinyin": "Wúshàng Yǔyī",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Feathered Robe",
+        "cn": "羽衣",
+        "pinyin": "Yǔyī",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "To be enemies with Mingyang: Withstand one blow, and you must withstand many to hold your ground; but crumble once, and you will crumble utterly, never to return to life.",
+        "cn": "与明阳为敌，一御则数御，得以自立，一崩则再崩，不复还生",
+        "pinyin": "Yǔ Míngyáng wéi dí, yī yù zé shù yù, déyǐ zìlì, yī bēng zé zài bēng, bú fù huánshēng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "White Qilin",
+        "cn": "白麒麟",
+        "pinyin": "Bái Qílín",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1339
+    },
+    {
+        "en": "Heavenly Sea Within Water Secret Method",
+        "cn": "天海在水秘法",
+        "pinyin": "Tiānhǎi Zàishuǐ Mìfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Demonic Defiled River",
+        "cn": "妖渎河",
+        "pinyin": "Yāodúhé",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1339
+    },
+    {
+        "en": "Guanmiao",
+        "cn": "瓘妙",
+        "pinyin": "Guànmiào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1341
+    },
+    {
+        "en": "Attendant Spirit",
+        "cn": "侍神",
+        "pinyin": "Shìshén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1341
+    },
+    {
+        "en": "Numinous Treasure Painting",
+        "cn": "灵宝图",
+        "pinyin": "Língbǎo Tú",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1341
+    },
+    {
+        "en": "Yanmen",
+        "cn": "燕门",
+        "pinyin": "Yānmén",
+        "type": "Place",
+        "gender": null,
+        "file": 1341
+    },
+    {
+        "en": "Dongling",
+        "cn": "东陵",
+        "pinyin": "Dōnglíng",
+        "type": "Place",
+        "gender": null,
+        "file": 1341
+    },
+    {
+        "en": "Wuchuan",
+        "cn": "务川",
+        "pinyin": "Wùchuān",
+        "type": "Place",
+        "gender": null,
+        "file": 1341
     }
 ]
