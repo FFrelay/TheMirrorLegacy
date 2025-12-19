@@ -22976,7 +22976,7 @@
         "file": 1079
     },
     {
-        "en": "Yayoi's Rebirth",
+        "en": "Misheng's Reincarnation",
         "cn": "弥生再世",
         "pinyin": "Míshēng Zàishì",
         "type": "Concept/Term",
@@ -25680,7 +25680,7 @@
         "file": 1142
     },
     {
-        "en": "Violet Arrangement",
+        "en": "Chapter on Arranging Purple",
         "cn": "列紫篇",
         "pinyin": "liè zǐ piān",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -32734,5 +32734,85 @@
         "type": "Place",
         "gender": null,
         "file": 1341
+    },
+    {
+        "en": "Fu Tanjian",
+        "cn": "符檀菅",
+        "pinyin": "Fú Tánjiān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1342
+    },
+    {
+        "en": "Misheng",
+        "cn": "弥生",
+        "pinyin": "Míshēng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1342
+    },
+    {
+        "en": "Azure Crow Bow",
+        "cn": "青乌弓",
+        "pinyin": "Qīngwū Gōng",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1343
+    },
+    {
+        "en": "Son of Long Prefecture",
+        "cn": "陇郡儿",
+        "pinyin": "Lǒng jùn ér",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "Affinity of the Reed Marsh",
+        "cn": "芦荡缘",
+        "pinyin": "Lúdàng yuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "Expelling the Vicious",
+        "cn": "攘群凶",
+        "pinyin": "Rǎng qún xiōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "Purifying the Universe",
+        "cn": "澄清宇",
+        "pinyin": "Chéngqīng yǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "Reaching the Dawn",
+        "cn": "暨天明",
+        "pinyin": "Jì tiānmíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "Fullness Palace",
+        "cn": "满盈宫",
+        "pinyin": "Mǎnyíng gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1344
+    },
+    {
+        "en": "The Recent Usurpation",
+        "cn": "篡事近",
+        "pinyin": "Cuànshì jìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1344
     }
 ]

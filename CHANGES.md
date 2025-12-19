@@ -6,6 +6,7 @@ This document lists all changes made in each version for reference.
 | :-------------------------- | :-------------------------- |
 | Jiang Toushou (江头首)      | River Chief                 |
 | Violet Arrangement (列紫篇) | Chapter on Arranging Purple |
+| Yayoi's Rebirth (弥生再世)  | Misheng's Reincarnation     |
 
 # v2.2
 
