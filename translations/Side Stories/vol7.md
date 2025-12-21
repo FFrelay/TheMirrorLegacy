@@ -32,7 +32,7 @@ The youth kowtowed, but the woman was relentless.
 
 Her words cast both of them in a bad light, leaving them with no response. Her disciple-brother sighed, and while pulling her up the path, he seemed to recall something and laughed.
 
-"It's always been you who mocks others, but lately I heard a phrase from the Heavenly Gate: 'A late attainment at the tower forfeits the Dao-fruit.' So it seems you've been mocked by others as well."
+"It's always been you who mocks others, but lately I heard a phrase from the Heavenly Gate: 'Loutai verified late, losing the Dao Fruit.' So it seems you've been mocked by others as well."
 
 The woman was unconcerned, only saying, "That's obvious. It must have been spread by Wuguan and his group. That fellow has always enjoyed criticizing current affairs. Let them talk. Just because one is a noble True Monarch, does one have to control all the mouths in the world? I'm not Huan Xuan, to be so petty."
 
@@ -164,7 +164,7 @@ The Exalted Immortal seemed quite emotional and shook his head. "Harmonizing the
 
 He filled the cups for his two junior disciples and said softly, "Back then, Master traveled the world and passed down six scrolls. He brought the two of you back from the mortal world and appointed me to teach you. You each asked a question then. Do you still remember?"
 
-The two True Monarchs were rather uneasy and nodded. He said, "Wei Yi asked: 'The Profound Heaven's High Firmament, upon what does it rely? Since it is a constant thing, why does it have likes and dislikes?' Wu Shang asked: 'The vastness beyond the heavens, its measure unknown; in its deep and endless darkness, who knows the reason for it?'"
+The two True Monarchs were rather uneasy and nodded. He said, "Wei Yi asked: 'The Profound Heaven's High Firmament, upon what does it rely? Since it is a constant thing, why does it have likes and dislikes?' Wushang asked: 'The vastness beyond the heavens, its measure unknown; in its deep and endless darkness, who knows the reason for it?'"
 
 "One asked of the Heavenly Dao, the other of the world beyond. At that time, I could not answer…"
 
