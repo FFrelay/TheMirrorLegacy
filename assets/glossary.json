@@ -1360,14 +1360,6 @@
         "file": 659
     },
     {
-        "en": "Underworld",
-        "cn": "阴司",
-        "pinyin": "Yīnsī",
-        "type": "Unknown",
-        "gender": null,
-        "file": 659
-    },
-    {
         "en": "Metallic Essence",
         "cn": "金性",
         "pinyin": "Jīnxìng",
@@ -2211,7 +2203,7 @@
         "en": "Hornless Dragon",
         "cn": "螭",
         "pinyin": "Chī",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 666
     },
@@ -2235,8 +2227,8 @@
         "en": "True Hornless Dragon",
         "cn": "真螭",
         "pinyin": "Zhēn Chī",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 666
     },
     {
@@ -3235,8 +3227,8 @@
         "en": "Su Xikong",
         "cn": "苏悉空",
         "pinyin": "Sū Xīkōng",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Unknown",
         "file": 675
     },
     {
@@ -3440,7 +3432,7 @@
         "file": 677
     },
     {
-        "en": "Intercalary Sun Art",
+        "en": "Intercalary Yang Art",
         "cn": "闰阳法",
         "pinyin": "Rùnyáng Fǎ",
         "type": "Unknown",
@@ -4912,9 +4904,9 @@
         "file": 696
     },
     {
-        "en": "Sumian",
+        "en": "Su Mian",
         "cn": "素免",
-        "pinyin": "Sùmiǎn",
+        "pinyin": "Sù Miǎn",
         "type": "Unknown",
         "gender": null,
         "file": 696
@@ -6344,7 +6336,7 @@
         "file": 718
     },
     {
-        "en": "Luminous Heart",
+        "en": "Bright Heart of Clarity",
         "cn": "昭澈心",
         "pinyin": "Zhāochèxīn",
         "type": "Unknown",
@@ -7728,7 +7720,7 @@
         "file": 767
     },
     {
-        "en": "Azure Proclaimation",
+        "en": "Azure Proclamation",
         "cn": "青宣",
         "pinyin": "qīng xuān",
         "type": "Unknown",
@@ -8195,14 +8187,6 @@
         "en": "Art of Wondrous Earth and Moving Treasured Mountains",
         "cn": "妙土宝山是处移",
         "pinyin": "Miàotǔ Bǎoshān Shìchù Yí",
-        "type": "Unknown",
-        "gender": null,
-        "file": 789
-    },
-    {
-        "en": "Jinghai",
-        "cn": "净海",
-        "pinyin": "Jìng Hǎi",
         "type": "Unknown",
         "gender": null,
         "file": 789
@@ -9352,7 +9336,7 @@
         "file": 809
     },
     {
-        "en": "Shouding",
+        "en": "Shou Ding",
         "cn": "守定",
         "pinyin": "Shǒu Dìng",
         "type": "Unknown",
@@ -9555,7 +9539,7 @@
         "en": "Hornless Dragon lineage",
         "cn": "螭裔",
         "pinyin": "Chī yì",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 814
     },
@@ -11856,7 +11840,7 @@
         "file": 858
     },
     {
-        "en": "Sun-Surging Star-Governing Compass",
+        "en": "Surging Yang Star-Governing Treasure Disk",
         "cn": "冲阳辖星宝盘",
         "pinyin": "Chōng Yáng Xiá Xīng Bǎo Pán",
         "type": "Unknown",
@@ -11872,7 +11856,7 @@
         "file": 858
     },
     {
-        "en": "Upper Shining Star",
+        "en": "Exalted Luminary Star",
         "cn": "上曜星",
         "pinyin": "shàng yào xīng",
         "type": "Unknown",
@@ -23344,7 +23328,7 @@
         "file": 1086
     },
     {
-        "en": "True Monarch Shoulou",
+        "en": "True Monarch Shuolou",
         "cn": "朔楼真君",
         "pinyin": "Shuòlóu Zhēnjūn",
         "type": "Person",
@@ -23484,7 +23468,7 @@
         "cn": "清乙仙君",
         "pinyin": "Qīngyǐ Xiānjūn",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Female",
         "file": 1090
     },
     {
@@ -23504,9 +23488,17 @@
         "file": 1090
     },
     {
-        "en": "Taiyuan Court",
+        "en": "Supreme Enclosure Court",
         "cn": "太垣庭",
         "pinyin": "Tài Yuán Tíng",
+        "type": "Place",
+        "gender": null,
+        "file": 1091
+    },
+    {
+        "en": "Supreme Enclosure",
+        "cn": "太垣",
+        "pinyin": "Tài Yuán",
         "type": "Place",
         "gender": null,
         "file": 1091
@@ -27856,7 +27848,7 @@
         "file": 1207
     },
     {
-        "en": "Shuo Lou",
+        "en": "Shuolou",
         "cn": "朔楼",
         "pinyin": "Shuò Lóu",
         "type": "Concept/Term",
@@ -32800,19 +32792,211 @@
         "file": 1344
     },
     {
-        "en": "Fullness Palace",
-        "cn": "满盈宫",
-        "pinyin": "Mǎnyíng gōng",
-        "type": "Place",
-        "gender": null,
-        "file": 1344
+        "en": "Yu Zhuan",
+        "cn": "虞转",
+        "pinyin": "Yú Zhuǎn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 0
     },
     {
-        "en": "The Recent Usurpation",
-        "cn": "篡事近",
-        "pinyin": "Cuànshì jìn",
+        "en": "Yu Wendao",
+        "cn": "虞紊道",
+        "pinyin": "Yú Wěndào",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Heavenly Gate",
+        "cn": "天门",
+        "pinyin": "Tiānmén",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Huan Xuan",
+        "cn": "桓暄",
+        "pinyin": "Huán Xuān",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 0
+    },
+    {
+        "en": "Xiao Dongyan",
+        "cn": "萧东衍",
+        "pinyin": "Xiāo Dōngyǎn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Profound Monarch of Lesser Yang Who Molds the Dao of Seven Virtues",
+        "cn": "七德抟道少阳玄君",
+        "pinyin": "Qī dé tuán dào shàoyáng xuán jūn",
         "type": "Concept/Term",
         "gender": null,
-        "file": 1344
+        "file": 0
+    },
+    {
+        "en": "True Monarch of Lesser Yang of the Cardinal Palace",
+        "cn": "枢宫少阳真君",
+        "pinyin": "Shū gōng shàoyáng zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Primal True Divine Ferrying Immortal Lord of Lesser Yang",
+        "cn": "少阳元真神渡仙君",
+        "pinyin": "Shàoyáng yuán zhēn shén dù xiānjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Guangling",
+        "cn": "广陵",
+        "pinyin": "Guǎnglíng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Han Zhe",
+        "cn": "韩辙",
+        "pinyin": "Hán Zhé",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Great Sage Jinghai",
+        "cn": "靖海大圣",
+        "pinyin": "Jìnghǎi Dàshèng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Overlooking Gaze Perceiving the Profound",
+        "cn": "临观见玄",
+        "pinyin": "Lín guān jiàn xuán",
+        "type": "Group",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Yuan Shou",
+        "cn": "元绶",
+        "pinyin": "Yuán Shòu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Qu Da",
+        "cn": "屈笪",
+        "pinyin": "Qū Dá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Great One",
+        "cn": "大人",
+        "pinyin": "Dàrén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "【Prophecy】",
+        "cn": "谶",
+        "pinyin": "Chèn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Night Marquis",
+        "cn": "夜侯",
+        "pinyin": "Yè Hóu",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Awaiting Clarity",
+        "cn": "期清",
+        "pinyin": "Qī Qīng",
+        "type": "Group",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Governor of Souls",
+        "cn": "司阴",
+        "pinyin": "Sī Yīn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "ghost",
+        "cn": "阴",
+        "pinyin": "yīn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Wei Yi",
+        "cn": "卫疑",
+        "pinyin": "Wèi Yí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "High Firmament",
+        "cn": "上昊",
+        "pinyin": "Shàng Hào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Profound Heaven",
+        "cn": "玄天",
+        "pinyin": "Xuántiān",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Wu Shang",
+        "cn": "无伤",
+        "pinyin": "Wú Shāng",
+        "type": "Person",
+        "gender": "Female",
+        "file": 0
+    },
+    {
+        "en": "Clear Yi Enclosure",
+        "cn": "清乙垣",
+        "pinyin": "Qīngyǐ Yuán",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Nether Land",
+        "cn": "冥土",
+        "pinyin": "Míngtǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
     }
 ]

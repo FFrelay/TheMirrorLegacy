@@ -1,440 +1,189 @@
-# Golden Oneness Drives the Dao
+# Winter Solstice Extra: Molding Profundity
 
-'As for scriptures, they must emerge from the Three Profoundities. That which is self-esteeming and supremely noble is called the Function of the Dao. That which commands the myriad spirits is called Mutual Preservation. That by which Yin and Yang harmonize to give birth, this is called the Three-One.'
+Heavy snow blanketed the mountains under the bright, clear moonlight.
 
-'What is the Function of the Dao? What is Mutual Preservation?'
+In the mountain forest, the wind and snow were biting, pressing the tree branches into deep bows. The white snow on the path was piled layer upon layer, exceedingly thick. Yet, a figure was seen treading through the snow, slightly small of stature, dressed in thin grey clothes with a sword slung at their waist. Their movements were like that of a wandering swordsman, strikingly bold.
 
-'The Function of the Dao is to follow the way and ascend to immortality, a path known as Comprehending Profoundity. Mutual Preservation is to place oneself between Heaven and Earth, an encompassing protection known as Encompassing Profoundity.'
+This person walked all the way into the mountains. As if the wind and snow had grown too heavy, she raised a hand, reached behind her, and bound her flowing black hair, revealing a smooth profile. She sighed, a touch of boredom in her voice.
 
-'What is the Three-One?'
+"Ever since those Woven Jades from Supreme Enclosure began manipulating the Cold Qi, the winter nights have grown colder by the day… Everything is frozen solid, which makes it all so dull…"
 
-'Three is the union of Yin and Yang, Three is the Subtle, the Ethereal, and the Infinitesimal, Three is the separation of Heaven and Earth, Three is the genesis of the myriad things... One is Me. The Three-One is the Primordial Chaos Aligned Pill, which can become the Azure.'
+Her crisp voice echoed in the night. Following a step behind her was another person, a youth, who was quite composed. Just as he was about to speak, laughter drifted from the forest.
 
-'To summarize in a single statement—I revere the Dao of Sun and Moon, and tread the intercalary Heaven of the Five Virtues.'
+"Disciple-sister, you're wrong about that."
 
----
+The woman lifted her head to see a person descending from the summit to meet them, wrapped in a white fur robe and covered in flurries of snow. A circle of white light shone behind his head like a halo, giving him the appearance of an immortal. His handsome eyes fixed on her as he smiled and said,
 
-In the twelfth month, the blizzard in Gu Prefecture grew more violent, blanketing everything in white.
+"Several fellow Daoists have said it is a matter of merit. Although the High Firmament grant no boons, there is also no sin or punishment. Even Yu Zhuan hasn't said a thing!"
 
-Wang Fan's bitter days had arrived.
+Upon seeing this man, the youth hurriedly bowed. "Greetings, True Monarch!"
 
-He gathered his belongings—a mottled robe of mixed skins and a broken bowl—and headed out along the alley.
+The woman was exceedingly dashing. Having bound her hair, she rested her hand on her sword and gave a cold sneer.
 
-The outside was already completely white, and the scarlet lacquer of the great households' high gates looked exceptionally clean against the snow.
+"I don't care—that's only because the mortal realm is prosperous, and every household has charcoal to burn. Otherwise, you'll see… see if Yu Zhuan still doesn't find fault!"
 
-He walked in the snow for a while; his fingers were frozen purple, so he put them to his mouth to huff a breath of hot air before hurriedly stuffing them against his stomach, but unfortunately, it was still ice-cold beneath his robes.
+Her disciple-brother instantly fell silent, shaking his head with a helpless laugh. The youth bowed his head even lower in silence. The True Monarch above fixed his gaze upon them, and the wind and snow seemed to quiet down. He looked at the youth and spoke softly.
 
-'If my hands get frostbite, I can't copy scriptures, and I'll never make it through.'
+"You must be Yu Wendao. This venerable one has heard Changtang mention you."
 
-He placed the bowl in the snow, rolled up the tattered animal hide, and stuffed it under his clothes to protect his fingers, moving through the snow like a comical, two-legged beast.
+The youth kowtowed, but the woman was relentless.
 
-He shuffled to the base of a green wall, where a gap in the seam was leaking warm air; he coughed twice, put on an ingratiating smile, and called out,
+"You don't believe me, disciple-brother? Or is it that… it has nothing to do with having charcoal to burn, but that Dongjun no longer manifests and the Supreme Yang Palace is without a master, so those rules need not be so strict? Otherwise, with a single snowfall, how many people would freeze to death? It would be best to abolish the Dao of 'Cold Qi' altogether."
 
-"Cousin! Cousin... I'm here!"
+Her words cast both of them in a bad light, leaving them with no response. Her disciple-brother sighed, and while pulling her up the path, he seemed to recall something and laughed.
 
-There was no reaction from inside.
+"It's always been you who mocks others, but lately I heard a phrase from the Heavenly Gate: 'A late attainment at the tower forfeits the Dao-fruit.' So it seems you've been mocked by others as well."
 
-Wang Fan knew this cousin must have failed to recite his scriptures and was being punished.
+The woman was unconcerned, only saying, "That's obvious. It must have been spread by Wuguan and his group. That fellow has always enjoyed criticizing current affairs. Let them talk. Just because one is a noble True Monarch, does one have to control all the mouths in the world? I'm not Huan Xuan, to be so petty."
 
-This was not good.
+The man laughed in spite of himself and led her up the mountain. In front of the temple, a middle-aged man was sweeping snow. Seeing the two descend, he quickly bowed and was about to speak, but the man waved him away.
 
-With the snow falling this heavily, he might freeze to death at the foot of this wall.
+"Yi Chuan, go inside and tell your disciple-brother that True Monarch Shuolou of the Profound Moon has arrived, and have him heat the wine."
 
-Wang Fan could only huddle beneath the wall, gasping for air with the hot breath he exhaled, his face quickly growing numb. He counted the time, and after about a quarter of an hour, he called out again:
+The middle-aged man appeared extremely excited and hurried inside. The disciple-brother said, 
 
-"Cousin!"
+"Back then, Eldest Disciple-Brother caught a Heavenly Wolf. I took the blood from that beast to brew wine. On a day like this, it's perfect to take it out and warm ourselves."
 
-A moment later, just as he felt his ears were about to freeze off, he finally heard a creaking sound, followed by a boy's voice,
+"Having wine to drink is always a good thing."
 
-"Little cousin, you've come again."
+She laughed heartily, but then glanced inside and shook her head.
 
-Enduring the bone-piercing cold, Wang Fan quickly pulled a finger-sized bird beak from his robes, passed it through the seam in the wall, and said in a fawning tone,
+"So that's Xiao Dongyan… I see… he's not material for cultivation. Disciple-brother… you are just like me. Look at the kind of people Azure Profundity recruits, yet you and I… we get either mediocrities or old men. Who will inherit our Daoist tradition?"
 
-"Good cousin... little young master... There are just two lines left of the Lesser Yang Qi-Sensing Scripture..."
+The immortal-like figure blinked, withdrew his hand, his voice indifferent.
 
-But the boy on the other side, having been punished, no longer found his usual favorite trinkets very interesting and seemed to ignore him. Wang Fan's body felt alternatingly hot and cold, only the two fingers he had pushed through the wall still had any feeling, and he whispered,
+"If I find them pleasing to the eye, I will accept them even if they have no Dao-comprehension. If I find them displeasing, then even the likes of Qin and Tang are useless to me."
 
-"Young master... it's just these last two lines! I'm begging you, good brother... only two lines..."
+He then said, "Wendao, you wait here."
 
-The person inside finally took the item and said with a grin:
+The two strode inside, heading straight for the main hall. Above them hung a plaque with three large characters inscribed upon it:
 
-"One line is: [To ascend, one must worship the Comprehending Profoundity's work; if you lack faith in true gold, do not study lightly]."
+【Molding Profundity Temple】.
 
-Wang Fan waited a while, but the person inside said no more. His teeth were chattering, and he pleaded,
+Inside, in the great hall with a bluestone floor, hung a reverential portrait. It depicted a person with a tall, straight posture, dressed in navy blue robes, facing a bluestone wall. Only a side profile was visible, the hand behind his back holding a sword.
 
-"Good brother, I beg you... just these last two lines... This lowly one is about to freeze to death... If I hear these two lines, Wang Fan will remember this great kindness for the rest of his life; next summer... I'll catch cicadas for you, I definitely won't lose to anyone else..."
+Upon reaching this place, the man's expression had become completely solemn, and even the woman grew serious. Together, they held incense and offered it before the portrait, then retreated with light steps. The young cultivator was still kneeling before the hall when he heard the woman's ethereal voice.
 
-He begged, his lips repeatedly freezing shut, the skin stinging painfully every time he tore them apart. The person inside finally spoke,
+"Disciple-brother Wei… it has been many years since we've seen Master… I wonder how he is."
 
-"I'm in a foul mood today and I can't even go out, so how am I supposed to teach you a lesson."
+Beside her, the immortal-like figure clasped his hands behind his back, gazing leisurely at the snow-filled sky as he smiled.
 
-"My lord... my lord, I'll let you vent your anger... I'll definitely let you vent."
+"I think there's no need to dwell on it. When that person went away back then, Master was full of concern. Figures like them, having left their Dao behind, will naturally venture beyond the heavens to question the infinite unknown. How could they bow their heads and fold their wings to serve in this cage?"
 
-Shivering, Wang Fan fumbled at the seam with his sleeve, using all his strength to drill his entire elbow into the opening. Waves of searing pain washed over him, but after a long struggle, he managed to push a few fingers through to the other side, and said urgently,
+"Well said!"
 
-"My lord, just pretend these are that Daoist's fingers and stomp them broken! Let him feel the pain, so you can vent your anger!"
+Before the woman could answer, a cry of admiration was already heard from the distant horizon.
 
-There was only laughter from within, while Wang Fan curled his body in terror, his numb hand twisting slightly inside the wall—experience from past winters warned him that if he didn't pull his hand out soon, it might freeze solid inside the wall... He knew he couldn't wait any longer, and shouted,
+Then, the boundless snow condensed in the sky. Azure-gold light formed like clouds, from which endless green sprouts emerged. Distant yellow steps meandered among the myriad mountains. The sound of the Dao was profound, and all the immortals looked up in reverence!
 
-"You can't even memorize a scripture like this!"
+『Lesser Yang』 instantly manifested.
 
-Instantly, a heavy, deliberate force came down, the three fingers protruding from the wall were stomped hard. The boy used his full weight, finally snapping them cleanly.
+Amidst the myriad streams of clear light, Yu Wendao prostrated on the ground, his heart pounding.
 
-Wang Fan's pupils turned crimson, but fortunately, the extreme cold had already numbed the pain.
+Who else could it be?
 
-He stammered, "My lord... my lord..."
+The contemporary Lesser Yang, known as the 'Profound Monarch of Lesser Yang Who Molds the Dao of Seven Virtues' and the 'True Monarch of Lesser Yang of the Cardinal Palace'!
 
-After a burst of laughter from inside, the childish male voice finally spoke,
+'He has come out of seclusion.'
 
-"Listen closely, the last line is: [When the life-mandate is refined, no profound mystery remains; only then is it known that riding the change lies in the three eaves]."
+The youth lost his composure and bowed.
 
-Wang Fan committed it to memory, then shivered out,
+"Greetings to the 【Primal True Divine Ferrying Immortal Lord of Lesser Yang】!"
 
-"My lord... my lord recites it so well, without a single mistake..."
+Only then did he hear the True Monarch beside him look up in pleasant surprise.
 
-The laughter from inside faded away.
+"Eldest Disciple-Brother!"
 
-Wang Fan carefully extracted his arm, which was already a bloody mess; the three fingers had fallen off inside the wall, impossible to retrieve.
+The figure in the sky stepped forward. Where his foot landed, a golden bridge appeared. The light of Lesser Yang, fine as silk threads, rippled out like water, condensing on both sides of the bridge into gleaming golden palaces. Celestial maidens sang and danced, and the Profound Palace chanted the Dao, as if heaven and earth were meant to be this way, merely wiped clean of their obscuring dust.
 
-He rubbed the wound in the snow, managed to stagger to his feet, and stumbled along the wall until he was back in the alley.
+He stepped onto the snowy ground, and the bluestone platform on the mountaintop was instantly surrounded by golden palaces of deep, rich colors. The sound of zithers played across the sky as celestial attendants emerged in sequence. The woman laughed and said, "To think we actually disturbed Disciple-brother's seclusion!"
 
-Thunder rumbled from within the blizzard's clouds.
+Yu Wendao looked up to find that the newcomer was dressed in black, without any unusual adornments, and the space behind him was empty. He was just like a mortal!
 
----
+'He is the First Lesser Yang!'
 
-The darkness and cold beyond the heavens were infinite, a dense gloom suppressed within a vast expanse of gold. A platinum-white oval shone through it all, like a pillar of light traversing Heaven and Earth.
+But when he lowered his head, he found he could not recall His appearance. Recalling it carefully, he only felt the face was a blur, yet behind Him were seven rings of light, intricately overlapping, interwoven with azure and gold. He must be a supreme and exalted god.
 
-A colossal golden-position true body filled the cosmos, its high crown towering like a mountain range. Dense, hazy motes of golden light drifted down like rain.
+'As expected… A being like Him cannot be perceived by divine ability or the naked eye. To look upon Him, one feels He is an ordinary mortal thing. To contemplate Him internally, there is supreme radiance, like visualizing the very origin of 『Lesser Yang』!'
 
-Opposing it in the darkness was a brilliant, blazing white.
+His heart trembled with awe, yet he heard Him say casually, "This seclusion was truly too long. If I hadn't appeared again, I'm afraid you all would be wondering if this venerable one was already beyond the heavens."
 
-This color blazed like a great sun, bright as celestial gold—a Dao-fruit manifested in the world, brilliant and boundless, like a true god spanning the void. If the golden oval represented infinite change, then this great sun represented only the ultimate and magnificent Dao-fruit of Reflecting Slaughter.
+Only faint laughter reached his ears. The Exalted Immortal paused, then said, "Why is Guangling not here?"
 
-"Disciple-brother."
+Guanhua said unhurriedly, "A few days ago… Guangling fought a battle with Han Zhe. Within the heavens, everything is suppressed, so the fight was unsatisfying. They fought all the way out beyond the heavens, revealing ten-thousand-zhang Dharma Bodies. He finally managed to get the upper hand on Han Zhe and gained great enlightenment. He is currently sleeping in the Earth Abyss and has not yet awoken."
 
-The Dao-voice was like iron and gold, traversing Heaven and Earth like an unsheathed longsword, gleaming with cold light.
+"Then there's no need to wake him. It is enough that the three of us are here."
 
-"Daoist Friend, you are too polite."
+But the woman said in a peculiar tone, "If you're going to fight, fight within the heavens. Running all the way out beyond the heavens, revealing a Dharma Body, learning to fight like those Demon beasts… their life-mandates are matched to their Fruition Attainment, and they look more like demons than people. The Master of Encompassing Profundity mentioned he disliked it back then, and I don't think it looks good either…"
 
-The sound of clashing metal vibrated continuously, and the platinum-white oval shifted minutely.
+The Lesser Yang shook his head and said, "Going outside has its advantages. Guangling cultivates Wu Earth, which is a good Dao lineage. It is honored as the center of the Five Virtues and revered as the master of Earth Virtue. He can comprehend it better in the outer world."
 
-"When Senior Yingze was here, I never called him Martial Uncle, nor do I have the qualifications to be called disciple-brother by you..."
+Then there were sounds of warmed wine and merriment, of goblets being exchanged. He finally lowered his head, and a warm gaze fell upon the young man as He asked, "Someone from the Yu Clan?"
 
-"Gonghua and Yanhua... were originally of the same tradition..."
+"Yes.", the woman's voice said. "He is currently cultivating by my side. The Azure Profundity are still more likable, and since he is young and lacks the habit of debating morality to get ahead, I allowed him to cultivate with me."
 
-"The same tradition?"
+That Exalted Immortal did not need to perform a divination; seeing him, He saw through his life-mandate and his name.
 
----
+He smiled and said, "Yu Wendao… today is the Winter Solstice. Why have you not returned to Green Pine Temple?"
 
-"Disciple-brother Zhang!"
+The young cultivator laughed. "I was supposed to go. I heard that many years ago, all the disciples would also gather at the temple, but during the incense offering… they looked closely, and the Great One was just sitting on the altar with a cloak on, picking up the spirit fruits and eating them. Our Master was overcome with excitement, and afterwards… we all changed to gathering… at the foot of the mountain. Only a few True Monarchs go to the temple now."
 
-The soft call by his ear roused the Daoist from his long, head-bowed contemplation. He shook his hand, as if the joints still faintly ached, and only then turned his gaze to the side.
+There was light laughter from both sides. The Exalted Immortal said, "That's nothing! During the Great Sage's celebration, that Great One even went so far as to disguise himself as a demon and run into the sea, bossing around the little demons inside. He scared the Great Sage Jinghai half to death."
 
-The Daoist's features were unremarkable and his hair neatly trimmed, but his eyes were profound and his demeanor self-possessed. A golden, disc-like radiance hovered behind his head, and a faint golden and silver light flickered within his pupils.
+Guanhua laughed. "It was indeed frightening. Dongfang Jing is majestic, but she's only at the level of a disciple from our [Overlooking Gaze Perceiving the Profound]. Not to mention Dharma Treasures, even in a bare-fisted fight, she might not be a match for Qingyi, let alone the Profound Master… and that one places the utmost importance on mortal lives. What lies beneath the Demon beasts of the Eastern Sea is not clean!"
 
-The white-robed man sitting beside him, leaning lazily against the low table, spoke casually,
+The Exalted Immortal tapped his cup thoughtfully and turned his head. "Your Great One is most benevolent. It's no wonder you of Azure Profundity do not contend for power and are well-liked, it's just that you have few disciples."
 
-"It's rare to see you so distracted."
+The young cultivator agreed meekly, not daring to comment. The Exalted Immortal then stood up and smiled. "Back then, when I was still young, I followed my Master to visit Green Pine. We traveled all the way to the temple and met the Great One. He looked at me and praised me, saying, 'What a grand inheritance for your descendants!' Then he took my hand and said, 'Yuan Shou, I have performed a divination for you. Your good disciple will have the surname Qu and will be in the East.'"
 
-The Daoist gave an enigmatic smile and said, "This Lesser Yang Qi-Sensing Profound Art... It's a Daoist scripture I obtained before I began my cultivation..."
+This Exalted Immortal filled his cup, somewhat moved. "And just as predicted, that boy Qu Da was born in the East, and has now ascended to a Surplus Position of Lesser Yang, which shows his capability. As for the Wang Clan… they are still not prosperous. 'A grand inheritance for your descendants'… this venerable one has yet to see it."
 
-"Oh?"
+Shuolou's voice was light and airy. "I have also heard that the Great One is skilled at divination."
 
-The white-robed man's eyes lit up, and he smiled, "Your previous life? It's rare to hear you mention that!"
+"Speaking of skilled divination… one must mention Qingyi, but She is different from the Great One."
 
-"My previous life."
+This Exalted Immortal smiled. "Qingyi uses 【Derivation】. It deduces future outcomes from the present, making it precise and accurate, but it cannot see far. If the present changes today, the future will surely have variables. It is the art of calculating heaven and earth with one's own self. But the Great One is, after all, the Master of Azure Profundity, and uses 【Prophecy】. This is far more brilliant. It is the method of making heaven and earth conform to one's self. It may not be precise, but it is like a gentle spring breeze transforming into rain, proving itself in the final details."
 
-The Daoist's lips curved slightly as he said lightly,
+The three of them drank a measure together. This Exalted Immortal quietly turned, looked at the young cultivator beside him, and smiled.
 
-"I was deceived. Three characters in the scripture had been altered—altered just right, so that one could draw out qi, but could never refine the Dao."
+"Now… how about I perform a divination for you as well?"
 
-The white-robed man's expression changed slightly.
+The young cultivator quickly knelt. Before he could even express his thanks, the immortal before him had already begun the finger gestures. The dim yellow and azure radiance flickered again, as if he were immersed in all kinds of profound light.
 
-"To think there was a time even Disciple-brother Zhang could be plotted against..."
+He then heard the Exalted Immortal laugh and say, "You… are one with great opportunities. No wonder you were able to stand out. In the future, you may have the good fortune to ascend to a position. Go to the South, establish a Daoist tradition, and pacify the various tribes. You will surely be a cultivator of renown."
 
-The Daoist set down his brush, lifted the scripture for a closer look, his gaze never leaving the text as he smiled softly,
+The cultivator thanked him profusely, his face full of joy. After the young man was sent away, He then said softly, "I heard… that the Night Marquis has established a Daoist tradition and intends to manage the affairs of the Underworld?"
 
-"It wasn't so bad. It was just a courtyard scheme of a noble household, and I suffered an undeserved calamity. Fortunately, the alteration was extremely subtle, so I used that same scripture to scheme against someone else and traded it for something better."
+Guanhua said in a low voice, "That is correct. He established a Daoist tradition called 【Awaiting Clarity】 and founded a sect, calling himself the Governor of Souls, wishing to manage the affairs of the departed spirits. He says he will gather all the souls and ghosts of the world and open up a special domain for them."
 
-The white-robed man seemed to grasp his meaning and smiled,
+The woman's voice immediately became helpless. "There is already a Nether Land, and now he wants to open another one called the Underworld. They already govern the heavens and the people, and now they want to govern the dead as well. Aren't they overstepping their bounds… Nowadays, countless rogue cultivators dare to claim that one profundity surpasses the heavens. When these words spread to the northern mountains, there are actually people who agree."
 
-"An ordinary person who received such a technique might fail to cultivate it, practice bitterly for a hundred years, and die in despair, but disciple-brother... you didn't even consider that the problem might be with you."
+"Guangling mentioned it at the time. The rise of Encompassing Profundity is certainly due to the ```divine way's timing```, but the Three Profoundities are under one roof. How could the other two Daos be inferior? It is just that our Dao seeks self-veneration and supreme nobility, while Azure Profundity's heart lies in the Three-in-One. Thus, the mortal order was left for them to establish, leading unexpectedly to this day."
 
-The Daoist lowered his eyes, smiling without a word, his expression profound. Just then, he saw a man in black robes ascend the steps, his expression hurried but joyful, who announced formally,
+The Exalted Immortal seemed quite emotional and shook his head. "Harmonizing the world is not an easy burden to bear. The world is now at peace, so there is no need to take some casual rumors to heart."
 
-"Disciple-brothers, the Master is out of seclusion!"
+He filled the cups for his two junior disciples and said softly, "Back then, Master traveled the world and passed down six scrolls. He brought the two of you back from the mortal world and appointed me to teach you. You each asked a question then. Do you still remember?"
 
-The white-robed Daoist immediately leaped to his feet, overjoyed, and paced several times around the hall.
+The two True Monarchs were rather uneasy and nodded. He said, "Wei Yi asked: 'The Profound Heaven's High Firmament, upon what does it rely? Since it is a constant thing, why does it have likes and dislikes?' Wu Shang asked: 'The vastness beyond the heavens, its measure unknown; in its deep and endless darkness, who knows the reason for it?'"
 
-"Has the Lord reached Golden Immortal stage?"
+"One asked of the Heavenly Dao, the other of the world beyond. At that time, I could not answer…"
 
-Seeing him so excited, the black-robed man instead sat down and, smiling, picked up his tea.
+The Exalted Immortal raised his head and said quietly, "Now, my own path is about to reach its end. I have an answer for Wei Yi's question. Only Wu Shang's question remains, which I still cannot answer."
 
-"My Master emerges from seclusion, yet it seems as if it's you, Taotao, who has achieved the Dao."
+The music filling the sky stopped, and the flying snow froze in mid-air. Neither of the junior disciples spoke. There was only the sound of the woman lightly tapping her cup.
 
-Daoist Master Taotao shot him a glance, but then sighed and shook his head.
+"No wonder Disciple-brother made a special trip this year."
 
-"My lineage declined long ago. In this generation, only my Master has achieved the Woven Jade. We are, after all, the Changtang Dao Lineage, yet we have fallen so low. Every time I visit your Green Pine Temple, I am struck by this..."
+She laughed. "If I had known, I would not have asked."
 
-The Daoist smiled.
+The immortal in black took a step forward and ruffled her hair, his tone holding not a hint of hesitation.
 
-"The Nine Mounds Pavilion is quite famous. It will surely produce outstanding talents in the future."
+"Back then… this was also a question I once asked Master. He did not answer me either. And this answer… is something one can only go see for oneself."
 
-Taotao shook his head and sighed.
+When his words ended, only the sound of whistling snow remained in the mountains. After a long while, the Exalted Immortal's voice was heard again.
 
-"This is such wonderful news, I must return to report to my Master; it won't be long, I will certainly return with my Master and gifts."
+"Under the Clear Yi Enclosure are all Exalted Immortals without selfish desires. Huan Xuan has a worse temper, but he is pure and proud. There is no need to worry much. If you are concerned about the Dao lineage… I see that people like Tianxiang, Qu Da, and Longkang are all capable of shouldering great responsibilities. Focus on spreading the Immortal Dao, and all will surely become clear."
 
-"Please send our regards to Lord Yingdi."
+"Yes!"
 
-After Taotao had departed, the black-robed Daoist Master finally shook his head.
-
-"They are of the Woven Jade Dao Lineage, after all. Their path of cultivation is different from ours... He probably doesn't understand the details, yet he's so enthusiastic."
-
-The Daoist said quietly, "It is, ultimately, a matter worthy of praise, and his intentions were good..."
-
-"Good intentions?"
-
-The black-robed man spoke enigmatically without raising his head,
-
-"That doesn't sound like something you, Zhang Yuanyu, would say."
-
-Hearing this, the man bathed in radiance finally stood up, descending the jade steps slowly as he spoke in a low voice,
-
-"At least Taotao's intentions are good. His future attempt to attest the Mansion Water has nothing to do with us, and the Donghua Dao-path doesn't care about such things. Besides, our Master was also considered part of the Donghua branch in his early years, so no matter what he achieves, it reflects well on them."
-
-"And what about Gonghua?"
-
-The black-robed man filled his cup with a smile, speaking quietly,
-
-"The Green Pine Temple... Now that my Master has established the Green Pine Temple, Gonghua has to grit its teeth and acknowledge it. But when the Master ascends to the Dao and departs this world, will Gonghua still acknowledge it then?"
-
-"Or perhaps... Gonghua has been waiting for that day for a very long time."
-
-His expression was arrogant, tinged with a faint sinister cast, as he said lightly,
-
-"Let me calculate... Changce Zhixuan, Daozang Xiwei... His seniority should be greater than any famous figure alive today, right? What's wrong with him establishing his own Yanhua Dao-path?"
-
-The celestial-looking man on the other side shook his head gently.
-
-"Taihong... you are rather domineering."
-
-"Domineering?"
-
-The black-robed man adjusted his robes and shook his head.
-
-"If I am truly domineering, then what does that make the Thunder Palace?"
-
-These words made Zhang Yuanyu slowly turn his head, and he smiled.
-
-"That is why the Thunder Palace fell."
-
----
-
-"I hardly think we can be considered of the same tradition."
-
-Endless divine abilities spread beyond the heavens, flashing alternately in the darkness as Dao-sounds permeated the cosmos. The platinum-gold figure spanned the void, chin in hand, exuding a suffocating might.
-
-"Back then, my Master achieved Golden Immortal, transcended the mundane world, and ventured beyond the heavens... Consequently, Zhibei returned to its position, and the Yandao Heaven fell. Let me think... Senior Yingze was cultivating in the Guanhua Mystic Realm at the time... I wonder if he had ascended to Supreme Yang... But..."
-
-"Not a single great master from Gonghua stepped forward to help."
-
-From the other side of the darkness, an immense sharp aura pressed forward, the sound of clashing metal drawing nearer:
-
-"This junior has no way of knowing what happened millennia ago, but regardless, it should not have led to members of the same tradition slaughtering one another."
-
-"Slaughtering one another..."
-
-The platinum-gold aura vibrated slightly, its tone growing sharp:
-
-"Frankly, I care little for the struggles of Dao Lineages. Yanhua declined, and I reaped all the benefits. I simply cannot bear the karma of being called disciple-brother by you. If you fear that slaughtering each other will wound our feelings, you had best call me by my other name."
-
-"'True Monarch Xuandui Zhulei Chongqu'. Wang Fan."
-
----
-
-Above the horizon, endless divine thunder roiled like slurry. A purple-gold palace stood upon a high dais, shrouded in layers of protective divine light that shone down upon the world.
-
-The vast earth, however, had split open in countless places, spewing boiling baleful fire and magma, while the cries from below were even louder than the celestial thunder, as if Heaven and Earth were enraged, filled with infinite hatred and grievance.
-
-"Great Xia has fallen."
-
-Fragments of purple-gold armor littered the ground. The heavy thunder, trapped within the palace and unable to escape, was being continuously neutralized by an intensely bright white 'Reflecting' light, which emitted terrifying thunderous vibrations.
-
-"Wang Fan! You... you traitor!"
-
-His voice pierced the heavens, only to be completely dissolved by the terrifying Reflecting Metal storm above the clouds, where, faintly, amidst the swirling white-golden gales, a figure in golden robes could be seen.
-
-"Oh? Why does the Venerable One say such things?"
-
-The voice was calm, elegant, and held a trace of a smile:
-
-"The Sheji helped me achieve the Dao, and I helped the Proclaiming Earth overthrow the thunder. Where is the betrayal in that?"
-
-These calm words made the divine thunder within the palace spark even more violently, releasing a destructive aura:
-
-"Huan Ren trusted you because you were of the Wang family, allied to us by marriage for many years! He promoted you tirelessly... you... you received his grace... yet you dare to rebel at this crucial juncture to seize the throne!"
-
-"Today... even though I may fall, everyone under heaven... will know of your despicable nature!"
-
-The golden-robed man high above, his expression serene as he stood holding his sword, actually began to laugh.
-
-"Brother Huan is a saint, and I am not his equal. After Lesser Yang departed, the Wang family had no one, relying entirely on his prestige to act arrogantly and domineeringly in Gu Prefecture, the fox borrowing the tiger's might... That year he achieved his divine ability, Wang Jian specially arranged for a snowstorm in Gu Prefecture just for him... such a heavy snow."
-
-"It almost froze my sister and me to death."
-
-His words were chilling, and the volatile energy in the sky vibrated, as if this sentence had attracted unseen attention, filling the heavens with a brilliant Cinnabar hue.
-
-"You are not a member of the Wang family?! Impossible!"
-
-"Even if you took the [Undecaying], it only conceals karma... Since Huan Ren verified it with your blood, there is absolutely no way it could be wrong!"
-
-These words left the Venerable One in the palace utterly bewildered, and for a moment, he was silent; but the Cinnabar color had already descended at a terrifying speed, slamming down heavily onto the palace, forcing a pained cry from its occupant.
-
-"Boom!"
-
-A burst of laughter erupted from within the Reflecting Metal in the sky, and the voice continued darkly,
-
-"How does it feel? The taste of suppression isn't pleasant, is it? People like you have always been the ones suppressing, killing, and disdaining others. You never imagined the Heavenly Dao has eyes, and today, it's your turn to be suppressed."
-
-The irony of those words, 'the Heavenly Dao has eyes,' was palpable. The divine thunder in the hall stirred restlessly, and the world darkened as if attracting the notice of a Fruition Attainment, yet Wang Fan was completely unconcerned and laughed.
-
-"You thought you could stabilize the world using the great families, thought that with True Qi in hand you could suppress them? Wrong! The families will never be on your side. Not one family under heaven will stand with you. From the moment Zixuan damaged the Heavenly Dao, the decline of your Encompassing Profoundity was already numbered!"
-
-His eyes burned with a brilliant light, "So... the Heavenly Dao _can_ be damaged..."
-
-"Boom!"
-
-Dark clouds rapidly converged in the sky, as if a terrifyingly brilliant light was about to descend, only to be covered by an earthy radiance that shielded the world and isolated karma; the thunder in the palace slowly subsided, and after an unknown time, only a faint buzzing sound remained.
-
-"Are you... a member of the Wang family..."
-
-No matter how the thunder vibrated, no answer came from the sky; Wang Fan glanced at the Cinnabar hue in the heavens and said softly:
-
-"After this, your Whole Pill's weakness of fearing thunder should be suppressed somewhat. Though not eradicated, it's better than scattering at the mere sight of thunder..."
-
-The Cinnabar color tumbled in the sky as if in response, then quickly dissipated.
-
-Wang Fan turned, hearing the continuous vibrations from the palace, and finally paused, his lips moving almost imperceptibly:
-
-'Soon, I won't be.'
-
----
-
-"So that's how it is."
-
-The sharp Reflecting light condensed into a white storm, just as it had above the Thunder Palace long ago, but this time its opponent was not the Venerable One currently trapped in a palace, but the even more profound and ever-changing Metal Virtue. This metal seized baleful energy and enacted slaughter, scouring the azure heavens and exhausting the yellow springs, yet even as the endless sharp edges pressed down, it remained unmoving, revealing an ultimate radiance; upon the Metal Virtue—was the Reflecting light's former master.
-
-Moreover, the killing intent within the Reflecting light was not strong.
-
-"Senior... although Senior does not often involve yourself in worldly affairs, you and I have some friendship; among all the Chongming branches, I am the only one who has met with Senior in private, and we spoke joyfully back then..."
-
-The endlessly transforming Profound Metal finally stirred, and a rolling Dao-sound echoed for a long, unknown time before a calm reply was heard:
-
-"Cheng Yuan... this is a struggle for a Fruition Attainment."
-
-"Senior Yingze... made things too easy for all of you, so much so that you obtained your positions too easily, thinking it was something everyone possessed and not at all remarkable... but this is a struggle for a Fruition Attainment!"
-
-"On His behalf... I will teach you this final lesson."
-
-5
-
-The soughing of pines rustled, and the mountain was deep in snow.
-
-"The Profound Mystery of Yin and Yang, recorded in the Eight Seekings."
-
-Within the pavilion, profound mystery loci were scattered at various levels, high and low, where divine-ability masters sat in meditation; their various dharma powers intertwined, causing the spiritual energy throughout the pavilion to vibrate continuously; on the main seat in the center sat a man, expounding with a smile:
-
-"Removal, means the palace steps; to receive a Profound Mystery locus is called Removal; with the way of Bright Yang, one accepts the official positions of Water and Fire, thus it is called Removal. Elucidating Removal is to become a pillar of Yin and Yang in achieving the Dao."
-
-This man wore a white robe with black sleeves; though his hair was white, he looked to be only middle-aged, his face lean but full, his eyes gleaming like those of an ordinary old man, yet when he swept his gaze across the hall, all the Daoist Masters lowered their heads:
-
-"All of you, cultivate diligently."
-
-The black-robed Taihong was sitting on the steps, his gaze following the Master's as he silently tried to guess the Great Daos of his various disciple-brothers and martial uncles; his eyes suddenly swept to a corner, and a trace of a smile appeared.
-
-'This Zhang Yuanyu.'
-
-In the lower part of the hall, the golden-robed young man was staring blankly at the steps, seemingly lost in thought, which struck Taihong as strange:
-
-'It's normal for me, Taihong, to be distracted, but for you, Taiyuan, to not be paying attention... this is the first time I've seen it! It seems his journey down the mountain to gain experience was quite fruitful...'
-
-Taihong paid him a little more attention, leaning against the edge of the Jade Terrace to watch him casually.
-
-"Transformation, means change; to instruct with broad virtue is called Transformation; with the way of Bright Yang, one teaches the variable crossings of Water and Fire, thus it is called Transformation. Elucidating Transformation is to borrow the power of Yin and Yang to achieve the Intercalary Position."
-
-The Daoist smiled faintly.
-
-"This is the specialty of our Yanhua; all cultivators must pay it respect."
-
-As soon as he said this, everyone below replied in unison, and only then did the peaceful and profound voice continue:
-
-"Profoundity, is that from which the Dao's wonders are born, that from which Yin and Yang are formed; with the true work of Profound Mystery, one balances the Dao of Yin and Yang; one might demote Yin to raise Yang, or store Yin to suppress Yang, thus it is called Profoundity. Elucidating Profundity is to balance Yin and Yang to place the Intercalary Position within the Five Virtues."
-
-The hall was lost in thought; even Taihong was slightly stunned, lowering his head to ponder.
-
-After an unknown time, sounds of discussion gradually arose; the golden-robed man let out a long breath and looked up, meeting the smiling eyes from above.
-
-"Disciple... has a matter he does not understand!"
-
-His clear voice echoed through the hall, and all eyes turned to him; the Daoist stood with his hands behind his back and smiled:
-
-"Taiyuan... a trip down the mountain has brought you many insights, I see."
-
-The golden-robed disciple gracefully left his seat, stepped into the center of the hall, and bowed.
-
-"Reporting to the Ancestral Master, the world today suffers from the discord of Yin and Yang, and the Great Dao is in chaos; since our Dao balances Yin and Yang, we should have a plan."
-
-The Daoist laughed:
-
-"Last year, this Venerable One passed the Xiao Mountains and saw a flower-like aura, like a canopy, and auspicious energy coiling; an Emperor is about to emerge, a king of Bright Yang."
-
-This statement shocked the entire assembly!
-
-'A king of Bright Yang?!'
-
-'A Monarch?'
-
-'Another King Zhou? What kind of person could earn such praise as "king of Bright Yang" from the Ancestral Master?'
-
-They looked at each other, some pondering silently, others clearly surprised, and a long silence fell; the disciple in the center bowed deeply and said respectfully:
-
-"I request that you bestow the method of balancing."
-
-His voice echoed in the hall; the Daoist above him gave him a smiling glance, then closed his eyes to calculate; after a long while, he took something from his sleeve.
-
-"Pity, an item of the Ancestral Master, soon to circulate among mortals."
-
-Taihong was intensely curious and looked up, only to find the Ancestral Master's figure completely blocking his view, so he immediately lowered his gaze.
-
-Only Taiyuan, kneeling on the floor, saw it clearly; in the Ancestral Master's palm lay a small golden ring.
-
-The object was unremarkable, like a common trinket, about the thickness of a pinky finger, its material neither gold nor silver, glowing with a faint red light.
-
-The small ring flashed for just an instant, then vanished like a streak of light.
-
-"The Bright Yang Imperial Monarch will receive his execution."
-
----
-
-Flashing golden blades fell like rain, and all the golden qi was finally forced into a corner; the form of the Esteemed Upper Azure Palace, which spanned Heaven and Earth, finally emerged, like a giant beast lurking in the abyss, slowly opening its great mouth.
-
-And in the remote depths of the heavens, a light of destiny, like a divine pillar setting a tripod, forced all the escaping profound mysteries back; far below, the treasured swords of every sword cultivator in the world began to tremble and keen.
-
-"Clang!"
-
-The gold receded like rain; the Geng-position and Dui-position, responding to the distant past, suppressed the boundless darkness of the present and once again remembered this master; the shattered golden Geng-light and white Dui-light in the sky all surged back, paving a path beneath his feet.
-
-'Today.'
-
-'By Geng, I achieve Dui.'
-
-Endless sharpness finally surfaced in those silver-white pupils; beneath the vast, cosmic-like changes, was an endless, perfect Metal Virtue.
-
-'Geng-position, bow your head to me;
-Dui-position, change your name for me;
-Surplus Position, become my Monarch's throne;
-Intercalary Position, become my chariot.'
-
-"I am the supreme of Golden Change, I am the first of Alteration, I request the title—'Golden Oneness Taiyuan Upper Azure Profoundity Dao'!"
-
-(End of Chapter)
+A light voice echoed through the mountains. The Exalted Immortal had already stepped forward, standing with his hands behind his back, and said with a laugh, "The Heavenly Dao is impermanent; rise and fall have no cause. Go and seek the Great Dao for yourselves!"
