@@ -158,9 +158,11 @@ Guanhua said in a low voice, "That is correct. He established a Daoist tradition
 
 The woman's voice immediately became helpless. "There is already a Nether Land, and now he wants to open another one called the Underworld. They already govern the heavens and the people, and now they want to govern the dead as well. Aren't they overstepping their bounds… Nowadays, countless rogue cultivators dare to claim that one profundity surpasses the heavens. When these words spread to the northern mountains, there are actually people who agree."
 
-"Guangling mentioned it at the time. The rise of Encompassing Profundity is certainly due to the ```divine way's timing```, but the Three Profoundities are under one roof. How could the other two Daos be inferior? It is just that our Dao seeks self-veneration and supreme nobility, while Azure Profundity's heart lies in the Three-in-One. Thus, the mortal order was left for them to establish, leading unexpectedly to this day."
+"Guangling mentioned it at the time. The rise of Encompassing Profundity is certainly due to the Divine Dao, but the Three Profoundities are under one roof. How could the other two Daos be inferior? It is just that our Dao seeks self-veneration and supreme nobility, while Azure Profundity's heart lies in the Three-in-One. Thus, the mortal order was left for them to establish, leading unexpectedly to this day."
 
-The Exalted Immortal seemed quite emotional and shook his head. "Harmonizing the world is not an easy burden to bear. The world is now at peace, so there is no need to take some casual rumors to heart."
+The Exalted Immortal seemed quite emotional and shook his head. 
+
+"Harmonizing the world is not an easy burden to bear. The world is now at peace, so there is no need to take some casual rumors to heart."
 
 He filled the cups for his two junior disciples and said softly, "Back then, Master traveled the world and passed down six scrolls. He brought the two of you back from the mortal world and appointed me to teach you. You each asked a question then. Do you still remember?"
 

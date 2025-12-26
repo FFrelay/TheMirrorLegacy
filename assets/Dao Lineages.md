@@ -37,7 +37,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 -   Heaven–Governing - 司天 (Sī Tiān)
 -   Body of Kui - 身夔 (Shēn Kuí)
 
-## Shamanic Talisman/Three Shamans
+## Three Shamans
 
 -   High Shaman - 上巫 (shàng wū)
 -   Merging Owl - 并鸺 (bìng xiū)
@@ -46,7 +46,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 ## Two Rituals
 
 -   Balanced Ritual - 衡祝 (héng zhù)
--   Azure Proclaimation - 青宣 (Qīng Xuān)
+-   Azure Proclamation - 青宣 (Qīng Xuān)
 
 # Five Virtues
 
@@ -54,7 +54,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 
 -   Blazing Fire - 灴火 (hōng huǒ)
 -   Radiant Fire - 离火 (lí huǒ)
--   Virile Fire - 阳火 (yáng huǒ)
+-   Virile Fire - 牡火 (mǔ huǒ)
 -   Merging Fire - 并火 / 合火 (bìng huǒ / hé huǒ)
 -   True Fire - 真火 (zhēn huǒ)
 
@@ -84,7 +84,7 @@ _Note: Ancient Merging can refer to all those paths that exist outside of the Fi
 
 ## Earth Virtue
 
--   Proclaimation Earth - 宣土 (Xuān Tǔ)
+-   Proclamation Earth - 宣土 (Xuān Tǔ)
 -   Returning Earth - 归土 (Guī Tǔ)
 -   Treasured Earth - 宝土 (Bǎo Tǔ)
 -   Bound Earth - 艮土 (Gèn Tǔ)

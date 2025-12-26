@@ -9,7 +9,7 @@
 
 - Eastern Feather Mountain
 - Soul-Summoning Lore
-- Sorrowful Southern Water
+- Southern Sorrowful Water
 - Western Heaven Plateau
 - Northern Desert Court
 
@@ -169,6 +169,7 @@
 - Burning the Old Chamber/Burning of All Under Heaven
 - Emissary of Aridity
 - Grasping the Blazing Summer
+- White Li Heart
 
 ### Radiant Fire
 
@@ -180,16 +181,18 @@
 
 ### Merging Fire
 
-- Life-Ending Expulsion
+- Life-Ending Purge
 - Seize amidst Peril
-- Heart-Flame Aspiration
+- Heart-Will Incineration
+- Crow Follows Desire
+- Flameshadow Crow
 
 ### Virile Fire
 
 - Peace Through Concealment
 - Sire of the High Mounds
 - Receiving the Blazing Flute
-- Molten Fiend Fire
+- Virile Banefire
 
 ## Water Virtue
 
@@ -274,7 +277,7 @@
 - Journeying North
 - Position follows Exclusivity
 - Perceive Word Scrutiny
-- Carpenter's Measure
+- Wood Becoming Principle
 
 ### Gathering Wood
 

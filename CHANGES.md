@@ -1,17 +1,27 @@
 This document lists all changes made in each version for reference.
 
-# v2.3
+# v2.4
 
 | Old Term                                          | New Term                                  |
 | :------------------------------------------------ | :---------------------------------------- |
-| Jiang Toushou (江头首)                            | River Chief                               |
-| Violet Arrangement (列紫篇)                       | Chapter on Arranging Purple               |
-| Yayoi's Rebirth (弥生再世)                        | Misheng's Reincarnation                   |
 | Shouding (守定)                                   | Shou Ding                                 |
 | Luminous Heart (昭澈心)                           | Bright Heart of Clarity                   |
 | Sun-Surging Star-Governing Compass (冲阳辖星宝盘) | Surging Yang Star-Governing Treasure Disk |
 | Intercalary Sun Art (闰阳法)                      | Intercalary Yang Art                      |
 | Sumian                                            | Su Mian                                   |
+| Tian Langzhi                                      | Tianlang Zhi                              |
+| Divine Slaying True Monarch                       | True Monarch Shen Qiang                   |
+| Sky-Tower of Transformation Dao (观化天楼道)      | Guanhua Heavenly Tower Dao                |
+| Celestial-Awakening Ear (听醒辰)                  | Heeding the Awakened Star                 |
+| Black-Eyed Desire (乌从欲)                        | Crow Follows Desire                       |
+
+# v2.3
+
+| Old Term                    | New Term                    |
+| :-------------------------- | :-------------------------- |
+| Jiang Toushou (江头首)      | River Chief                 |
+| Violet Arrangement (列紫篇) | Chapter on Arranging Purple |
+| Yayoi's Rebirth (弥生再世)  | Misheng's Reincarnation     |
 
 # v2.2
 

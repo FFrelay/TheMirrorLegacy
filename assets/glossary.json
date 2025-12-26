@@ -1056,7 +1056,7 @@
         "file": 657
     },
     {
-        "en": "Touba",
+        "en": "Tuoba",
         "cn": "拓跋",
         "pinyin": "Tuòbá",
         "type": "Unknown",
@@ -3523,15 +3523,15 @@
         "en": "Virile Fire",
         "cn": "牡火",
         "pinyin": "Mǔhuǒ",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 678
     },
     {
-        "en": "Virile Fire",
+        "en": "Yang Fire",
         "cn": "阳火",
         "pinyin": "yáng huǒ",
-        "type": "Unknown",
+        "type": "Concept/Term",
         "gender": null,
         "file": 678
     },
@@ -5488,7 +5488,7 @@
         "file": 704
     },
     {
-        "en": "Carpenter's Measure",
+        "en": "Wood Becoming Principle",
         "cn": "木成方",
         "pinyin": "Mù Chéng Fāng",
         "type": "Unknown",
@@ -6008,7 +6008,7 @@
         "file": 712
     },
     {
-        "en": "Sorrowful Southern Water",
+        "en": "Southern Sorrowful Water",
         "cn": "南惆水",
         "pinyin": "Nán Chóu Shuǐ",
         "type": "Unknown",
@@ -7712,7 +7712,7 @@
         "file": 766
     },
     {
-        "en": "Proclaimation Earth",
+        "en": "Proclamation Earth",
         "cn": "宣土",
         "pinyin": "Xuān Tǔ",
         "type": "Unknown",
@@ -8453,7 +8453,7 @@
         "pinyin": "Zhāo Hán Yǔ",
         "type": "Unknown",
         "gender": null,
-        "file": 794
+        "file": 798
     },
     {
         "en": "Phoenix Tail Stone",
@@ -10568,7 +10568,7 @@
         "file": 832
     },
     {
-        "en": "Three Profoundities",
+        "en": "Three Profundities",
         "cn": "三玄",
         "pinyin": "Sān Xuán",
         "type": "Group",
@@ -11115,7 +11115,7 @@
         "en": "Black-Eyed Desire",
         "cn": "乌从欲",
         "pinyin": "Wū Cóng Yù",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 842
     },
@@ -14128,7 +14128,7 @@
         "file": 901
     },
     {
-        "en": "Touba Ci",
+        "en": "Tuoba Ci",
         "cn": "拓跋赐",
         "pinyin": "Tuòbá Cì",
         "type": "Unknown",
@@ -14160,7 +14160,7 @@
         "file": 901
     },
     {
-        "en": "Sky-Tower of Transformation Dao",
+        "en": "Guanhua Heavenly Tower Dao",
         "cn": "观化天楼道",
         "pinyin": "Guānhuà Tiānlóu Dào",
         "type": "Unknown",
@@ -14520,7 +14520,7 @@
         "file": 913
     },
     {
-        "en": "Touba Xuantan",
+        "en": "Tuoba Xuantan",
         "cn": "拓跋玄郯",
         "pinyin": "Tuòbá Xuán Tán",
         "type": "Person",
@@ -14888,7 +14888,7 @@
         "file": 919
     },
     {
-        "en": "Celestial-Awakening Ear",
+        "en": "Heeding the Awakened Star",
         "cn": "听醒辰",
         "pinyin": "Tīng Xǐng Chén",
         "type": "Unknown",
@@ -15979,8 +15979,8 @@
         "en": "Yao Guanyi",
         "cn": "姚贯夷",
         "pinyin": "Yáo Guànyí",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 935
     },
     {
@@ -16824,7 +16824,7 @@
         "file": 958
     },
     {
-        "en": "Touba Lan",
+        "en": "Tuoba Lan",
         "cn": "拓跋岚",
         "pinyin": "Tuòbá Lán",
         "type": "Person",
@@ -17848,7 +17848,7 @@
         "file": 982
     },
     {
-        "en": "Touba Changming",
+        "en": "Tuoba Changming",
         "cn": "拓跋长明",
         "pinyin": "Tuòbá Chángmíng",
         "type": "Person",
@@ -21148,7 +21148,7 @@
         "cn": "殷白月",
         "pinyin": "Yīn Báiyuè",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Female",
         "file": 1041
     },
     {
@@ -21160,7 +21160,7 @@
         "file": 1041
     },
     {
-        "en": "Tian Langzhi",
+        "en": "Tianlang Zhi",
         "cn": "天琅骘",
         "pinyin": "Tiānláng Zhì",
         "type": "Person",
@@ -24048,7 +24048,7 @@
         "file": 1106
     },
     {
-        "en": "Touba Xianbei",
+        "en": "Tuoba Xianbei",
         "cn": "拓跋鲜卑",
         "pinyin": "Tuòbá Xiānbēi",
         "type": "Group",
@@ -24056,7 +24056,7 @@
         "file": 1107
     },
     {
-        "en": "Touba Xige Yi",
+        "en": "Tuoba Xige Yi",
         "cn": "拓跋徙格翼",
         "pinyin": "Tuòbá Xǐgéyì",
         "type": "Person",
@@ -24072,7 +24072,7 @@
         "file": 1107
     },
     {
-        "en": "Touba Qiye",
+        "en": "Tuoba Qiye",
         "cn": "拓跋岐野",
         "pinyin": "Tuòbá Qíyě",
         "type": "Person",
@@ -24867,7 +24867,7 @@
         "en": "Changtang",
         "cn": "长塘",
         "pinyin": "Cháng Táng",
-        "type": "Unknown",
+        "type": "Person",
         "gender": null,
         "file": 1125
     },
@@ -25784,7 +25784,7 @@
         "file": 1146
     },
     {
-        "en": "Sovereign of Dui Edge",
+        "en": "Sovereign of Reflecting Edge",
         "cn": "君兑隅",
         "pinyin": "Jūn Duì Yú",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -26080,7 +26080,7 @@
         "file": 1157
     },
     {
-        "en": "Let no one say a Monarch's path is a realm apart, for the legacies of the Three Profoundities gather under one roof. To seek the ultimate yin, one must race the moon; to achieve what the sun-chariot cannot, one must embrace the Crimson Virtue. The great clans came to the palace to listen to the teachings of Wu Earth, and even legendary figures have stood before the Golden Lock. He mastered all the immortal spell arts of a bygone age—and this morning, he has ascended the pavilion to pay respects at the Azure Step!",
+        "en": "Let no one say a Monarch's path is a realm apart, for the legacies of the Three Profundities gather under one roof. To seek the ultimate yin, one must race the moon; to achieve what the sun-chariot cannot, one must embrace the Crimson Virtue. The great clans came to the palace to listen to the teachings of Wu Earth, and even legendary figures have stood before the Golden Lock. He mastered all the immortal spell arts of a bygone age—and this morning, he has ascended the pavilion to pay respects at the Azure Step!",
         "cn": "莫言君轨私余闰，道业三玄在一檐。不易求阴须奔月，郁仪难就赤德延。澹韩趋殿听戊土，二吕曾居金锁前。故岁习全仙术法——今朝更榭拜青阶！",
         "pinyin": "Mò yán jūn guǐ sī yú rùn, dào yè sān xuán zài yī yán. Bùyì qiú yīn xū bēn yuè, yù yí nán jiù chì dé yán. Dàn hán qū diàn tīng wù tǔ, èr lǚ céng jū jīn suǒ qián. Gù suì xí quán xiān shù fǎ——jīnzhāo gēng xiè bài qīng jiē!",
         "type": "Concept/Term",
@@ -28720,7 +28720,7 @@
         "file": 1250
     },
     {
-        "en": "Touba Qitian",
+        "en": "Tuoba Qitian",
         "cn": "拓跋岐天",
         "pinyin": "Tuòbá Qítiān",
         "type": "Person",
@@ -29072,7 +29072,7 @@
         "file": 1260
     },
     {
-        "en": "Touba Xuanzan",
+        "en": "Tuoba Xuanzan",
         "cn": "拓跋玄酂",
         "pinyin": "Tuòbá Xuán Zàn",
         "type": "Person",
@@ -29452,7 +29452,7 @@
         "cn": "拓跋绫",
         "pinyin": "Tuòbá Líng",
         "type": "Person",
-        "gender": "Female",
+        "gender": "Unknown",
         "file": 1269
     },
     {
@@ -30136,7 +30136,7 @@
         "file": 1286
     },
     {
-        "en": "Molten Fiend Fire",
+        "en": "Virile Banefire",
         "cn": "牡煞火",
         "pinyin": "Mǔshàhuǒ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -30792,7 +30792,7 @@
         "file": 1303
     },
     {
-        "en": "Purple Terrace Zhiyang Daoist Tradition",
+        "en": "Purple Terrace Manifest Yang Daoist Tradition",
         "cn": "紫台徵阳道统",
         "pinyin": "Zǐ Tái Zhǐyáng Dàotǒng",
         "type": "Group",
@@ -31640,7 +31640,7 @@
         "file": 1319
     },
     {
-        "en": "Taizu",
+        "en": "Great Ancestor",
         "cn": "太祖",
         "pinyin": "Tàizǔ",
         "type": "Person",
@@ -32168,7 +32168,7 @@
         "file": 1332
     },
     {
-        "en": "Divine Slaying True Monarch",
+        "en": "True Monarch Shen Qiang",
         "cn": "神戕真君",
         "pinyin": "Shén Qiāng Zhēnjūn",
         "type": "Concept/Term",
@@ -32256,7 +32256,7 @@
         "file": 1333
     },
     {
-        "en": "Pang Queyan",
+        "en": "Pang Queyun",
         "cn": "庞阕云",
         "pinyin": "Páng Quèyún",
         "type": "Person",
@@ -32904,14 +32904,6 @@
         "file": 0
     },
     {
-        "en": "Great One",
-        "cn": "大人",
-        "pinyin": "Dàrén",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 0
-    },
-    {
         "en": "【Prophecy】",
         "cn": "谶",
         "pinyin": "Chèn",
@@ -32996,6 +32988,150 @@
         "cn": "冥土",
         "pinyin": "Míngtǔ",
         "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Molding Profundity Temple",
+        "cn": "抟玄观",
+        "pinyin": "tuán xuán guān",
+        "type": "Group",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "E'ye",
+        "cn": "娥野",
+        "pinyin": "Éyě",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Calamity Dispelling Palace",
+        "cn": "除殃宫",
+        "pinyin": "Chú Yāng Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Decree Responding Terrace",
+        "cn": "应昭台",
+        "pinyin": "Yìng Zhāo Tái",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Divine Ability Township",
+        "cn": "神通乡",
+        "pinyin": "Shéntōng Xiāng",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Wenhuang Residence",
+        "cn": "文磺居",
+        "pinyin": "Wén Huáng Jū",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Cloud Dream",
+        "cn": "云梦",
+        "pinyin": "Yúnmèng",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Cloud Dream of Moongaze",
+        "cn": "望月云梦",
+        "pinyin": "Wàngyuè Yúnmèng",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Dao-precinct",
+        "cn": "道场",
+        "pinyin": "dàochǎng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Dong Court",
+        "cn": "洞庭",
+        "pinyin": "Dòngtíng",
+        "type": "Place",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Yanhua",
+        "cn": "衍华",
+        "pinyin": "Yǎn huá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Blazing Aridity Heaven",
+        "cn": "布燥天",
+        "pinyin": "Bùzào Tiān",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1347
+    },
+    {
+        "en": "Taihong",
+        "cn": "太鸿",
+        "pinyin": "Tàihóng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1347
+    },
+    {
+        "en": "Ye Tuji",
+        "cn": "叶涂济",
+        "pinyin": "Yè Tújì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1348
+    },
+    {
+        "en": "Green Basket Millet Qi",
+        "cn": "青篼稗气",
+        "pinyin": "Qīng dōu bài qì",
+        "type": "Item",
+        "gender": null,
+        "file": 1349
+    },
+    {
+        "en": "Xiaoqing",
+        "cn": "绡卿",
+        "pinyin": "Xiāo qīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1349
+    },
+    {
+        "en": "Heart-Will Incineration",
+        "cn": "心期焚",
+        "pinyin": "Xīn qī fén",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Flameshadow Crow",
+        "cn": "焰中鸟",
+        "pinyin": "Yàn zhōng niǎo",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 0
     }
