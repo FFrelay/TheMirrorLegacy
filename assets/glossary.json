@@ -3664,7 +3664,7 @@
         "file": 680
     },
     {
-        "en": "Merging Owl",
+        "en": "Owl Mallow",
         "cn": "鸺葵",
         "pinyin": "Xiūkuí",
         "type": "Unknown",
@@ -3944,7 +3944,7 @@
         "file": 685
     },
     {
-        "en": "Great Xiukui Monastery",
+        "en": "Great Owl Mallow Temple",
         "cn": "大鸺葵观",
         "pinyin": "Dà Xiūkuí Guàn",
         "type": "Unknown",
@@ -4640,7 +4640,7 @@
         "file": 694
     },
     {
-        "en": "Yue Cultivating Sect",
+        "en": "Cultivation Transcendence Sect",
         "cn": "修越宗",
         "pinyin": "Xiūyuè Zōng",
         "type": "Unknown",
@@ -10219,7 +10219,7 @@
         "en": "Green Pine Supreme Yang Daoist tradition",
         "cn": "青松太阳道统",
         "pinyin": "Qingsong Taiyang Daotong",
-        "type": "Unknown",
+        "type": "Group",
         "gender": null,
         "file": 825
     },
@@ -10232,7 +10232,7 @@
         "file": 825
     },
     {
-        "en": "She Immortals",
+        "en": "Immortal She",
         "cn": "社仙",
         "pinyin": "She Xian",
         "type": "Unknown",
@@ -10259,15 +10259,15 @@
         "en": "Treasure Elephant Cauldron",
         "cn": "宝象炉",
         "pinyin": "Bao Xiang Lu",
-        "type": "Unknown",
+        "type": "Artifact",
         "gender": null,
         "file": 825
     },
     {
-        "en": "Xiukui Profound-Passage Cauldron",
+        "en": "Profound Owl Passing Shadows Cauldron",
         "cn": "鸺玄渡景炉",
         "pinyin": "Xiuxuan Dujing Lu",
-        "type": "Unknown",
+        "type": "Artifact",
         "gender": null,
         "file": 825
     },
@@ -10275,7 +10275,7 @@
         "en": "treasure elephant",
         "cn": "宝象",
         "pinyin": "Bǎoxiàng",
-        "type": "Unknown",
+        "type": "Creature",
         "gender": null,
         "file": 825
     },
@@ -10283,7 +10283,7 @@
         "en": "Supreme Yang Daoist tradition",
         "cn": "太阳道统",
         "pinyin": "Tàiyáng Dàotǒng",
-        "type": "Concept/Term",
+        "type": "Group",
         "gender": null,
         "file": 825
     },
@@ -13984,7 +13984,7 @@
         "file": 898
     },
     {
-        "en": "Xiukui's Choosen One",
+        "en": "Owl's Choosen One",
         "cn": "鸺葵道子",
         "pinyin": "Xiūkuí Dàozǐ",
         "type": "Unknown",
@@ -14352,7 +14352,7 @@
         "file": 911
     },
     {
-        "en": "Kui Cultivating Sect",
+        "en": "Cultivation Mallow Sect",
         "cn": "修葵宗",
         "pinyin": "Xiū Kuí Zōng",
         "type": "Unknown",
@@ -14360,7 +14360,7 @@
         "file": 911
     },
     {
-        "en": "Celestial Xiukui",
+        "en": "Heavenly Owl",
         "cn": "天鸺",
         "pinyin": "Tiān Xiū",
         "type": "Unknown",
@@ -14368,7 +14368,7 @@
         "file": 911
     },
     {
-        "en": "The Unsurpassed",
+        "en": "Non-Transcendence",
         "cn": "不越",
         "pinyin": "Bù Yuè",
         "type": "Unknown",
