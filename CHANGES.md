@@ -14,6 +14,11 @@ This document lists all changes made in each version for reference.
 | Sky-Tower of Transformation Dao (观化天楼道)      | Guanhua Heavenly Tower Dao                |
 | Celestial-Awakening Ear (听醒辰)                  | Heeding the Awakened Star                 |
 | Black-Eyed Desire (乌从欲)                        | Crow Follows Desire                       |
+| Xiukui Profound-Passage Cauldron (鸺玄渡景炉)     | Profound Owl Passing Shadows Cauldron     |
+| Great Xiukui Monastery (大鸺葵观)                 | Great Owl Mallow Temple                   |
+| Xiukui                                            | Owl Mallow                                |
+| The Unsurpassed (不越)                            | Non-Transcendence                         |
+| Yue Cultivating Sect                              | Cultivation Transcendence Sect            |
 
 # v2.3
 
