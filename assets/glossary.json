@@ -33134,5 +33134,37 @@
         "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 0
+    },
+    {
+        "en": "Baishi Prefecture",
+        "cn": "白侍郡",
+        "pinyin": "Bái Shì Jùn",
+        "type": "Place",
+        "gender": null,
+        "file": 1350
+    },
+    {
+        "en": "Vast Plateau Heaven",
+        "cn": "广塬天",
+        "pinyin": "Guǎng Yuán Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1350
+    },
+    {
+        "en": "Xu Jiaoyan",
+        "cn": "徐角言",
+        "pinyin": "Xú Jiǎoyán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1352
+    },
+    {
+        "en": "Feng Xiu",
+        "cn": "冯脩",
+        "pinyin": "Féng Xiū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1352
     }
 ]
