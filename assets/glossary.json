@@ -11112,7 +11112,7 @@
         "file": 840
     },
     {
-        "en": "Black-Eyed Desire",
+        "en": "Crow Follows Desire",
         "cn": "乌从欲",
         "pinyin": "Wū Cóng Yù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -14155,8 +14155,8 @@
         "en": "Wei Xuanyin",
         "cn": "卫悬因",
         "pinyin": "Wèi Xuányīn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 901
     },
     {
@@ -22844,7 +22844,7 @@
         "cn": "玄楼",
         "pinyin": "Xuánlóu",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Male",
         "file": 1077
     },
     {
@@ -28336,7 +28336,7 @@
         "file": 1231
     },
     {
-        "en": "Life-Ending Expulsion",
+        "en": "Life-Ending Purge",
         "cn": "至命除",
         "pinyin": "Zhì Mìng Chú",
         "type": "Technique/Art/Method/Incantation/Spell",
