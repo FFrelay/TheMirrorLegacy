@@ -33166,5 +33166,109 @@
         "type": "Person",
         "gender": "Male",
         "file": 1352
+    },
+    {
+        "en": "Wu Qingyan",
+        "cn": "吴青岩",
+        "pinyin": "Wú Qīngyán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1354
+    },
+    {
+        "en": "Right Seat Profound Stratagem All-Hearing Dharma Aspect",
+        "cn": "右座玄机有闻法相",
+        "pinyin": "Yòu zuò xuánjī yǒu wén fǎxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Golden Body Thunder Sound Flawless Dharma Idol",
+        "cn": "金躯雷音无漏法相",
+        "pinyin": "Jīn qū léi yīn wú lòu fǎxiàng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wu Profound Heaven",
+        "cn": "戊玄天",
+        "pinyin": "Wù Xuán Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Dams Goat",
+        "cn": "堰羊",
+        "pinyin": "Yànyáng",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wandering",
+        "cn": "逍遥",
+        "pinyin": "Xiāoyáo",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Azure Revolution",
+        "cn": "青革",
+        "pinyin": "Qīnggé",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Qinghuan",
+        "cn": "清寰",
+        "pinyin": "Qīnghuán",
+        "type": "Place",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Dao Court Emissary",
+        "cn": "道庭揖缀使",
+        "pinyin": "Dàotíng Yīzhuìshǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wandering Metal",
+        "cn": "逍遥金",
+        "pinyin": "Xiāoyáo Jīn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1354
+    },
+    {
+        "en": "Resplendent Monarch",
+        "cn": "璀君",
+        "pinyin": "Cuǐjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Resplendent Monarch Zhenxuan",
+        "cn": "真玄璀君",
+        "pinyin": "Zhēnxuán Cuǐjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1354
+    },
+    {
+        "en": "Zhenxuan",
+        "cn": "真玄",
+        "pinyin": "Zhēnxuán",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1354
     }
 ]

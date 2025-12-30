@@ -47,6 +47,7 @@
 ### Merging Owl
 
 - Hurricane Ghost Yin
+- Owl Chases the Sly Cat
 
 ## Two Rites
 
