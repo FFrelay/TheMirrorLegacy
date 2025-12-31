@@ -9464,7 +9464,7 @@
         "file": 813
     },
     {
-        "en": "Strait of Ten Thousand Isles",
+        "en": "Qunyi Strait",
         "cn": "群夷海峡",
         "pinyin": "Qún Yí Hǎixiá",
         "type": "Unknown",
@@ -13384,7 +13384,7 @@
         "file": 888
     },
     {
-        "en": "Art of the Talisman Grotto and Immortality",
+        "en": "Grotto-Talisman Ascension Art",
         "cn": "洞符登仙术",
         "pinyin": "Dòngfú Dēngxiān Shù",
         "type": "Unknown",
@@ -14707,7 +14707,7 @@
         "en": "Morning Rain Clear Cloud Art",
         "cn": "晨雨清云诀",
         "pinyin": "Chényǔ Qīngyún Jué",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
@@ -14715,15 +14715,23 @@
         "en": "Dao-Seeking Clear Cloud Art",
         "cn": "问道清云诀",
         "pinyin": "Wèndào Qīngyún Jué",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
     {
-        "en": "Profound Blade of the Dao's Exhortation to the Yin Soul",
+        "en": "Dao-striving Yin Soul Profound Blade",
         "cn": "道勖阴魄玄刃",
         "pinyin": "Dàoxù Yīnpò Xuánrèn",
-        "type": "Unknown",
+        "type": "Item",
+        "gender": null,
+        "file": 917
+    },
+    {
+        "en": "World-Borrowing Heart-Containing Shamanic Art",
+        "cn": "借世拘心巫法",
+        "pinyin": "Jiè shì jū xīn wū fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
