@@ -33278,5 +33278,53 @@
         "type": "Person",
         "gender": "Unknown",
         "file": 1354
+    },
+    {
+        "en": "Jiankan Yishui",
+        "cn": "建阚沂水",
+        "pinyin": "Jiànkàn Yíshuǐ",
+        "type": "Place",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Qiu E",
+        "cn": "裘峨",
+        "pinyin": "Qiú É",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1355
+    },
+    {
+        "en": "Qiu clan",
+        "cn": "裘氏",
+        "pinyin": "Qiú Shì",
+        "type": "Group",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "True Cinnabar Edict Profound Art",
+        "cn": "敕真朱砂玄法",
+        "pinyin": "Chì Zhēn Zhūshā Xuánfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Tiger's Frontier Shamanic Profound Register",
+        "cn": "虎夷巫玄谱",
+        "pinyin": "Hǔ Yí Wū Xuán Pǔ",
+        "type": "Item",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Esoteric Scripture Purple Register",
+        "cn": "玄书紫箓",
+        "pinyin": "Xuán Shū Zǐ Lù",
+        "type": "Item",
+        "gender": null,
+        "file": 1355
     }
 ]
