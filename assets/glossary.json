@@ -33320,11 +33320,19 @@
         "file": 1355
     },
     {
-        "en": "Esoteric Scripture Purple Register",
+        "en": "Profound Scripture Purple Register",
         "cn": "玄书紫箓",
         "pinyin": "Xuán Shū Zǐ Lù",
         "type": "Item",
         "gender": null,
         "file": 1355
+    },
+    {
+        "en": "spiritual altar",
+        "cn": "灵台",
+        "pinyin": "língtái",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1356
     }
 ]
