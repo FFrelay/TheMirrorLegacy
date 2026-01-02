@@ -33328,11 +33328,123 @@
         "file": 1355
     },
     {
-        "en": "spiritual altar",
-        "cn": "灵台",
-        "pinyin": "língtái",
+        "en": "Six Palaces of the Numinous Treasure Order",
+        "cn": "灵宝道轨六宫",
+        "pinyin": "Língbǎo Dàoguǐ Liù Gōng",
+        "type": "Group",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Zunxian",
+        "cn": "尊宪",
+        "pinyin": "Zūnxiàn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Daoist Master Zunxian",
+        "cn": "尊宪真人",
+        "pinyin": "Zūnxiàn Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Supreme Marvel of the Vast Beyond's Flying Monarch",
+        "cn": "上妙翃外飞君",
+        "pinyin": "Shàngmiào Hóngwài Fēijūn",
         "type": "Concept/Term",
         "gender": null,
-        "file": 1356
+        "file": 1357
+    },
+    {
+        "en": "Yu Feiqing",
+        "cn": "于飞箐",
+        "pinyin": "Yú Fēiqìng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Li Hengqing",
+        "cn": "李恒清",
+        "pinyin": "Lǐ Héngqīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Soaring-Beyond",
+        "cn": "翃外",
+        "pinyin": "Hóngwài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Flying Monarch",
+        "cn": "飞君",
+        "pinyin": "Fēijūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Wandering Monarch",
+        "cn": "羌君",
+        "pinyin": "Qiāngjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Meritorious Monarch",
+        "cn": "功君",
+        "pinyin": "Gōngjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Jeweled Coffin Spring Stone",
+        "cn": "宝椁春石",
+        "pinyin": "Bǎo Guǒ Chūn Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "United Eaves Pavilion",
+        "cn": "一檐阁",
+        "pinyin": "Yī Yán Gé",
+        "type": "Place",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Zhaoyuan Immortal of Solemn Brilliance of the Bright Yang",
+        "cn": "昭元合明司肃仙明阳",
+        "pinyin": "Zhāoyuán Hémíng Sīsù Xiān Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "High Radiance Minister of Profound Brilliance of the Bright Yang",
+        "cn": "上曜煌明玄極臣明阳",
+        "pinyin": "Shàngyào Huángmíng Xuánjí Chén Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Bright Yang's Emperor of Brilliant Splendor, the Heavenly God Who Governs the Ages",
+        "cn": "明华天神御世帝明阳",
+        "pinyin": "Mínghuá Tiānshén Yùshì Dì Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
     }
 ]
