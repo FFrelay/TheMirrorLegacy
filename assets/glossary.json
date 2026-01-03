@@ -8200,7 +8200,7 @@
         "file": 789
     },
     {
-        "en": "Blazing Fire",
+        "en": "Scorching Fire",
         "cn": "灴火",
         "pinyin": "Hōnghuǒ",
         "type": "Unknown",
@@ -24168,7 +24168,7 @@
         "file": 1109
     },
     {
-        "en": "Taijia Palace",
+        "en": "Grand Beginning Palace",
         "cn": "太甲宫",
         "pinyin": "Tài jiǎ gōng",
         "type": "Place",
@@ -24176,7 +24176,7 @@
         "file": 1109
     },
     {
-        "en": "Xuanwei Hall",
+        "en": "Hall of Proclaiming Majesty",
         "cn": "宣威殿",
         "pinyin": "Xuānwēi diàn",
         "type": "Place",
@@ -30704,7 +30704,7 @@
         "file": 1302
     },
     {
-        "en": "Blazing Fire Golden Pivot",
+        "en": "Raging Fire Golden Pivot",
         "cn": "炽火金枢",
         "pinyin": "Chì Huǒ Jīn Shū",
         "type": "Artifact",
@@ -32632,7 +32632,7 @@
         "file": 1339
     },
     {
-        "en": "Blazing Fire Divine Ability Immortal Blood",
+        "en": "Scorching Divine Ability Immortal Blood",
         "cn": "灴火神通仙血",
         "pinyin": "Hōnghuǒ Shéntōng Xiānxuè",
         "type": "Concept/Term",
@@ -33446,5 +33446,53 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1357
+    },
+    {
+        "en": "Blazing Aridity True Monarch",
+        "cn": "布燥真君",
+        "pinyin": "Bùzào Zhēnjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1358
+    },
+    {
+        "en": "ghost-deity",
+        "cn": "鬼神",
+        "pinyin": "guǐshén",
+        "type": "Creature",
+        "gender": null,
+        "file": 1358
+    },
+    {
+        "en": "Vast Plateau",
+        "cn": "广塬",
+        "pinyin": "Guǎng Yuán",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Monarch",
+        "cn": "帝明阳",
+        "pinyin": "Dì Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Minister",
+        "cn": "臣明阳",
+        "pinyin": "Chén Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Immortal",
+        "cn": "仙明阳",
+        "pinyin": "Xiān Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
     }
 ]
