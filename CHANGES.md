@@ -1,5 +1,12 @@
 This document lists all changes made in each version for reference.
 
+# v2.5
+
+| Old Term                                                        | New Term                                                |
+| :-------------------------------------------------------------- | :------------------------------------------------------ |
+| Xuandan Supreme Yin White Moon Laurel Branch (玄儋太阴白月桂枝) | Profound Vessel Supreme Yin White Moon Osmanthus Branch |
+| Quhai Sect (蕖海宗)                                             | Lotus Sea Sect                                          |
+
 # v2.4
 
 | Old Term                                                               | New Term                                      |
@@ -21,7 +28,7 @@ This document lists all changes made in each version for reference.
 | Yue Cultivating Sect                                                   | Cultivation Transcendence Sect                |
 | Profound Blade of the Dao's Exhortation to the Yin Soul (道勖阴魄玄刃) | Dao-striving Yin Soul Profound Blade          |
 | World-Borrowing, Mind-Detaining Sorcery                                | World-Borrowing Heart-Containing Shamanic Art |
-| Art of the Talisman Grotto and Immortality (洞符登仙术) | Grotto-Talisman Ascension Art |
+| Art of the Talisman Grotto and Immortality (洞符登仙术)                | Grotto-Talisman Ascension Art                 |
 
 # v2.3
 

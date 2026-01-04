@@ -222,7 +222,7 @@ He spoke softly "Of course I do."
 
 The woman raised her brow and looked at Him, at this somewhat frail human form standing amidst the shimmering waters of this world.
 
-"During the Zhou era… I was cultivating on the upper reaches of the Great River, accumulating water potential, intending to walk its course. I was at Gyaring Lake, and he, Dongfang Tianye, was at Ngoring Lake… He knew we were destined for a conflict and compromised with the Thunders and Radiant Fire, striking me down and killing me upon Gyaring Lake."
+"During the Zhou era… I was cultivating on the upper reaches of the He River[^6], accumulating water potential, intending to walk its course. I was at Gyaring Lake, and he, Dongfang Tianye, was at Ngoring Lake… He knew we were destined for a conflict and compromised with the Thunders and Radiant Fire, striking me down and killing me upon Gyaring Lake."
 
 Colors swirled in His eyes, as if the cataclysmic scene was replaying itself—the shaking of thunder, the surging of Radiant Fire. He murmured,
 
@@ -441,3 +441,4 @@ Endless light from the water filled the space, transforming into wisps of gray. 
 [^3]: Weiming literally means "Before Dawn".
 [^4]: Here, Weixi means "Not yet Dry". Yep, the same Dry as in Dry Qi and Xiyang.
 [^5]: This is an exercise for readers.
+[^6]: He River is the river duty of Dongfang Rijiu.

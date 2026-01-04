@@ -14584,7 +14584,7 @@
         "file": 915
     },
     {
-        "en": "Xuandan Supreme Yin White Moon Laurel Branch",
+        "en": "Profound Vessel Supreme Yin White Moon Osmanthus Branch",
         "cn": "玄儋太阴白月桂枝",
         "pinyin": "Xuándān Tàiyīn Bái Yuèguì Zhī",
         "type": "Unknown",
@@ -14592,7 +14592,7 @@
         "file": 915
     },
     {
-        "en": "Quhai Sect",
+        "en": "Lotus Sea Sect",
         "cn": "蕖海宗",
         "pinyin": "Qúhǎi Zōng",
         "type": "Unknown",
@@ -32904,14 +32904,6 @@
         "file": 0
     },
     {
-        "en": "Overlooking Gaze Perceiving the Profound",
-        "cn": "临观见玄",
-        "pinyin": "Lín guān jiàn xuán",
-        "type": "Group",
-        "gender": null,
-        "file": 0
-    },
-    {
         "en": "Yuan Shou",
         "cn": "元绶",
         "pinyin": "Yuán Shòu",
@@ -33614,5 +33606,13 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 0
+    },
+    {
+        "en": "Bud of Perpetual Spring",
+        "cn": "未夭春芽",
+        "pinyin": "Wèi Yāo Chūn Yá",
+        "type": "Item",
+        "gender": null,
+        "file": 1359
     }
 ]
