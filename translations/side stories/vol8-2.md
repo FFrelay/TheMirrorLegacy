@@ -28,7 +28,7 @@ That person laughed.
 
 The Converging Water vibrated.
 
-“Consult me? Are you mocking me, fellow Daoist? You too are one of the Overlooking Gaze Perceiving the Profound—what Dao theory could you possibly need from me? I only hope that when the day comes for me to seek the Dao from you, you will not refuse.”
+“Consult me? Are you mocking me, fellow Daoist? You too are one who has witnessed the Profound—what Dao theory could you possibly need from me? I only hope that when the day comes for me to seek the Dao from you, you will not refuse.”
 
 “You speak too seriously, Great Sage.”
 
