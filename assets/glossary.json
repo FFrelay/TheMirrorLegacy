@@ -16953,8 +16953,16 @@
     },
     {
         "en": "Dongfang Rijiu",
-        "cn": "东方日居",
+        "cn": "日居",
         "pinyin": "Dōngfāng Rìjū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 962
+    },
+    {
+        "en": "Rijiu",
+        "cn": "日居",
+        "pinyin": "Rìjū",
         "type": "Person",
         "gender": "Male",
         "file": 962
@@ -19800,11 +19808,19 @@
         "file": 1015
     },
     {
-        "en": "Weiming Weixi",
-        "cn": "未明未晞",
-        "pinyin": "wèi míng wèi xī",
+        "en": "Weixi",
+        "cn": "未晞",
+        "pinyin": "wèi xī",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Male",
+        "file": 1015
+    },
+    {
+        "en": "Weiming",
+        "cn": "未明",
+        "pinyin": "wèi míng",
+        "type": "Person",
+        "gender": "Male",
         "file": 1015
     },
     {
@@ -33494,5 +33510,109 @@
         "type": "Person",
         "gender": "Male",
         "file": 1358
+    },
+    {
+        "en": "Jia Ding",
+        "cn": "甲鼎",
+        "pinyin": "Jiǎ Dǐng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Shen Guang",
+        "cn": "审广",
+        "pinyin": "Shěn Guǎng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Du Bing",
+        "cn": "渎禀",
+        "pinyin": "Dú Bǐng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Xie",
+        "cn": "邪",
+        "pinyin": "Xié",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Qishen",
+        "cn": "栖身",
+        "pinyin": "Qīshēn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Hong",
+        "cn": "鸿",
+        "pinyin": "Hóng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Zaishi",
+        "cn": "在室",
+        "pinyin": "Zàishì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Tianye",
+        "cn": "填业",
+        "pinyin": "Tiányè",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Gyaring Lake",
+        "cn": "扎陵",
+        "pinyin": "Zhālíng",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Ngoring Lake",
+        "cn": "鄂陵",
+        "pinyin": "Èlíng",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Wei Buyi",
+        "cn": "卫不意",
+        "pinyin": "Wèi Bùyì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Ce Jin",
+        "cn": "策晋",
+        "pinyin": "Cè Jìn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Dongfang",
+        "cn": "东方",
+        "pinyin": "Dōngfāng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
     }
 ]
