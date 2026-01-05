@@ -5571,8 +5571,8 @@
         "en": "Lingmei",
         "cn": "凌袂",
         "pinyin": "Líng Mèi",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 705
     },
     {
@@ -6144,7 +6144,7 @@
         "file": 715
     },
     {
-        "en": "Beyond the Profound",
+        "en": "Outside the Profound",
         "cn": "玄外",
         "pinyin": "xuán wài",
         "type": "Concept/Term",
@@ -9496,7 +9496,7 @@
         "file": 813
     },
     {
-        "en": "Yinzhou Island",
+        "en": "Yinzhou",
         "cn": "殷洲",
         "pinyin": "Yīn Zhōu",
         "type": "Unknown",
@@ -10160,7 +10160,7 @@
         "file": 822
     },
     {
-        "en": "Golden Oneness",
+        "en": "Golden Unity",
         "cn": "金一",
         "pinyin": "Jīn Yī",
         "type": "Unknown",
@@ -10184,7 +10184,7 @@
         "file": 823
     },
     {
-        "en": "Golden Oneness of Highest Azure",
+        "en": "Golden Unity Highest Azure",
         "cn": "金一上青",
         "pinyin": "Jīn Yī Shàng Qīng",
         "type": "Unknown",
@@ -17648,7 +17648,7 @@
         "file": 978
     },
     {
-        "en": "Golden Oneness Daoist Tradition",
+        "en": "Golden Unity Daoist Tradition",
         "cn": "金一道统",
         "pinyin": "Jīnyī Dàotǒng",
         "type": "Group",
@@ -28456,7 +28456,7 @@
         "file": 1232
     },
     {
-        "en": "World-Rushing Golden Oneness",
+        "en": "World-Rushing Golden Unity",
         "cn": "冲世金一",
         "pinyin": "Chōngshì Jīn Yī",
         "type": "Group",
@@ -29928,7 +29928,7 @@
         "file": 1280
     },
     {
-        "en": "Golden Oneness Taiyuan of Highest Azure Nature",
+        "en": "Golden Unity Taiyuan of Highest Azure Nature",
         "cn": "金一太元上青性",
         "pinyin": "Jīn yī tài yuán shàng qīng xìng",
         "type": "Concept/Term",
@@ -30904,7 +30904,7 @@
         "file": 1304
     },
     {
-        "en": "True Monarch Golden Oneness Taiyuan of Highest Azure",
+        "en": "True Monarch Golden Unity Taiyuan of Highest Azure",
         "cn": "金一太元上青真君",
         "pinyin": "Jīn Yī Tài Yuán Shàng Qīng Zhēnjūn",
         "type": "Person",
@@ -32648,14 +32648,6 @@
         "file": 1339
     },
     {
-        "en": "Scorching Divine Ability Immortal Blood",
-        "cn": "灴火神通仙血",
-        "pinyin": "Hōnghuǒ Shéntōng Xiānxuè",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 1339
-    },
-    {
         "en": "Supreme Feathered Robe",
         "cn": "无上羽衣",
         "pinyin": "Wúshàng Yǔyī",
@@ -33614,5 +33606,77 @@
         "type": "Item",
         "gender": null,
         "file": 1359
+    },
+    {
+        "en": "True Monarch of Luminous Passage, Active Derivation, and Transcendent Cultivation",
+        "cn": "通明行衍修越真君",
+        "pinyin": "Tōngmíng Xíngyǎn Xiūyuè Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Profound Monarch of the Serene Two Principles",
+        "cn": "清静二仪玄君",
+        "pinyin": "Qīngjìng Èryí Xuánjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Grand Culmination of Profound Virtue",
+        "cn": "玄德大罗",
+        "pinyin": "Xuándé Dàluó",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "True Monarch of the Dui Palace, of Killing and Reaping in the Corner",
+        "cn": "兑宫杀收在隅真君",
+        "pinyin": "Duìgōng Shāshōu Zàiyú Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Dui Palace",
+        "cn": "兑宫",
+        "pinyin": "Duìgōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Water and Fire Golden Lotus Painting",
+        "cn": "水火金莲图",
+        "pinyin": "Shuǐhuǒ Jīnlián Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Painting of Slaying Demons",
+        "cn": "荡杀妖魔图",
+        "pinyin": "Dàngshā Yāomó Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Yin-Yang Harmony and Transformation Painting",
+        "cn": "阴阳谐变图",
+        "pinyin": "Yīnyáng Xiébiàn Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "true essence",
+        "cn": "真元",
+        "pinyin": "zhēnyuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
     }
 ]

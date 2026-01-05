@@ -6,6 +6,9 @@ This document lists all changes made in each version for reference.
 | :-------------------------------------------------------------- | :------------------------------------------------------ |
 | Xuandan Supreme Yin White Moon Laurel Branch (玄儋太阴白月桂枝) | Profound Vessel Supreme Yin White Moon Osmanthus Branch |
 | Quhai Sect (蕖海宗)                                             | Lotus Sea Sect                                          |
+| Blazing Fire (灴火)                                             | Scorching Fire                                          |
+| Golden Oneness (金一)                                           | Golden Unity                                            |
+| Beyond the Profound (玄外)                                      | Outside the Profound                                    |
 
 # v2.4
 
