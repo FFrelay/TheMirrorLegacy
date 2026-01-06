@@ -1,24 +1,37 @@
 This document lists all changes made in each version for reference.
 
+# v2.5
+
+| Old Term                                                        | New Term                                                |
+| :-------------------------------------------------------------- | :------------------------------------------------------ |
+| Xuandan Supreme Yin White Moon Laurel Branch (玄儋太阴白月桂枝) | Profound Vessel Supreme Yin White Moon Osmanthus Branch |
+| Quhai Sect (蕖海宗)                                             | Lotus Sea Sect                                          |
+| Blazing Fire (灴火)                                             | Scorching Fire                                          |
+| Golden Oneness (金一)                                           | Golden Unity                                            |
+| Beyond the Profound (玄外)                                      | Outside the Profound                                    |
+
 # v2.4
 
-| Old Term                                          | New Term                                  |
-| :------------------------------------------------ | :---------------------------------------- |
-| Shouding (守定)                                   | Shou Ding                                 |
-| Luminous Heart (昭澈心)                           | Bright Heart of Clarity                   |
-| Sun-Surging Star-Governing Compass (冲阳辖星宝盘) | Surging Yang Star-Governing Treasure Disk |
-| Intercalary Sun Art (闰阳法)                      | Intercalary Yang Art                      |
-| Sumian                                            | Su Mian                                   |
-| Tian Langzhi                                      | Tianlang Zhi                              |
-| Divine Slaying True Monarch                       | True Monarch Shen Qiang                   |
-| Sky-Tower of Transformation Dao (观化天楼道)      | Guanhua Heavenly Tower Dao                |
-| Celestial-Awakening Ear (听醒辰)                  | Heeding the Awakened Star                 |
-| Black-Eyed Desire (乌从欲)                        | Crow Follows Desire                       |
-| Xiukui Profound-Passage Cauldron (鸺玄渡景炉)     | Profound Owl Passing Shadows Cauldron     |
-| Great Xiukui Monastery (大鸺葵观)                 | Great Owl Mallow Temple                   |
-| Xiukui                                            | Owl Mallow                                |
-| The Unsurpassed (不越)                            | Non-Transcendence                         |
-| Yue Cultivating Sect                              | Cultivation Transcendence Sect            |
+| Old Term                                                               | New Term                                      |
+| :--------------------------------------------------------------------- | :-------------------------------------------- |
+| Shouding (守定)                                                        | Shou Ding                                     |
+| Luminous Heart (昭澈心)                                                | Bright Heart of Clarity                       |
+| Sun-Surging Star-Governing Compass (冲阳辖星宝盘)                      | Surging Yang Star-Governing Treasure Disk     |
+| Intercalary Sun Art (闰阳法)                                           | Intercalary Yang Art                          |
+| Sumian                                                                 | Su Mian                                       |
+| Tian Langzhi                                                           | Tianlang Zhi                                  |
+| Divine Slaying True Monarch                                            | True Monarch Shen Qiang                       |
+| Sky-Tower of Transformation Dao (观化天楼道)                           | Guanhua Heavenly Tower Dao                    |
+| Celestial-Awakening Ear (听醒辰)                                       | Heeding the Awakened Star                     |
+| Black-Eyed Desire (乌从欲)                                             | Crow Follows Desire                           |
+| Xiukui Profound-Passage Cauldron (鸺玄渡景炉)                          | Profound Owl Passing Shadows Cauldron         |
+| Great Xiukui Monastery (大鸺葵观)                                      | Great Owl Mallow Temple                       |
+| Xiukui                                                                 | Owl Mallow                                    |
+| The Unsurpassed (不越)                                                 | Non-Transcendence                             |
+| Yue Cultivating Sect                                                   | Cultivation Transcendence Sect                |
+| Profound Blade of the Dao's Exhortation to the Yin Soul (道勖阴魄玄刃) | Dao-striving Yin Soul Profound Blade          |
+| World-Borrowing, Mind-Detaining Sorcery                                | World-Borrowing Heart-Containing Shamanic Art |
+| Art of the Talisman Grotto and Immortality (洞符登仙术)                | Grotto-Talisman Ascension Art                 |
 
 # v2.3
 

@@ -448,7 +448,7 @@
         "file": 655
     },
     {
-        "en": "Heavenly Radiance, Hidden Light",
+        "en": "High Radiance Concealing Light",
         "cn": "上曜伏光",
         "pinyin": "Shàngyào Fúguāng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -5571,8 +5571,8 @@
         "en": "Lingmei",
         "cn": "凌袂",
         "pinyin": "Líng Mèi",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 705
     },
     {
@@ -6144,7 +6144,7 @@
         "file": 715
     },
     {
-        "en": "Beyond the Profound",
+        "en": "Outside the Profound",
         "cn": "玄外",
         "pinyin": "xuán wài",
         "type": "Concept/Term",
@@ -8200,7 +8200,7 @@
         "file": 789
     },
     {
-        "en": "Blazing Fire",
+        "en": "Scorching Fire",
         "cn": "灴火",
         "pinyin": "Hōnghuǒ",
         "type": "Unknown",
@@ -9464,7 +9464,7 @@
         "file": 813
     },
     {
-        "en": "Strait of Ten Thousand Isles",
+        "en": "Qunyi Strait",
         "cn": "群夷海峡",
         "pinyin": "Qún Yí Hǎixiá",
         "type": "Unknown",
@@ -9496,7 +9496,7 @@
         "file": 813
     },
     {
-        "en": "Yinzhou Island",
+        "en": "Yinzhou",
         "cn": "殷洲",
         "pinyin": "Yīn Zhōu",
         "type": "Unknown",
@@ -10160,7 +10160,7 @@
         "file": 822
     },
     {
-        "en": "Golden Oneness",
+        "en": "Golden Unity",
         "cn": "金一",
         "pinyin": "Jīn Yī",
         "type": "Unknown",
@@ -10184,7 +10184,7 @@
         "file": 823
     },
     {
-        "en": "Golden Oneness of Highest Azure",
+        "en": "Golden Unity Highest Azure",
         "cn": "金一上青",
         "pinyin": "Jīn Yī Shàng Qīng",
         "type": "Unknown",
@@ -13384,7 +13384,7 @@
         "file": 888
     },
     {
-        "en": "Art of the Talisman Grotto and Immortality",
+        "en": "Grotto-Talisman Ascension Art",
         "cn": "洞符登仙术",
         "pinyin": "Dòngfú Dēngxiān Shù",
         "type": "Unknown",
@@ -14584,7 +14584,7 @@
         "file": 915
     },
     {
-        "en": "Xuandan Supreme Yin White Moon Laurel Branch",
+        "en": "Profound Vessel Supreme Yin White Moon Osmanthus Branch",
         "cn": "玄儋太阴白月桂枝",
         "pinyin": "Xuándān Tàiyīn Bái Yuèguì Zhī",
         "type": "Unknown",
@@ -14592,7 +14592,7 @@
         "file": 915
     },
     {
-        "en": "Quhai Sect",
+        "en": "Lotus Sea Sect",
         "cn": "蕖海宗",
         "pinyin": "Qúhǎi Zōng",
         "type": "Unknown",
@@ -14707,7 +14707,7 @@
         "en": "Morning Rain Clear Cloud Art",
         "cn": "晨雨清云诀",
         "pinyin": "Chényǔ Qīngyún Jué",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
@@ -14715,15 +14715,23 @@
         "en": "Dao-Seeking Clear Cloud Art",
         "cn": "问道清云诀",
         "pinyin": "Wèndào Qīngyún Jué",
-        "type": "Unknown",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
     {
-        "en": "Profound Blade of the Dao's Exhortation to the Yin Soul",
+        "en": "Dao-striving Yin Soul Profound Blade",
         "cn": "道勖阴魄玄刃",
         "pinyin": "Dàoxù Yīnpò Xuánrèn",
-        "type": "Unknown",
+        "type": "Item",
+        "gender": null,
+        "file": 917
+    },
+    {
+        "en": "World-Borrowing Heart-Containing Shamanic Art",
+        "cn": "借世拘心巫法",
+        "pinyin": "Jiè shì jū xīn wū fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 917
     },
@@ -16945,8 +16953,16 @@
     },
     {
         "en": "Dongfang Rijiu",
-        "cn": "东方日居",
+        "cn": "日居",
         "pinyin": "Dōngfāng Rìjū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 962
+    },
+    {
+        "en": "Rijiu",
+        "cn": "日居",
+        "pinyin": "Rìjū",
         "type": "Person",
         "gender": "Male",
         "file": 962
@@ -17632,7 +17648,7 @@
         "file": 978
     },
     {
-        "en": "Golden Oneness Daoist Tradition",
+        "en": "Golden Unity Daoist Tradition",
         "cn": "金一道统",
         "pinyin": "Jīnyī Dàotǒng",
         "type": "Group",
@@ -19792,11 +19808,19 @@
         "file": 1015
     },
     {
-        "en": "Weiming Weixi",
-        "cn": "未明未晞",
-        "pinyin": "wèi míng wèi xī",
+        "en": "Weixi",
+        "cn": "未晞",
+        "pinyin": "wèi xī",
         "type": "Person",
-        "gender": "Unknown",
+        "gender": "Male",
+        "file": 1015
+    },
+    {
+        "en": "Weiming",
+        "cn": "未明",
+        "pinyin": "wèi míng",
+        "type": "Person",
+        "gender": "Male",
         "file": 1015
     },
     {
@@ -24160,7 +24184,7 @@
         "file": 1109
     },
     {
-        "en": "Taijia Palace",
+        "en": "Grand Beginning Palace",
         "cn": "太甲宫",
         "pinyin": "Tài jiǎ gōng",
         "type": "Place",
@@ -24168,7 +24192,7 @@
         "file": 1109
     },
     {
-        "en": "Xuanwei Hall",
+        "en": "Hall of Proclaiming Majesty",
         "cn": "宣威殿",
         "pinyin": "Xuānwēi diàn",
         "type": "Place",
@@ -28432,7 +28456,7 @@
         "file": 1232
     },
     {
-        "en": "World-Rushing Golden Oneness",
+        "en": "World-Rushing Golden Unity",
         "cn": "冲世金一",
         "pinyin": "Chōngshì Jīn Yī",
         "type": "Group",
@@ -29904,7 +29928,7 @@
         "file": 1280
     },
     {
-        "en": "Golden Oneness Taiyuan of Highest Azure Nature",
+        "en": "Golden Unity Taiyuan of Highest Azure Nature",
         "cn": "金一太元上青性",
         "pinyin": "Jīn yī tài yuán shàng qīng xìng",
         "type": "Concept/Term",
@@ -30696,7 +30720,7 @@
         "file": 1302
     },
     {
-        "en": "Blazing Fire Golden Pivot",
+        "en": "Raging Fire Golden Pivot",
         "cn": "炽火金枢",
         "pinyin": "Chì Huǒ Jīn Shū",
         "type": "Artifact",
@@ -30880,7 +30904,7 @@
         "file": 1304
     },
     {
-        "en": "True Monarch Golden Oneness Taiyuan of Highest Azure",
+        "en": "True Monarch Golden Unity Taiyuan of Highest Azure",
         "cn": "金一太元上青真君",
         "pinyin": "Jīn Yī Tài Yuán Shàng Qīng Zhēnjūn",
         "type": "Person",
@@ -32624,14 +32648,6 @@
         "file": 1339
     },
     {
-        "en": "Blazing Fire Divine Ability Immortal Blood",
-        "cn": "灴火神通仙血",
-        "pinyin": "Hōnghuǒ Shéntōng Xiānxuè",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 1339
-    },
-    {
         "en": "Supreme Feathered Robe",
         "cn": "无上羽衣",
         "pinyin": "Wúshàng Yǔyī",
@@ -32877,14 +32893,6 @@
         "pinyin": "Jìnghǎi Dàshèng",
         "type": "Person",
         "gender": "Male",
-        "file": 0
-    },
-    {
-        "en": "Overlooking Gaze Perceiving the Profound",
-        "cn": "临观见玄",
-        "pinyin": "Lín guān jiàn xuán",
-        "type": "Group",
-        "gender": null,
         "file": 0
     },
     {
@@ -33166,5 +33174,509 @@
         "type": "Person",
         "gender": "Male",
         "file": 1352
+    },
+    {
+        "en": "Wu Qingyan",
+        "cn": "吴青岩",
+        "pinyin": "Wú Qīngyán",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1354
+    },
+    {
+        "en": "Right Seat Profound Stratagem All-Hearing Dharma Aspect",
+        "cn": "右座玄机有闻法相",
+        "pinyin": "Yòu zuò xuánjī yǒu wén fǎxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Golden Body Thunder Sound Flawless Dharma Idol",
+        "cn": "金躯雷音无漏法相",
+        "pinyin": "Jīn qū léi yīn wú lòu fǎxiàng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wu Profound Heaven",
+        "cn": "戊玄天",
+        "pinyin": "Wù Xuán Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Dams Goat",
+        "cn": "堰羊",
+        "pinyin": "Yànyáng",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wandering",
+        "cn": "逍遥",
+        "pinyin": "Xiāoyáo",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Azure Revolution",
+        "cn": "青革",
+        "pinyin": "Qīnggé",
+        "type": "Group",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Qinghuan",
+        "cn": "清寰",
+        "pinyin": "Qīnghuán",
+        "type": "Place",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Dao Court Emissary",
+        "cn": "道庭揖缀使",
+        "pinyin": "Dàotíng Yīzhuìshǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Wandering Metal",
+        "cn": "逍遥金",
+        "pinyin": "Xiāoyáo Jīn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1354
+    },
+    {
+        "en": "Resplendent Monarch",
+        "cn": "璀君",
+        "pinyin": "Cuǐjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1354
+    },
+    {
+        "en": "Resplendent Monarch Zhenxuan",
+        "cn": "真玄璀君",
+        "pinyin": "Zhēnxuán Cuǐjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1354
+    },
+    {
+        "en": "Zhenxuan",
+        "cn": "真玄",
+        "pinyin": "Zhēnxuán",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1354
+    },
+    {
+        "en": "Jiankan Yishui",
+        "cn": "建阚沂水",
+        "pinyin": "Jiànkàn Yíshuǐ",
+        "type": "Place",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Qiu E",
+        "cn": "裘峨",
+        "pinyin": "Qiú É",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1355
+    },
+    {
+        "en": "Qiu clan",
+        "cn": "裘氏",
+        "pinyin": "Qiú Shì",
+        "type": "Group",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "True Cinnabar Edict Profound Art",
+        "cn": "敕真朱砂玄法",
+        "pinyin": "Chì Zhēn Zhūshā Xuánfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Tiger's Frontier Shamanic Profound Register",
+        "cn": "虎夷巫玄谱",
+        "pinyin": "Hǔ Yí Wū Xuán Pǔ",
+        "type": "Item",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Profound Scripture Purple Register",
+        "cn": "玄书紫箓",
+        "pinyin": "Xuán Shū Zǐ Lù",
+        "type": "Item",
+        "gender": null,
+        "file": 1355
+    },
+    {
+        "en": "Six Palaces of the Numinous Treasure Order",
+        "cn": "灵宝道轨六宫",
+        "pinyin": "Língbǎo Dàoguǐ Liù Gōng",
+        "type": "Group",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Zunxian",
+        "cn": "尊宪",
+        "pinyin": "Zūnxiàn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Daoist Master Zunxian",
+        "cn": "尊宪真人",
+        "pinyin": "Zūnxiàn Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Supreme Marvel of the Vast Beyond's Flying Monarch",
+        "cn": "上妙翃外飞君",
+        "pinyin": "Shàngmiào Hóngwài Fēijūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Yu Feiqing",
+        "cn": "于飞箐",
+        "pinyin": "Yú Fēiqìng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Li Hengqing",
+        "cn": "李恒清",
+        "pinyin": "Lǐ Héngqīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1357
+    },
+    {
+        "en": "Soaring-Beyond",
+        "cn": "翃外",
+        "pinyin": "Hóngwài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Flying Monarch",
+        "cn": "飞君",
+        "pinyin": "Fēijūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Wandering Monarch",
+        "cn": "羌君",
+        "pinyin": "Qiāngjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Meritorious Monarch",
+        "cn": "功君",
+        "pinyin": "Gōngjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Jeweled Coffin Spring Stone",
+        "cn": "宝椁春石",
+        "pinyin": "Bǎo Guǒ Chūn Shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "United Eaves Pavilion",
+        "cn": "一檐阁",
+        "pinyin": "Yī Yán Gé",
+        "type": "Place",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Zhaoyuan Immortal of Solemn Brilliance of the Bright Yang",
+        "cn": "昭元合明司肃仙明阳",
+        "pinyin": "Zhāoyuán Hémíng Sīsù Xiān Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "High Radiance Minister of Profound Brilliance of the Bright Yang",
+        "cn": "上曜煌明玄極臣明阳",
+        "pinyin": "Shàngyào Huángmíng Xuánjí Chén Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Bright Yang's Emperor of Brilliant Splendor, the Heavenly God Who Governs the Ages",
+        "cn": "明华天神御世帝明阳",
+        "pinyin": "Mínghuá Tiānshén Yùshì Dì Míngyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1357
+    },
+    {
+        "en": "Blazing Aridity True Monarch",
+        "cn": "布燥真君",
+        "pinyin": "Bùzào Zhēnjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1358
+    },
+    {
+        "en": "ghost-deity",
+        "cn": "鬼神",
+        "pinyin": "guǐshén",
+        "type": "Creature",
+        "gender": null,
+        "file": 1358
+    },
+    {
+        "en": "Vast Plateau",
+        "cn": "广塬",
+        "pinyin": "Guǎng Yuán",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Monarch",
+        "cn": "帝明阳",
+        "pinyin": "Dì Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Minister",
+        "cn": "臣明阳",
+        "pinyin": "Chén Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
+    },
+    {
+        "en": "Bright Yang Immortal",
+        "cn": "仙明阳",
+        "pinyin": "Xiān Míngyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1358
+    },
+    {
+        "en": "Jia Ding",
+        "cn": "甲鼎",
+        "pinyin": "Jiǎ Dǐng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Shen Guang",
+        "cn": "审广",
+        "pinyin": "Shěn Guǎng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Du Bing",
+        "cn": "渎禀",
+        "pinyin": "Dú Bǐng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Xie",
+        "cn": "邪",
+        "pinyin": "Xié",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Qishen",
+        "cn": "栖身",
+        "pinyin": "Qīshēn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Hong",
+        "cn": "鸿",
+        "pinyin": "Hóng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Zaishi",
+        "cn": "在室",
+        "pinyin": "Zàishì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Tianye",
+        "cn": "填业",
+        "pinyin": "Tiányè",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Gyaring Lake",
+        "cn": "扎陵",
+        "pinyin": "Zhālíng",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Ngoring Lake",
+        "cn": "鄂陵",
+        "pinyin": "Èlíng",
+        "type": "Place",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Wei Buyi",
+        "cn": "卫不意",
+        "pinyin": "Wèi Bùyì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Ce Jin",
+        "cn": "策晋",
+        "pinyin": "Cè Jìn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 0
+    },
+    {
+        "en": "Dongfang",
+        "cn": "东方",
+        "pinyin": "Dōngfāng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Bud of Perpetual Spring",
+        "cn": "未夭春芽",
+        "pinyin": "Wèi Yāo Chūn Yá",
+        "type": "Item",
+        "gender": null,
+        "file": 1359
+    },
+    {
+        "en": "True Monarch of Luminous Passage, Active Derivation, and Transcendent Cultivation",
+        "cn": "通明行衍修越真君",
+        "pinyin": "Tōngmíng Xíngyǎn Xiūyuè Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Profound Monarch of the Serene Two Principles",
+        "cn": "清静二仪玄君",
+        "pinyin": "Qīngjìng Èryí Xuánjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Grand Culmination of Profound Virtue",
+        "cn": "玄德大罗",
+        "pinyin": "Xuándé Dàluó",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "True Monarch of the Dui Palace, of Killing and Reaping in the Corner",
+        "cn": "兑宫杀收在隅真君",
+        "pinyin": "Duìgōng Shāshōu Zàiyú Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Dui Palace",
+        "cn": "兑宫",
+        "pinyin": "Duìgōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Water and Fire Golden Lotus Painting",
+        "cn": "水火金莲图",
+        "pinyin": "Shuǐhuǒ Jīnlián Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Painting of Slaying Demons",
+        "cn": "荡杀妖魔图",
+        "pinyin": "Dàngshā Yāomó Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "Yin-Yang Harmony and Transformation Painting",
+        "cn": "阴阳谐变图",
+        "pinyin": "Yīnyáng Xiébiàn Tú",
+        "type": "Item",
+        "gender": null,
+        "file": 1360
+    },
+    {
+        "en": "true essence",
+        "cn": "真元",
+        "pinyin": "zhēnyuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1360
     }
 ]

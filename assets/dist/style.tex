@@ -31,19 +31,17 @@
 
 % --- FONTS ---
 \usepackage{fontspec}
-\setmainfont{Bookerly.ttf}[
-  Extension      = .ttf,
-  UprightFont    = *,
-  BoldFont       = Bookerly Bold,
-  ItalicFont     = Bookerly LCD Italic,
-  BoldItalicFont = Bookerly Bold Italic,
-  % --- Enable OpenType features ---
+\setmainfont{Bookerly}[
+  Path           = assets/dist/,           % Force looking in the current folder
+  Extension      = .ttf,                   % Automatically add .ttf to names below
+  UprightFont    = Bookerly,               % Looks for "Bookerly.ttf"
+  BoldFont       = {Bookerly-Bold},        % Looks for "Bookerly Bold.ttf"
+  ItalicFont     = {Bookerly-LCD-Italic},  % Looks for "Bookerly LCD Italic.ttf"
+  BoldItalicFont = {Bookerly-Bold-Italic}, % Looks for "Bookerly Bold Italic.ttf"
+  % --- Features ---
   Ligatures      = {Common, TeX},
   Numbers        = {OldStyle},
-  Kerning        = On,
-  % --- Lighter weights ---
-  FontFace       = {l}{n}{Font = {Bookerly Light}},
-  FontFace       = {l}{it}{Font = {Bookerly Light Italic}}
+  Kerning        = On
 ]
 
 % --- TYPOGRAPHIC REFINEMENTS ---
